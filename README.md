@@ -1,5 +1,7 @@
 ![logo 3](https://user-images.githubusercontent.com/18194034/33744491-3f113ebe-db66-11e7-9da6-ab43eef31b49.PNG)
 
+
+
 # Democracy Earth Foundation Ambassadors Program
 
 **Welcome to Democracy Earth's Ambassador Program!** We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
