@@ -1,7 +1,7 @@
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
-# Welcome to Democracy Earth's Ambassador Program!
+# Welcome to Democracy Earth's Ambassadors Program!
 
 We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
 
@@ -12,11 +12,12 @@ We will give you resources to help you carry the message and implement our work:
 As an ambassador of Democracy.Earth you will represent the Democracy Earth Foundation vision of a borderless, post-nation state world, its mission to put the tools of liquid democracy in the hands of every self-sovereign global citizen of the world, and our values of being open source, transparent, accountable, and decentralized. This is a guideline we have put together with all the information you need to get started!
 
 
-STEP 1 - REGISTER:
+**STEP 1 - REGISTER:**
 
-Fill in the application. 
-Sign the Democracy Earth Terms & Conditions for spreading information.
-Familiarize yourself with DEF materials.
-Join our #ambassadors channel on Slack, and search for channels corresponding to your country our community (i.e: #brasil, or #habla_español
-Follow our Twitter, Facebook, Youtube and sign up for our newsletter to keep updated with our work! 
+* Fill in the application. 
+* Sign the Democracy Earth Terms & Conditions for spreading information.
+* Familiarize yourself with DEF materials.
+* Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
+* Join our #ambassadors channel on [Slack](http://chat.democracy.earth/), and search for channels corresponding to your country our community (i.e: #brasil, or #habla_español
+* Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
 
