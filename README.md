@@ -30,12 +30,13 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 * Familiarize yourself with DEF materials.
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
 * Share your vision with us! What is your inspiration, and what would you like to accomplish with DEF? You can do this in one of several ways: 
-1. Send us a < 3 minute video to hello@democracy.earth .
-2. Send us a written email hello@democracy.earth .
+     1. Send us a < 3 minute video to hello@democracy.earth 
+     2. Send us an email hello@democracy.earth 
 
-All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title. Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. Make sure to check the [amazing work that our first Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
+All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title. Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. Make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
+
 
 **STEP 2 - Getting Started as a DEF Ambassador:**
 
