@@ -5,11 +5,13 @@
 
 [## Step 1 Apply to begin](#Step-1)
 
-[## Step 2 Activate programs](Step-2)
+[## Step 2 Activate some programs](Step-2)
 
-                    ## Step 3 Build community
-                    ## Step 4 Spread the word
-                    ## Step 5 Share your stories
+[## Step 3 Build your community](Step-3)
+
+[## Step 4 Spread the word](Step-4)
+
+[## Step 5 Share your stories](Step-5)
 
 ## A message from Santiago Siri & the DEF Team
 
@@ -55,6 +57,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Join our [#ambassadors channel](https://democracyearth.slack.com/messages/ambassadors/) on [Slack](http://chat.democracy.earth/). We will be communicating with all of our Ambassadors through that channel, and in adittion this will be a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
 * Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
 
+<a name="Step-3"></a>
 **STEP 3 - Start a community:** 
 
 * Create a Facebook group in your native language.
@@ -66,6 +69,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Connect to the [Democracy Earth Foundation Facebook Page](https://www.facebook.com/DemocracyEarth/)
 * Like, share and comment on DEF page content in your group feed - get the debate started!😊 
 
+<a name="Step-4"></a>
 **STEP 4 - Get the word out:**
 
 * Visit related democracy/blockchain/ect meet-ups as a visitor and spread information
@@ -73,6 +77,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Write a guest post about your activities for the [DEF Medium publication “Hacktivism”](https://words.democracy.earth/).
 * Create education materials to spread understanding of the concepts of liquid democracy, decentralization, and crypto politics to your local community
 
+<a name="Step-5"></a>
 **STEP 5 - Share your experience and help us amplify your voice!**
 
 * Send us a Google Calendar invite to hello@democracy.earth with informations about the events, so that we can keep track and post them on our social media to invite our followers from your area!
