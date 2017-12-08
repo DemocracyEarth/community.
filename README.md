@@ -31,7 +31,7 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
 * Share your vision with us! What is your inspiration, and what would you like to accomplish with DEF? You can do this in one of several ways: 
 1. Send us a < 3 minute video to hello@democracy.earth .
-2. Send us written email hello@democracy.earth .
+2. Send us a written email hello@democracy.earth .
 
 All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title. Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊.
 
@@ -42,7 +42,7 @@ All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a t
 Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
 * Create a Github account so we can share with you materials that you can use for presentations! 😊 
-* Join our #ambassadors channel on [Slack](http://chat.democracy.earth/). This is a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to search for channels corresponding to your country or community (i.e: #brasil, or #habla_español). 
+* Join our [#ambassadors channel](https://democracyearth.slack.com/messages/ambassadors/) on [Slack](http://chat.democracy.earth/). We will be communicating with all of our Ambassadors through that channel, and in adittion this will be a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find ore people with similar interests in your area! 
 * Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
 
 **STEP 3 - Start a community:** 
