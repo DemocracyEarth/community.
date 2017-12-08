@@ -64,7 +64,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 **STEP 5 - Share your experience and help us amplify your voice!**
 
 * Send us a Google Calendar invite to hello@democracy.earth with informations about the events, so that we can keep track and post them on our social media to invite our followers from your area!
-* Share your Learnings, Advice & Experience here on Github so that other Ambassadors can access it as well!
+* Share your [Learnings, Advice & Experience](https://github.com/DemocracyEarth/ambassadors/blob/master/Learning_advice_%26_experiences) here on Github so that other Ambassadors can access it as well!
 
 
 
