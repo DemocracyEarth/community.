@@ -1,7 +1,13 @@
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
-# Welcome to Democracy Earth's Ambassadors Program!
+# Welcome to the Democracy Eart Ambassadors Program!
+
+[                   ## Step 1 Apply to begin](#Step-1)
+                    ## Step 2 Activate programs
+                    ## Step 3 Build community
+                    ## Step 4 Spread the word
+                    ## Step 5 Share your stories
 
 ## A message from Santiago Siri & the DEF Team
 
@@ -22,6 +28,7 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 
 # Program Overview
 
+<a name="Step-1"></a>
 **STEP 1 - Apply:**
 
 * Fill in the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
