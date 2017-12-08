@@ -15,8 +15,10 @@ To do so:
 
 4. The point of contact should be an Ambassador, Democracy Earth core team member, and/or the organizer of the event.
 
-5. Publish the Code of Conduct and Anti-Harassment Policy on your Ambassador website, Meetup page, GitHub account, Google Group, and any other forum for your Ambassador activities.
+5. Publish the Code of Conduct and Anti-Harassment Policy on your Ambassador website, Meetup page, GitHub account, Facebook Group, and any other forum for your Ambassador activities.
 
 6. Publish the Code of Conduct and Anti-Harassment Policy on the registration page for all Democracy Earth Foundation events you hold as an Ambassador, including weekly/monthly meetups.
 
-7. Explicitly, proactively reference the Code of Conduct and Anti-Harassment Policy in emails to your community members and event attendees.  For example: “Democracy Earth Singapore presenters and participants are held to an anti-harassment policy, which you can find at In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md">see this guide</a>.”
+7. Explicitly, proactively reference the Code of Conduct and Anti-Harassment Policy in emails to your community members and event attendees.  For example: “Democracy Earth Singapore presenters and participants are held to an anti-harassment policy, which you can find at 
+
+8. In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md">see this guide</a>.”
