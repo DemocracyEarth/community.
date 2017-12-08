@@ -9,15 +9,30 @@ As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.
 
 We will give you resources to help you carry the message and implement our work: videos and slides so you can make presentations in all kinds of events, in the name of Democracy Earth, and also technical information of how to implement sovereign in a local server so your local groups can start using it! You can find all of our source code [here on Github](https://github.com/DemocracyEarth/sovereign), and engage with us - both on [Github's issues](https://github.com/DemocracyEarth/paper/issues) and [Slack](http://chat.democracy.earth/) - discussing our paper, [The Social Smart Contract](https://github.com/DemocracyEarth/paper), where we are debating liquid democracy with collaborators from all over the world! We have also created a channel on Slack called #ambassadors, where you will be able to connect with all the Ambassadors, share and learn from each other experiences!
 
-As an ambassador of Democracy.Earth you will represent the Democracy Earth Foundation vision of a borderless, post-nation state world, its mission to put the tools of liquid democracy in the hands of every self-sovereign global citizen of the world, and our values of being open source, transparent, accountable, and decentralized. This is a guideline we have put together with all the information you need to get started!
+As an ambassador of Democracy.Earth you will represent the Democracy Earth Foundation vision of a borderless, post-nation state world, its mission to put the tools of liquid democracy in the hands of every self-sovereign global citizen of the world, and our values of being open source, transparent, accountable, and decentralized. **This is a guideline we have put together with all the information you need to get started!**
 
 
-**STEP 1 - REGISTER:**
+# Program Overview
 
-* Fill in the application. 
+**STEP 1 - APPLY:**
+
+* Fill in the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
 * Sign the Democracy Earth Terms & Conditions for spreading information.
+* Read the DEF Terms & Conditions for representing DEF/spreading information.
 * Familiarize yourself with DEF materials.
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
+
+
+After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
+
+**STEP 2 - ONBOARD:**
+
 * Join our #ambassadors channel on [Slack](http://chat.democracy.earth/), and search for channels corresponding to your country our community (i.e: #brasil, or #habla_español
 * Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
+
+Share your vision with us! What is your inspiration, what would you like to accomplish  with DEF?  You can do this in one of several ways: 
+Send us a < 3 minute video
+Send us an email hello@ Democracy.Earth
+Be sure to include your name, where you live (city, country) and why you are inspired to be a DEF Ambassador
+
 
