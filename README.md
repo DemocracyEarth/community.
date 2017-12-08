@@ -3,7 +3,7 @@
 
 # Welcome to Democracy Earth's Ambassadors Program!
 
-## A message from Santiago Siri
+## A message from Santiago Siri & the DEF Team
 
 We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
 
