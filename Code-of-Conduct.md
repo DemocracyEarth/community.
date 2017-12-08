@@ -7,15 +7,17 @@ This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/w
 
 All Democracy Earth Foundation network activities, events (whether sponsored by DEF or a partner orgnaization), and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-**In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/document/d/1bZIkQL2zqLdxFxm4EvCXWthq8-ua5dxk6LrRQhKoAjE/edit#">see this guide</a>.**
+**In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our resources - whether through DEF brand identity, funding or other means - to  groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/document/d/1bZIkQL2zqLdxFxm4EvCXWthq8-ua5dxk6LrRQhKoAjE/edit#">see this guide</a>.**
 
+
+## Our Pledge
 Democracy Earth Foundation is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Democracy Earth event or network activity, including talks, email communications and social messaging. Anyone in violation of these policies may be expelled from Democracy Earth Ambassador network activities, events, and digital forums, at the discretion of a DEF core team member.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from all Democracy Earth Foundaton and Ambassador Program network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please take the following steps: 
+**If you are being harassed, notice that someone else is being harassed, or have any other concerns, please take the following steps:** 
 
 1. contact a member of the Democracy Earth Foundation core team immediately to report your concern
 2. document your concerns in full in an email to Paula Berman (Paula@Democracy.Earth) 
