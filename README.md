@@ -33,7 +33,7 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 1. Send us a < 3 minute video to hello@democracy.earth .
 2. Send us a written email hello@democracy.earth .
 
-All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title. Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊.
+All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title. Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. Make sure to check the [amazing work that our first Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
