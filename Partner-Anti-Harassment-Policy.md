@@ -7,7 +7,8 @@ We expect that any DEF Ambassador, community member or partner using the Democra
 
 To do so:
 
-1. Fork the Code of Conduct and Anti-Harassment Policy at (github link here) 
+1. Fork the Code of Conduct and Anti-Harassment Policy <a href="https://docs.google.com/document/d/1bZIkQL2zqLdxFxm4EvCXWthq8-ua5dxk6LrRQhKoAjE/edit#">see this guide</a>.
+here.
 
 2. Update the Code of Conduct and Anti-Harassment Policy with relevant contact information for your group. 
 
