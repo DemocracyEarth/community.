@@ -42,7 +42,9 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 **STEP 3 - Start a community:** 
 
 * Create a Facebook group in your native language.
+
 <img width="342" alt="screen shot 2017-12-07 at 16 57 04" src="https://user-images.githubusercontent.com/18194034/33746100-c2d57ac2-db6f-11e7-9af9-3b0654917972.png">
+
 * Translate (if needed) and share the DEF Ambassador program welcome/mission announcement from Santiago Siri with your group.
 * Invite members of your network to the group.
 * Connect to the [Democracy Earth Foundation Facebook Page](https://www.facebook.com/DemocracyEarth/)
