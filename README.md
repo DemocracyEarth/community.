@@ -61,6 +61,11 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Write a guest post about your activities for the [DEF Medium publication “Hacktivism”](https://words.democracy.earth/).
 * Create education materials to spread understanding of the concepts of liquid democracy, decentralization, and crypto politics to your local community
 
+**STEP 5 - Share your experience and help us amplify your voice!**
+
+* Send us a Google Calendar invite to hello@democracy.earth with informations about the events, so that we can keep track and post them on our social media to invite our followers from your area!
+* Share your Learnings, Advice & Experience here on Github so that other Ambassadors can access it as well!
+
 
 
 
