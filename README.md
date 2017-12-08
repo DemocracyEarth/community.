@@ -19,8 +19,8 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 **STEP 1 - Apply:**
 
 * Fill in the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
-* Sign the Democracy Earth Terms & Conditions for spreading information.
-* Read the DEF Code of Conduct & Anti-Harassment Policy. 
+* Read the [Democracy Earth Terms & Conditions for spreading information](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md).
+* Read the DEF [Code of Conduct](https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md) & [Anti-Harassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Partner-Anti-Harassment-Policy.md). 
 * Familiarize yourself with DEF materials.
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
 * Share your vision with us! What is your inspiration, and what would you like to accomplish with DEF? You can do this in one of several ways: 
