@@ -14,25 +14,26 @@ As an ambassador of Democracy.Earth you will represent the Democracy Earth Found
 
 # Program Overview
 
-**STEP 1 - APPLY:**
+**STEP 1 - Apply:**
 
 * Fill in the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
 * Sign the Democracy Earth Terms & Conditions for spreading information.
 * Read the DEF Terms & Conditions for representing DEF/spreading information.
 * Familiarize yourself with DEF materials.
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
+* Share your vision with us! What is your inspiration, what would you like to accomplish with DEF? You can do this in one of several ways: 
+1. Send us a < 3 minute video to hello@democracy.earth
+2. Send us written email hello@democracy.earth
 
+All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a title Be sure to include your name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊.
 
-After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
+👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
-**STEP 2 - ONBOARD:**
+**STEP 2 - Getting Started as a DEF Ambassador:**
 
 * Join our #ambassadors channel on [Slack](http://chat.democracy.earth/), and search for channels corresponding to your country our community (i.e: #brasil, or #habla_español
 * Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
 
-Share your vision with us! What is your inspiration, what would you like to accomplish  with DEF?  You can do this in one of several ways: 
-Send us a < 3 minute video
-Send us an email hello@ Democracy.Earth
-Be sure to include your name, where you live (city, country) and why you are inspired to be a DEF Ambassador
+
 
 
