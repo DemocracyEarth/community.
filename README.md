@@ -1,5 +1,5 @@
-![logo 3](https://user-images.githubusercontent.com/18194034/33744491-3f113ebe-db66-11e7-9da6-ab43eef31b49.PNG)
-
+[(<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
+)](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
 
 # Democracy Earth Foundation Ambassadors Program
