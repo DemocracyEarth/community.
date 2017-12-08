@@ -7,7 +7,7 @@ This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/w
 
 All Democracy Earth Foundation network activities, events (whether sponsored by DEF or a partner orgnaization), and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/document/d/1bZIkQL2zqLdxFxm4EvCXWthq8-ua5dxk6LrRQhKoAjE/edit#">see this guide</a>.
+**In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/document/d/1bZIkQL2zqLdxFxm4EvCXWthq8-ua5dxk6LrRQhKoAjE/edit#">see this guide</a>.**
 
 Democracy Earth Foundation is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Democracy Earth event or network activity, including talks, email communications and social messaging. Anyone in violation of these policies may be expelled from Democracy Earth Ambassador network activities, events, and digital forums, at the discretion of a DEF core team member.
 
