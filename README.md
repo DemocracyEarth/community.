@@ -33,15 +33,28 @@ All e-mails should have: "I want to be an Ambassador for Democracy Earth" as a t
 
 **STEP 2 - Getting Started as a DEF Ambassador:**
 
-Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take: 
+Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
+* Create a Github account so we can share with you materials that you can use for presentations! 😊 
 * Join our #ambassadors channel on [Slack](http://chat.democracy.earth/). This is a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to search for channels corresponding to your country or community (i.e: #brasil, or #habla_español). 
 * Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
 
 **STEP 3 - Get the word out & Start a community:** 
 
-*Create a Facebook group in your native language
+* Create a Facebook group in your native language.
 <img width="342" alt="screen shot 2017-12-07 at 16 57 04" src="https://user-images.githubusercontent.com/18194034/33746100-c2d57ac2-db6f-11e7-9af9-3b0654917972.png">
+* Translate (if needed) and share the DEF Ambassador program welcome/mission announcement from Santiago Siri with your group.
+* Invite members of your network to the group.
+* Connect to the [Democracy Earth Foundation Facebook Page](https://www.facebook.com/DemocracyEarth/)
+* Like, share and comment on DEF page content in your group feed - get the debate started!😊 
+
+* **Become a community voice:**
+
+* Visit related democracy/blockchain/ect meet-ups as a visitor and spread information
+* Reach out to local populations (activists, students, cooperatives) that will benefit from the Sovereign governance platform
+* Write a guest post about your activities for the [DEF Medium publication “Hacktivism”](https://words.democracy.earth/).
+* Create education materials to spread understanding of the concepts of liquid democracy, decentralization, and crypto politics to your local community
+
 
 
 
