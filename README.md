@@ -3,7 +3,7 @@
 
 # Welcome to the Democracy Earth Ambassadors Program!
 
-[## Step 1 Apply to begin](#Step-1)
+## [Step 1 Apply to begin](#Step-1)
 
 [## Step 2 Activate some programs](Step-2)
 
