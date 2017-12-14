@@ -16,7 +16,7 @@
 
 ## A message from Santiago Siri & the DEF Team
 
-We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
+**Hello future Ambassador!** We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
 
 As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your home town, and find others that can do so as well. We need Ambassadors in every city, and in every country! We want you to help us start Democracy Earth meetups in your local city, so we can bring the community and kick start the debate about what kind of democracy do we want in the internet age! 
 
