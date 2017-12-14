@@ -11,7 +11,7 @@
 
 👉 [**STEP 4:** Spread the word.](Step-4)
 
-👉 [**STEP 5:** Share your stories.](Step-5)
+👉 [**STEP 5:** Share your experience and build Democracy Earth with us!](Step-5)
 
 
 ## A message from Santiago Siri & the DEF Team
