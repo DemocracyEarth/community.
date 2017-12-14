@@ -5,13 +5,14 @@
 
 ## [Step 1 Apply to begin](#Step-1)
 
-[## Step 2 Activate some programs](Step-2)
+## [Step 2 Activate some programs](Step-2)
 
-[## Step 3 Build your community](Step-3)
+## [Step 3 Build your community](Step-3)
 
-[## Step 4 Spread the word](Step-4)
+## [Step 4 Spread the word](Step-4)
 
-[## Step 5 Share your stories](Step-5)
+## [Step 5 Share your stories](Step-5)
+
 
 ## A message from Santiago Siri & the DEF Team
 
