@@ -3,11 +3,11 @@
 
 # Welcome to the Democracy Earth Ambassadors Program!
 
-[STEP 1 Apply to begin](#Step-1)
+[STEP 1 Apply](#Step-1)
 
-[STEP 2 Activate some programs](Step-2)
+[STEP 2 Connect with DEF's channels ](Step-2)
 
-[STEP 3 Build your community](Step-3)
+[STEP 3 Start a community](Step-3)
 
 [STEP 4 Spread the word](Step-4)
 
@@ -50,7 +50,7 @@ All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
 <a name="Step-2"></a>
-**STEP 2 - Getting Started as a DEF Ambassador:**
+**STEP 2 - Connect with DEF's channels:**
 
 Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
