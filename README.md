@@ -3,15 +3,15 @@
 
 # Welcome to the Democracy Earth Ambassadors Program!
 
-## [Step 1 Apply to begin](#Step-1)
+[STEP 1 Apply to begin](#Step-1)
 
-## [Step 2 Activate some programs](Step-2)
+[STEP 2 Activate some programs](Step-2)
 
-## [Step 3 Build your community](Step-3)
+[STEP 3 Build your community](Step-3)
 
-## [Step 4 Spread the word](Step-4)
+[STEP 4 Spread the word](Step-4)
 
-## [Step 5 Share your stories](Step-5)
+[STEP 5 Share your stories](Step-5)
 
 
 ## A message from Santiago Siri & the DEF Team
