@@ -37,7 +37,7 @@ As an ambassador of Democracy Earth you will represent the Democracy Earth Found
 # Program Overview
 
 <a name="Step-1"></a>
-**STEP 1 - Apply:**
+## **STEP 1 - Apply:**
 
 * Read the [Democracy Earth Terms & Conditions for spreading information](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md) and Sign the [Image Release Form](https://goo.gl/forms/ShXvSMYinQTT4DXA3). 
 * Read the Democracy Earth [Code of Conduct](https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md) & [Partner Anti-Harassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Partner-Anti-Harassment-Policy.md). 
@@ -53,7 +53,7 @@ All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
 <a name="Step-2"></a>
-**STEP 2 - Connect with Democracy Earth community channels:**
+## **STEP 2 - Connect with Democracy Earth community channels:**
 
 Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
@@ -63,7 +63,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Like and Follow the Democracy Earth [Facebook Page](https://www.facebook.com/DemocracyEarth/)
 
 <a name="Step-3"></a>
-**STEP 3 - Start a community:** 
+## **STEP 3 - Start a community:** 
 
 * Create a Facebook group in your native language.
 
@@ -75,7 +75,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Like, share and comment on DEF page content in your group feed - get the debate started!😊 
 
 <a name="Step-4"></a>
-**STEP 4 - Get the word out:**
+## **STEP 4 - Get the word out:**
 
 * Visit related democracy/blockchain/civic tech meet-ups as a visitor and spread information.
 * Reach out to local populations (activists, students, cooperatives) that will benefit from the Sovereign governance platform.
@@ -83,7 +83,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Create education materials in your language to spread understanding of the concepts of liquid democracy, decentralization, and crypto politics to your local community.
 
 <a name="Step-5"></a>
-**STEP 5 - Share your experience and help us amplify your voice!**
+## **STEP 5 - Share your experience and help us amplify your voice!**
 
 * Send us a Google Calendar invite to hello@democracy.earth with informations about the events you create or participate in, so that we can keep track and post them on our social media to invite our followers from your area to show up!
 * Share your [Learnings, Advice & Experience](https://github.com/DemocracyEarth/ambassadors/blob/master/Learning_advice_%26_experiences) here on Github so that other Ambassadors can access it as well!
