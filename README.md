@@ -37,7 +37,7 @@ As an ambassador of Democracy Earth you will represent the Democracy Earth Found
 # Program Overview
 
 <a name="Step-1"></a>
-## **STEP 1 - Apply:**
+## **STEP 1 - Apply**
 
 * Read the [Democracy Earth Terms & Conditions for spreading information](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md) and Sign the [Image Release Form](https://goo.gl/forms/ShXvSMYinQTT4DXA3). 
 * Read the Democracy Earth [Code of Conduct](https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md) & [Partner Anti-Harassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Partner-Anti-Harassment-Policy.md). 
@@ -53,7 +53,7 @@ All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
 <a name="Step-2"></a>
-## **STEP 2 - Connect with Democracy Earth community channels:**
+## **STEP 2 - Connect with Democracy Earth community channels**
 
 Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
