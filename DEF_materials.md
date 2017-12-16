@@ -27,24 +27,6 @@ Check out these materials to learn about Democracy Earth's history, public messa
 [Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
 
 
-## **WHAT WE SAY ABOUT OURSELVES**
-
-Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
-
-- [The story behing DEF and the team](https://words.democracy.earth/blockchain-liquid-democracy-and-the-end-of-the-outsider-a171a0e11816)
-
-- [The Colombian Referendum pilot](https://words.democracy.earth/a-digital-referendum-for-colombias-diaspora-aeef071ec014)
-
-- [Facebook & Digital Sovereignty](https://words.democracy.earth/facebook-digital-sovereignty-70697e47f50b)
-
-- [Follow the bitcoin & Wikileaks](https://words.democracy.earth/follow-the-bitcoin-wikileaks-f2218dece347)
-
-- [Organizing your right to gather and ability to petition on the blockchain](https://words.democracy.earth/organizing-your-right-to-gather-ability-to-petition-on-the-blockchain-c5412db5a008)
-
-- [Surveillance in the 21st century: the gathering storm](https://words.democracy.earth/the-gathering-storm-eb0c6bbf3886)
-
-- [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
-
 ## **WHAT OTHERS SAY ABOUT US**
 
 - **Fast Forward** [Democracy Earth: Liquid Democracy for the Internet era](https://www.ffwd.org/blog/democracy-earth/)
@@ -66,3 +48,22 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - **Futurism** [A New Blockchain App Is Poised to Radically Change How People Vote](https://futurism.com/a-new-blockchain-app-is-poised-to-radically-change-how-people-vote/)
 
 - **Huffington Post** [Transforming the Social Sector: Bitcoin and Blockchain for Good](https://www.huffingtonpost.com/entry/transforming-the-social-sector-bitcoin-and-blockchain_us_59c169e3e4b0f96732cbc9c7)
+
+
+## **WHAT WE SAY ABOUT OUR WORK**
+
+Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
+
+- [The story behing DEF and the team](https://words.democracy.earth/blockchain-liquid-democracy-and-the-end-of-the-outsider-a171a0e11816)
+
+- [The Colombian Referendum pilot](https://words.democracy.earth/a-digital-referendum-for-colombias-diaspora-aeef071ec014)
+
+- [Facebook & Digital Sovereignty](https://words.democracy.earth/facebook-digital-sovereignty-70697e47f50b)
+
+- [Follow the bitcoin & Wikileaks](https://words.democracy.earth/follow-the-bitcoin-wikileaks-f2218dece347)
+
+- [Organizing your right to gather and ability to petition on the blockchain](https://words.democracy.earth/organizing-your-right-to-gather-ability-to-petition-on-the-blockchain-c5412db5a008)
+
+- [Surveillance in the 21st century: the gathering storm](https://words.democracy.earth/the-gathering-storm-eb0c6bbf3886)
+
+- [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
