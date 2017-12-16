@@ -2,7 +2,7 @@
 
 This file is where we will provide links to resources to help Ambassadors build presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
-Here are a couple materials we have put together so you can be familiar with our content! 
+Check out these materials to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. 
 
 
 ## **TALKS**
