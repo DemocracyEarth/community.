@@ -63,7 +63,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Like and Follow the Democracy Earth [Facebook Page](https://www.facebook.com/DemocracyEarth/)
 
 <a name="Step-3"></a>
-## **STEP 3 - Start a community:** 
+## **STEP 3 - Start a community** 
 
 * Create a Facebook group in your native language.
 
@@ -75,7 +75,7 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Like, share and comment on DEF page content in your group feed - get the debate started!😊 
 
 <a name="Step-4"></a>
-## **STEP 4 - Get the word out:**
+## **STEP 4 - Get the word out**
 
 * Visit related democracy/blockchain/civic tech meet-ups as a visitor and spread information.
 * Reach out to local populations (activists, students, cooperatives) that will benefit from the Sovereign governance platform.
