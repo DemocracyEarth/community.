@@ -1,10 +1,11 @@
-## **Hello Future Ambassador!**
+# **Hello Future Ambassador!**
 
 This file is where we will provide links to resources to help Ambassadors build presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
 Here are a couple materials we have put together so you can be familiar with our content! 
 
-# **TALKS**
+
+## **TALKS**
 
 [Santiago Siri World's Fair Nano - SanFrancisco:  The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs)
 
@@ -16,10 +17,17 @@ Here are a couple materials we have put together so you can be familiar with our
 
 [Sunny Sangha TEDx Talk: Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
-# **PODCASTS**
+
+## **PODCASTS**
+
+[Herb Stephens FutureTech Podcast: Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
+
+[Santiago Siri Tales From the Crypt Podcast: A Conversation with Santiago Siri](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
+
+[Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
 
 
-# **Media Profiles**
+## **MEDIA PROFILES**
 
 - **Fast Forward** [Democracy Earth: Liquid Democracy for the Internet era](https://www.ffwd.org/blog/democracy-earth/)
 
