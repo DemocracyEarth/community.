@@ -19,9 +19,9 @@ Here are a couple materials we have put together so you can be familiar with our
 # **PODCASTS**
 
 
+# **Media Profiles**
 
-- # **Media Profiles**
-**Fast Forward** [Democracy Earth: Liquid Democracy for the Internet era](https://www.ffwd.org/blog/democracy-earth/)
+- **Fast Forward** [Democracy Earth: Liquid Democracy for the Internet era](https://www.ffwd.org/blog/democracy-earth/)
 
 - **Forbes** [Nine Companies That Want To Revolutionize Voting Technology](https://www.forbes.com/sites/rebeccaheilweil1/2017/12/02/eight-companies-that-want-to-revolutionize-voting-technology/2/#377186466cf2)
 
