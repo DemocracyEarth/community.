@@ -16,7 +16,7 @@ The Democracy Earth community expects that Democracy Earth network activities, e
 
 6. Encourage members and participants to listen as much as they speak.
 
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
+7. Only build tools that are open and free technology for public use - open source.
 
 8. Prioritize access for and input from those who are traditionally excluded from the civic process.
 
