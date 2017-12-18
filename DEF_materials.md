@@ -18,6 +18,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 [Sunny Sangha TEDx Talk: Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
 
+
 ## **PODCASTS**
 
 [Herb Stephens FutureTech Podcast: Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
@@ -25,6 +26,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 [Santiago Siri Tales From the Crypt Podcast: A Conversation with Santiago Siri](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
 
 [Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
+
 
 
 ## **WHAT OTHERS SAY ABOUT US**
@@ -48,6 +50,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 - **Futurism** [A New Blockchain App Is Poised to Radically Change How People Vote](https://futurism.com/a-new-blockchain-app-is-poised-to-radically-change-how-people-vote/)
 
 - **Huffington Post** [Transforming the Social Sector: Bitcoin and Blockchain for Good](https://www.huffingtonpost.com/entry/transforming-the-social-sector-bitcoin-and-blockchain_us_59c169e3e4b0f96732cbc9c7)
+
 
 
 ## **WHAT WE SAY ABOUT OUR WORK**
