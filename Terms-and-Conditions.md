@@ -1,31 +1,16 @@
 # Democracy Earth Ambassador Program 
+
+Click here to check the Terms and Conditions form. 
+
 ## Terms and Conditions
 
 
-The Democracy Earth community expects that Democracy Earth network activities, events, and digital forums:
+As an Ambassador for Democracy Earth Foundation, you agree to:
 
-1. Are a safe and respectful environment for all participants.
+1. Respect our [Code of Conduct & Anti-Harassment policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md). 
 
-2. Are a place where people are free to fully express their identities.
+2. Allow Democracy Earth Foundation to utilize your image in connection to our activities, as expressed by the [Image Release Form](https://github.com/DemocracyEarth/ambassadors/blob/master/Image_release_form.md).
 
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
+3. Abide by the law of your corresponding jurisdiction.
 
-4. Don’t assume everyone has the same context, and encourage questions.
-
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-
-6. Encourage members and participants to listen as much as they speak.
-
-7. Only build tools that are open and free technology for public use - open source.
-
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups. 
-
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-
-12. Provide an environment where people are free from discrimination or harassment.
-
-Democracy Earth Foundation reserves the right to ask anyone in violation of these policies not to participate in Democracy Earth Foundation network activities, events, and digital forums.
+*If you disrespect any of the above, we reserve the right to exclude you from ou Ambassador's network and you may not continue to represent Democracy Earth Foundation.
