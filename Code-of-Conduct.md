@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-This Code of Conduct is based on [Code for America's](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) and have been added to by the Democracy Earth Foundation to serve our community's purpose. 
+This Code of Conduct is based on [Code for America's](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) Code of Conduct and have been adapted by the Democracy Earth Foundation to serve our community's purpose. 
 
 * * * 
 
