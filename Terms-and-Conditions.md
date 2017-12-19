@@ -13,4 +13,4 @@ As an Ambassador for Democracy Earth Foundation, you agree to:
 
 3. Abide by the law of your corresponding jurisdiction.
 
-*If you disrespect any of the above, we reserve the right to exclude you from ou Ambassador's network and you may not continue to represent Democracy Earth Foundation.
+*If you disrespect any of the above, we reserve the right to exclude you from our Ambassador's network and you may not continue to represent Democracy Earth Foundation.
