@@ -1,7 +1,6 @@
-## Democracy Earth Foundation
-# Partner Code of Conduct and Anti-Harassment Policy (Required)
+# Guidelines on providing an Anti-Harassment policy to your community
 
-All Democracy Earth Foundation events including staff, presenters, and attendees are held to a Code of Conduct and Anti-Harassment Policy.
+All Democracy Earth Foundation events including staff, presenters, and attendees are held to a [Code of Conduct and Anti-Harassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md).
 
 We expect that any DEF Ambassador, community member or partner using the Democracy Earth Foundation brand, resources and/or receiving funding from Democracy Earth Foundation offer a Code of Conduct and Anti-Harassment Policy to their members and event participants.
 
@@ -20,5 +19,3 @@ To do so:
 6. Publish the Code of Conduct and Anti-Harassment Policy on the registration page for all Democracy Earth Foundation events you hold as an Ambassador, including weekly/monthly meetups.
 
 7. Explicitly, proactively reference the Code of Conduct and Anti-Harassment Policy in emails to your community members and event attendees. For example: “Democracy Earth Singapore presenters and participants are held to an anti-harassment policy, which you can find at..." 
-
-8. In addition to governing our own events by this policy, Democracy Earth Foundation will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md">see this guide</a>.”
