@@ -60,10 +60,6 @@ If a participant engages in harassing behavior, the organizers may take any acti
 
 1. contact a member of the Democracy Earth Foundation core team immediately to report your concern
 2. document your concerns in full in an email to Paula Berman (Paula@Democracy.Earth) 
-3. in the case of a DEF sponsored event or forum we will be happy to help participants contact hotel/venue security or local law enforcement as needed, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
-4. if you cannot reach a DEF event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
-
-You can also contact DEF about harassment at hello@democracy.earth and feel free to use the email template below. 
 
 The Democracy Earth team acknowledges that we are not always in a position to evaluate a given situation due to the number of geographically dispered events and the fact that our team is not always present. However, it is our hope and intention in providing these guidelines to establish a community that adheres to DEF's core values and provides an environment that is welcoming and supportive to all.
 
@@ -80,4 +76,3 @@ I am writing because of harassment at a Democracy Earth Foundation community eve
 
 You can reach me at (CONTACT INFO). Thank you.
 
-*Inspired by [Code for America's](https://github.com/codeforamerica/codeofconduct) code of conduct.*
