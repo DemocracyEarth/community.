@@ -1,6 +1,6 @@
 # Democracy Earth Ambassador Program 
 
-[Click here](https://goo.gl/forms/KzB7I578TA7NImXu2) to check the Terms and Conditions form. 
+[Click here](https://goo.gl/forms/KzB7I578TA7NImXu2) to sign the Terms and Conditions form. 
 
 ## Terms and Conditions
 
