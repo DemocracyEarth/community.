@@ -39,16 +39,15 @@ As an ambassador of Democracy Earth you will represent the Democracy Earth Found
 <a name="Step-1"></a>
 ## **STEP 1 - Apply**
 
-* Sign the [Terms & Conditions for Democracy Earth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLSfhepWTHYBr7vBH3Df9bdGJbo6SUXumN2isyRqJkVKyW4xlAg/viewform?usp=sf_link) and  the [Image Release Form](https://goo.gl/forms/ShXvSMYinQTT4DXA3). 
-* Read the Democracy Earth [Code of Conduct](https://github.com/DemocracyEarth/ambassadors/blob/master/Code-of-Conduct.md) & [Partner Anti-Harassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Partner-Anti-Harassment-Policy.md). 
-* Familiarize yourself with [DEF materials.](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF_materials.md)
 * Read [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki).
+* Sign the [Terms & Conditions for Democracy Earth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLSfhepWTHYBr7vBH3Df9bdGJbo6SUXumN2isyRqJkVKyW4xlAg/viewform?usp=sf_link) and  the [Image Release Form](https://goo.gl/forms/ShXvSMYinQTT4DXA3). 
+* Read the Democracy Earth's Ambassadors [Code of Conduct & Anti-Harassment Policy ](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md) and the [Guidelines for providing a Code of Conduct & Anti-Harassment policy to your community](https://github.com/DemocracyEarth/ambassadors/blob/master/GUIDE_How_to_offer_CC&A-HP_to_your_community.md). 
+* Familiarize yourself with [DEF materials.](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF_materials.md)
 * Fill in the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
-* Share your vision with us! What is your inspiration, and what would you like to accomplish with DEF? You can do this in one of two ways: 
-     1. Send us a < 3 minute video - you can make a link to hello@democracy.earth (recommended).
-     2. Send us an email hello@democracy.earth 
+* Share your vision with us! Send us a < 3 minute video to hello@democracy.earth sharing what is your inspiration, and what would you like to accomplish with DEF? 
 
-All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as a title. Be sure to include your full name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. Make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
+
+All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as a title. Be sure to write a short bio including your full name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. We want to use those videos to show how our movement is growing globally, and they might go into the work of filmmakers wanting to document and promote Democracy Earth! For inspiration purposes, make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
 
