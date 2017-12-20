@@ -21,7 +21,7 @@
 
 **Hello future Ambassador!** We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
 
-As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your home town and start Democracy Earth meetups, so we can bring the community and kickstart the debate about what kind of democracy do we want in the internet age!
+As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community and kickstart the debate about what kind of democracy do we want in the internet age!
 
 Our platform [Sovereign](https://vote.democracy.earth/) is in alpha, and still under development, but we need to bring in the decision makers: those organizations, collectives and institutions that can significantly benefit by implementing liquid democracy practices in their own governance - that's where you, our Ambassadors, come in. 
 
