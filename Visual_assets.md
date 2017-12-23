@@ -1,5 +1,5 @@
-## Share these memetic DEF Postcards
-# Recipe for a DEF Postcard
+# Share these memetic DEF Postcards
+## Recipe for a DEF Postcard
 - one Event Still + one "quote" + DEF logo.  Mix well
 - Serve to DEF core team, tweak as needed
 - Follow DEF Twitter, Facebook, Medium, You Tube and Instagram accounts
