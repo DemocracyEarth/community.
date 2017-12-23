@@ -57,7 +57,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
 
-- [The story behing DEF and the team](https://words.democracy.earth/blockchain-liquid-democracy-and-the-end-of-the-outsider-a171a0e11816)
+- [The story of Democracy Earth Foundation creation: a team comes together](https://words.democracy.earth/blockchain-liquid-democracy-and-the-end-of-the-outsider-a171a0e11816)
 
 - [The Colombian Referendum pilot](https://words.democracy.earth/a-digital-referendum-for-colombias-diaspora-aeef071ec014)
 
