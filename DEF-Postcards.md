@@ -1,8 +1,8 @@
 # Share these memetic DEF Postcards
-The goal of these post cards is to share the DEF mission and values, events and milestones in shareable form
+The goal of these post cards is to communicate the DEF mission and values, events and milestones in shareable form.  Follow the simple process below. You will find the best images and quotes directly from Democracy Earth content - check out [Hacktivism](https://words.democracy.earth/@DemocracyEarth), our publication on Medium, and the DEF video ([You Tube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag/featured?view_as=subscriber), [Vimeo](https://vimeo.com/democracyearth)) and podcast episodes such as this interview of [Santi Siri on Tales From the Crypt](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri), this one interviewing [Herb Stephens on Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/), and DEF's own [Democracy Salon channel on SoundCloud](https://soundcloud.com/user-561734241)
 
 ## Recipe for a DEF Postcard
-- Find one Event Still + one "quote" + DEF logo.  Mix well
+- Find one [Event Still](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag/playlists?view_as=subscriber) + one "quote" + DEF logo.  Mix well
 - Serve to DEF core team, tweak as needed
 - Follow DEF Twitter, Facebook, Medium, You Tube and Instagram accounts
 - Just before serving add link (one) and emoji (one) and commentary seasoning
