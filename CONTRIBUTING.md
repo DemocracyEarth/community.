@@ -3,13 +3,13 @@ In keeping with Democracy Earth's open source values, we see the DEF Ambassador 
 
 ## 2 ways to share your feedback and contributions to the Ambassador program: 
 
-Issues
+**1. Issues**
 in  general  you will use the issues feature to make comments, raise your concerns, ask a question, request more details/explanation on process or concepts.
 
 We will do our best to answer as fast as possible all issues created by the community.
 
 
-Pull requests
+**2. Pull requests**
 Use pull requests to suggest modifications to any Ambassador files - correct typos, grammar, syntax, add clarifying examples, suggest helpful links.   Here are a few guidelines for pull request creation:
 
 - Please make your edits following the wiki markup language Mediawiki Formatting, they will be easier to merge that way.
