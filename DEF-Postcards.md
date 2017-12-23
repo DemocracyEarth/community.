@@ -7,7 +7,7 @@ The goal of these post cards is to share the DEF mission and values, events and 
 - Follow DEF Twitter, Facebook, Medium, You Tube and Instagram accounts
 - Just before serving add link (one) and emoji (one) and commentary seasoning
 - Garnished with hashtags #democracy #LiquidDemocracy #BlockchainForGood #globaldemocracy
-- Finish by upvote reshares and engaging with community comments
+- Finish by upvoting reshares and engaging with community comments
 
 
 ![santi presenting at the un](https://user-images.githubusercontent.com/24529258/34132323-2cfd6990-e404-11e7-8d4e-c8b4848eb641.png)
