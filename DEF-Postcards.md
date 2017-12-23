@@ -13,8 +13,8 @@ And of course, never forget the [Social Smart Contract](https://github.com/Democ
 - Garnish with sprinkling of hashtags #democracy #LiquidDemocracy #BlockchainForGood #globaldemocracy
 - Finish by upvoting reshares and engaging with community comments
 
-#Postcards and images
 
+# Postcards and images
 
 ![santi presenting at the un](https://user-images.githubusercontent.com/24529258/34132323-2cfd6990-e404-11e7-8d4e-c8b4848eb641.png)
 ![awakening](https://user-images.githubusercontent.com/24529258/34322935-e14c5f26-e7e9-11e7-8015-fef38395478d.png)
