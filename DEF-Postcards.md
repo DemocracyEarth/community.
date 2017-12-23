@@ -1,5 +1,5 @@
-# Share these memetic DEF Postcards
-The goal of these postcards is to literally create virutal cards to post, to communicate Democracy Earth's mission, values, events and milestones using a naturally memetic format that brings together fans of decentralized liquid democracy to the DEF community.  
+# Creating and Sharing DEF Postcards
+The goal of these postcards is to create shareable visual assets designed to simply and powerfully communicate Democracy Earth's mission, values, events and milestones using a naturally memetic format that brings together fans of decentralized liquid democracy to the DEF community.  
 
 Follow the simple process below. You will glean the best images and quotes directly from Democracy Earth content - check out [Hacktivism](https://words.democracy.earth/@DemocracyEarth), our publication on Medium, and the DEF video ([You Tube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag/featured?view_as=subscriber), [Vimeo](https://vimeo.com/democracyearth)) and podcast episodes such as this interview of [Santi Siri on Tales From the Crypt](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri), this one interviewing [Herb Stephens on Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/), and DEF's own [Democracy Salon channel on SoundCloud](https://soundcloud.com/user-561734241).  
 
