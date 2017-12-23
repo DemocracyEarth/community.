@@ -3,16 +3,13 @@ In keeping with Democracy Earth's open source values, we see the DEF Ambassador 
 
 ## 2 ways to share your feedback and contributions to the Ambassador program: 
 
-- Issues - in  general  you will use the issues feature to 
-  - make general comments
-  - raise your concerns
-  - ask a question
-  - request more details, explanation
+Issues
+in  general  you will use the issues feature to make comments, raise your concerns, ask a question, request more details/explanation on process or concepts.
 
 We will do our best to answer as fast as possible all issues created by the community.
 
 
-- Pull requests
+Pull requests
 Use pull requests to suggest modifications to any Ambassador files - correct typos, grammar, syntax, add clarifying examples, suggest helpful links.   Here are a few guidelines for pull request creation:
 
 - Please make your edits following the wiki markup language Mediawiki Formatting, they will be easier to merge that way.
@@ -21,5 +18,15 @@ Use pull requests to suggest modifications to any Ambassador files - correct typ
 
 We will do our best to address pull requests created by the community as quickly as possible. If the modification is a "no brainer" for reviewers we will merge it instantly, if not we will engage in a conversation with its creators to understand how best we can make use of his/her suggestions or explain why we are rejecting it.
 
+
+
+
+## Creators: Subitting you DEF postcards
+- Go to DEF Postcard file
+- Create a Github Issue
+- Name Issue Subject: (short postcard description)
+- Upload your Postcard
+- Be sure to "Watch" the issue (upper right hand corner of your browser window)
+- Be responsive to comments
 
 
