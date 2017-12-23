@@ -1,6 +1,6 @@
 ## Share these memetic DEF Postcards
 # Recipe for a DEF Postcard
-- one Event still + one quote + logo; mix well
+- one Event Still + one "quote" + DEF logo.  Mix well
 - Serve to DEF core team, tweak as needed
 - Follow DEF Twitter, Facebook, Medium, You Tube and Instagram accounts
 - Share postcards to your networks, seasoned with comments and garnished with hashtags #democracy #LiquidDemocracy #BlockchainForGood #globaldemocracy.  
