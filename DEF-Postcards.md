@@ -6,12 +6,14 @@ Follow the simple process below. You will glean the best images and quotes direc
 And of course, never forget the [Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki#The_Social_Smart_Contract) as the main sourcefile for the Democracy Earth mission.
 
 ## Recipe for a DEF Postcard
-- Find one [Event Still](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag/playlists?view_as=subscriber) + one "quote" + DEF logo.  Mix well
-- Serve to DEF core team, tweak as needed
-- Follow DEF Twitter, Facebook, Medium, You Tube and Instagram accounts
-- Just before serving add link (one) and emoji (one) and commentary seasoning
-- Garnished with hashtags #democracy #LiquidDemocracy #BlockchainForGood #globaldemocracy
+- Find one Event Still [start here]((https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag/playlists?view_as=subscriber) + one "quote" + DEF logo.  Mix well
+- Serve to DEF core team, tweak/repeat as needed
+- Follow DEF [Twitter](https://twitter.com/DemocracyEarth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Medium](https://words.democracy.earth/@democracyearth), [You Tube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [Instagram](https://www.in...ocracy.earth/) accounts
+- Just before serving add link (one), emoji (one), and commentary seasoning
+- Garnish with sprinkling of hashtags #democracy #LiquidDemocracy #BlockchainForGood #globaldemocracy
 - Finish by upvoting reshares and engaging with community comments
+
+#Postcards and images
 
 
 ![santi presenting at the un](https://user-images.githubusercontent.com/24529258/34132323-2cfd6990-e404-11e7-8d4e-c8b4848eb641.png)
