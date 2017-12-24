@@ -22,5 +22,5 @@ And of course, never forget the [Social Smart Contract](https://github.com/Democ
 ![santi on institutions](https://user-images.githubusercontent.com/24529258/34322968-98c8e908-e7ea-11e7-91e0-7b78724a4084.png)
 ![meme santi at the un open source](https://user-images.githubusercontent.com/24529258/34322972-a5d4978c-e7ea-11e7-92ea-d2b43b350b54.png)
 ![whatsapp image 2017-12-23 at 3 11 26 pm](https://user-images.githubusercontent.com/24529258/34323262-cbb8e70e-e7f5-11e7-8273-c66ffede5158.jpeg)
-<img width="765" alt="screen shot 2017-12-23 at 21 57 16" src="https://user-images.githubusercontent.com/18194034/34323432-51f7ef16-e82f-11e7-925c-c8eb81c8e21f.png">
+
 
