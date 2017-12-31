@@ -61,7 +61,7 @@ If a participant engages in harassing behavior, the organizers may take any acti
 1. contact a member of the Democracy Earth Foundation core team immediately to report your concern
 2. document your concerns in full in an email to Paula Berman (Paula@Democracy.Earth) 
 
-The Democracy Earth team acknowledges that we are not always in a position to evaluate a given situation due to the number of geographically dispered events and the fact that our team is not always present. However, it is our hope and intention in providing these guidelines to establish a community that adheres to DEF's core values and provides an environment that is welcoming and supportive to all.
+The Democracy Earth team acknowledges that we are not always in a position to evaluate a given situation due to the number of geographically dispersed events and the fact that our team is not always present. However, it is our hope and intention in providing these guidelines to establish a community that adheres to DEF's core values and provides an environment that is welcoming and supportive to all.
 
 We value your particpation in DEF events and forums and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
