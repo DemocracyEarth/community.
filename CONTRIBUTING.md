@@ -24,12 +24,12 @@ We will do our best to address pull requests created by the community as quickly
 
 
 
-## Creators: Subitting you DEF postcards
-- Go to DEF Postcard file
+## Creators: Subitting you DEF quote banners
+- Go to the [Community repo](https://github.com/DemocracyEarth/community/blob/master/README.md#quote-banners)
 - Create a Github Issue
-- Name Issue Subject: (short postcard description)
-- Upload your Postcard
+- Name Issue Subject: (short quote banner description)
+- Upload your quote banner
 - Be sure to "Watch" the issue (upper right hand corner of your browser window)
-- Be responsive to comments
+- Be responsive to comments, make edits for review as needed
 
 
