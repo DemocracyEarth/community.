@@ -26,6 +26,7 @@ We will do our best to address pull requests created by the community as quickly
 
 ## Creators: Subitting you DEF quote banners
 - Go to the [Community repo](https://github.com/DemocracyEarth/community/blob/master/README.md#quote-banners)
+- Review the checklist for creating a quote banner for review
 - Create a Github Issue
 - Name Issue Subject: (short quote banner description)
 - Upload your quote banner
