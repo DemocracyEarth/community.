@@ -17,6 +17,8 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Sunny Sangha TEDx Talk: Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
+[Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
+
 
 
 ## **PODCASTS**
