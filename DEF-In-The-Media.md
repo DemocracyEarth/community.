@@ -7,13 +7,13 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 ## **TALKS**
 
-[Santiago Siri World's Fair Nano - SanFrancisco:  The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs)
+[Pia Mancini TED Talk: How to Upgrade Democracy for the Internet Era - Oct 2014](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)
 
 [Santiago Siri Internet and blockchain-based technology, a revolution for Democracy @ L'ÉCHAPPÉE - May 2016](https://www.youtube.com/watch?v=UajbQTHnTfM)
 
-[Pia Mancini TED Talk: How to Upgrade Democracy for the Internet Era - Oct 2014](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)
-
 [Santiago Siri TEDx Talk: The Future of Democracy - May 2016](https://www.youtube.com/watch?v=yGmGWZCE4h0)
+
+[Santiago Siri World's Fair Nano - SanFrancisco:  The Future of Democracy - Jan 2017](https://www.youtube.com/watch?v=HaKrFmnvAfs)
 
 [Sunny Sangha TEDx Talk: Is a fair, global democracy possible? - Nov 2017 ](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
