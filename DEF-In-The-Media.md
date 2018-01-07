@@ -9,15 +9,15 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri World's Fair Nano - SanFrancisco:  The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs)
 
-[Santiago Siri : Internet and blockchain-based technology, a revolution for Democracy @ L'ÉCHAPPÉE - May 2016](https://www.youtube.com/watch?v=UajbQTHnTfM)
+[Santiago Siri Internet and blockchain-based technology, a revolution for Democracy @ L'ÉCHAPPÉE - May 2016](https://www.youtube.com/watch?v=UajbQTHnTfM)
 
-[Pia Mancini TED Talk: How to Upgrade Democracy for the Internet Era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)
+[Pia Mancini TED Talk: How to Upgrade Democracy for the Internet Era - Oct 2014](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)
 
-[Santiago Siri TEDx Talk: The Future of Democracy](https://www.youtube.com/watch?v=yGmGWZCE4h0)
+[Santiago Siri TEDx Talk: The Future of Democracy - May 2016](https://www.youtube.com/watch?v=yGmGWZCE4h0)
 
-[Sunny Sangha TEDx Talk: Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
+[Sunny Sangha TEDx Talk: Is a fair, global democracy possible? - Nov 2017 ](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
-[Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
+[Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State - Dec 2017](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
 
 
 
