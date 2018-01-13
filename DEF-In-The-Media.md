@@ -29,6 +29,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
 
+[Pia Mancini Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
 
 
 ## **WHAT OTHERS SAY ABOUT US**
