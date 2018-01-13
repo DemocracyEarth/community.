@@ -23,13 +23,13 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 ## **PODCASTS**
 
-[Herb Stephens FutureTech Podcast: Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
+[Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my! Aug 2017](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
 
-[Santiago Siri Tales From the Crypt Podcast: A Conversation with Santiago Siri](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
+[Herb Stephens FutureTech Podcast: Enabling Liquid Democracy for the World Sep 2017](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
 
-[Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
+[Santiago Siri Tales From the Crypt Podcast: A Conversation with Santiago Siri Oct 2017](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
 
-[Pia Mancini Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
+[Pia Mancini Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future Jan 2018]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
 
 
 ## **WHAT OTHERS SAY ABOUT US**
