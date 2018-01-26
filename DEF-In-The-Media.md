@@ -55,6 +55,10 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 - **Huffington Post** [Transforming the Social Sector: Bitcoin and Blockchain for Good](https://www.huffingtonpost.com/entry/transforming-the-social-sector-bitcoin-and-blockchain_us_59c169e3e4b0f96732cbc9c7)
 
+**Dell Technologies** [Democracy 2.0: How Blockchain Technology Is Unveiling a New Type of Democracy](https://www.delltechnologies.com/en-us/perspectives/democracy-2-0-how-blockchain-technology-is-unveiling-a-new-type-of-democracy/)
+
+**Deutsche Welle** [The New Face of Leadership at the Davos Forum ](http://www.dw.com/en/the-new-face-of-leadership-at-the-davos-forum/a-42253887)
+
 
 
 ## **WHAT WE SAY ABOUT OUR WORK**
