@@ -1,6 +1,6 @@
-# **Hello Future Ambassador!**
+# **Videos, Press Mentions, Articles & TED Talks**
 
-This file is where we will provide links to resources to help Ambassadors build presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
+This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
 Check out these materials to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
 
