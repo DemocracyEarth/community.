@@ -1,6 +1,12 @@
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
+
+
+*[ ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the second quarter of 2018. 
+
+
+
 # Welcome to Democracy Earth's Ambassadors Program!
 
 👉 [**STEP 1:** Apply.](#Step-1)
