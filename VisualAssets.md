@@ -1,7 +1,9 @@
 For step-by-step instructions on how to create a DEF approved quote banner, go [here](https://github.com/DemocracyEarth/community/blob/master/README.md) 
 
 # Approved quote banners
-
+![image](https://user-images.githubusercontent.com/24529258/36914347-d6ad6b02-1e01-11e8-9422-12e19128e690.png)
+![image](https://user-images.githubusercontent.com/24529258/36914364-eb06461e-1e01-11e8-9908-363db115a781.png)
+![image](https://user-images.githubusercontent.com/24529258/36914439-2ad8fa70-1e02-11e8-8ef5-f80fc2af7f15.png)
 ![image](https://user-images.githubusercontent.com/24529258/36914012-a815756a-1e00-11e8-984d-16ce4575f995.png)
 ![image](https://user-images.githubusercontent.com/24529258/36914041-bd129c4a-1e00-11e8-9be4-9d22a4219823.png)
 ![image](https://user-images.githubusercontent.com/24529258/36914200-5771fdd0-1e01-11e8-9025-f8a7455f3c21.png)
