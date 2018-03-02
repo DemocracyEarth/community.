@@ -2,6 +2,10 @@ For step-by-step instructions on how to create a DEF approved quote banner, go [
 
 # Approved quote banners
 
+![image](https://user-images.githubusercontent.com/24529258/36914012-a815756a-1e00-11e8-984d-16ce4575f995.png)
+![image](https://user-images.githubusercontent.com/24529258/36914041-bd129c4a-1e00-11e8-9be4-9d22a4219823.png)
+![image](https://user-images.githubusercontent.com/24529258/36914200-5771fdd0-1e01-11e8-9025-f8a7455f3c21.png)
+![image](https://user-images.githubusercontent.com/24529258/36914223-67e725e6-1e01-11e8-926d-4fb3534e9868.png)
 ![image](https://user-images.githubusercontent.com/24529258/36879270-cb3168c6-1d77-11e8-962c-b273cde988f3.png)
 ![awakening](https://user-images.githubusercontent.com/24529258/34322935-e14c5f26-e7e9-11e7-8015-fef38395478d.png)
 ![pia meme](https://user-images.githubusercontent.com/24529258/34322936-e163a280-e7e9-11e7-8e62-9a14fe793cac.png)
