@@ -19,18 +19,26 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State - Dec 2017](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
 
-[Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era)
+[Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) January 2018
 
 
 ## **PODCASTS**
 
-[Herb Stephens Democracy Salon: Aragon, ICOs and Ethereum, Oh my! Aug 2017](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
+[Herb Stephens on Democracy Salon: Aragon, ICOs and Ethereum, Oh my! Aug 2017](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
 
-[Herb Stephens FutureTech Podcast: Enabling Liquid Democracy for the World Sep 2017](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
+[Herb Stephens on FutureTech Podcast: Enabling Liquid Democracy for the World Sep 2017](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
 
-[Santiago Siri Tales From the Crypt Podcast: A Conversation with Santiago Siri Oct 2017](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
+[Santiago Siri on Tales From the Crypt Podcast: A Conversation with Santiago Siri Oct 2017](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
 
-[Pia Mancini Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future Jan 2018]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
+[Pia Mancini on Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future Jan 2018]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
+
+[Sandra Miller on Positive Feedback Loop: Blockchains and Digital Decentralized Voting February 2018](https://soundcloud.com/pflpodcast/ep-51-decentralized-voting-with-sandra-miller-from-democracyearth)
+
+[Santiago Siri on Tales From the Crypt: Blockchains Are Geopolitical February 2018](https://soundcloud.com/user-112937267/santiago-siri-blockchains-are-geopolitical) 
+
+[Eduardo Medina on Tales From the Crypt: A Conversation on Venezuela and Bitcoin February 2018](https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc)
+
+[Santiao Siri on Democracy Salon: Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth March 2018](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack)
 
 
 ## **WHAT OTHERS SAY ABOUT US**
