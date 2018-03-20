@@ -19,7 +19,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State - Dec 2017](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
 
-[Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) January 2018
+[Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) 
 
 
 
