@@ -3,13 +3,13 @@
 Index to this repo: 
 
 - [Code of Conduct and Anti-Harrassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md#code-of-conduct)
-- [Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program)
+- [Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program): 
 - [Image Release Form](https://github.com/DemocracyEarth/ambassadors/blob/master/Image_release_form.md#image-release-form)
 - [Democracy Earth in the media](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF-In-The-Media.md#videos-press-mentions-articles--ted-talks): press mentions, articles, interviews, podcasts and videos
-- [Visual Assets](https://github.com/DemocracyEarth/ambassadors/blob/master/VisualAssets.md#approved-quote-banners)
-- [Resources](https://github.com/DemocracyEarth/ambassadors/blob/master/Resources.md#resources)
+- [Visual Assets](https://github.com/DemocracyEarth/ambassadors/blob/master/VisualAssets.md#approved-quote-banners): quote banners for your presentations
+- [Resources](https://github.com/DemocracyEarth/ambassadors/blob/master/Resources.md#resources): Guides for speeches, content creation and more
 - [The DEF Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform)
-- [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute)
+- [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute): How to start a discussion or submit an edit or change on the DEF Ambassador repo
 
 
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
@@ -17,7 +17,6 @@ Index to this repo:
 
 
 *[ ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the second quarter of 2018. 
-
 
 
 # Ambassador Application Steps
