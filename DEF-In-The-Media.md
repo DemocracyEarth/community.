@@ -22,6 +22,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 [Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) January 2018
 
 
+
 ## **PODCASTS**
 
 [Herb Stephens on Democracy Salon: Aragon, ICOs and Ethereum, Oh my! Aug 2017](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
