@@ -1,5 +1,14 @@
 # Welcome to Democracy Earth's Ambassadors Program!
 
+Index to this repo: 
+
+- Resources
+- Visual Assets
+- The DEF Ambassador Application Form
+
+
+
+
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
