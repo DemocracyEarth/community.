@@ -37,19 +37,21 @@ Index to this repo:
 
 
 
-**Hello future Ambassador!** We need your help to bring our message to all four corners of the world 🌎, and create a global movement that will redefine what democracy is in the 21st century! 
+**Hello future Ambassador!** We need your help to bring our message to the four corners of the world 🌎 and create a global movement that will redefine what democracy is in the 21st century! 
 
-As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community in and kickstart a debate about what kind of democracy do we want in the internet age!
+As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community in and kickstart a debate about what kind of democracy we want in the internet age!
 
-Our platform [Sovereign](https://vote.democracy.earth/) is in alpha, and still under development, but we need to bring in the decision makers: those organizations, collectives and institutions that can significantly benefit by implementing liquid democracy practices in their own governance - that's where you, our Ambassadors, come in. 
+Our platform [Sovereign](https://vote.democracy.earth/) is in alpha, and still under development. Now, it's time to bring in the decision makers: those organizations, collectives and institutions that can significantly benefit by implementing liquid democracy practices in their own governance.  
 
-Our belief in democracy means we believe that human collaboration is the best possible way to arrive at great solutions, therefore we use Github and document our work as open source projects where anyone is free to contribute. Democracy is always a work in progress, and so is our work: we encourage you to take an active role in building it with us, making suggestions and creating debates! 
+That's where you, our Ambassadors, come in. 
+
+Our belief in democracy means we believe that human collaboration is the best possible way to arrive at great solutions, therefore we use Github and document our work as open source projects where anyone is free to contribute. Democracy is always a work in progress, and so is our work: we encourage you to take an active role in building it with us, making suggestions and creating debates.
 
 We will give you resources to help you carry the message and implement our work: videos and slides so you can make presentations in the name of Democracy Earth, and also technical information of how to implement sovereign in a local server so your local groups can start using it! 
 
 You can find all of our source code [here on Github](https://github.com/DemocracyEarth/sovereign), and engage with us - both on [Github's issues](https://github.com/DemocracyEarth/paper/issues) and [Slack](http://chat.democracy.earth/) - discussing our paper, [The Social Smart Contract](https://github.com/DemocracyEarth/paper), where we are debating liquid democracy with collaborators from all over the world! We have also created a channel on Slack called [#ambassadors_def](https://democracyearth.slack.com/messages/ambassadors_def/), where you will be able to connect with all the Ambassadors, share and learn from each other experiences!
 
-As an ambassador of Democracy Earth you will represent the Democracy Earth Foundation vision of a borderless, post-nation state world, its mission to put the tools of liquid democracy in the hands of every self-sovereign global citizen of the world, and our values of being open source, transparent, accountable, and decentralized. It is fundamental that you embody our open-source values, welcoming everyone into our collaborative work as co-creators of the future of democracy. **This is a guideline we have put together with all the information you need to get started!**
+As an ambassador of Democracy Earth you will represent the Democracy Earth Foundation vision of a borderless, post-nation state world, our mission to put the tools of liquid democracy in the hands of every self-sovereign global citizen of the world, and our values of being open source, transparent, accountable, and decentralized. It is fundamental that you embody our open-source values, welcoming everyone into our collaborative work as co-creators of the future of democracy. **This is a guideline we have put together with all the information you need to get started!**
 
 
 # Program Overview
