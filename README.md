@@ -4,7 +4,7 @@ Index to this repo:
 
 - [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute)
 - [Code of Conduct and Anti-Harrassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md#code-of-conduct)
--[Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program)
+- [Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program)
 - [Image Release Form](https://github.com/DemocracyEarth/ambassadors/blob/master/Image_release_form.md#image-release-form)
 - [Democracy Earth in the media](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF-In-The-Media.md#videos-press-mentions-articles--ted-talks): press mentions, articles, interviews, podcasts and videos
 - [Visual Assets](https://github.com/DemocracyEarth/ambassadors/blob/master/VisualAssets.md#approved-quote-banners)
