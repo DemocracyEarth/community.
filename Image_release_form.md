@@ -1,6 +1,6 @@
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSel8XCZsu385Eg2o19l9IpLaB89DnIraIOpl1g17X8Y-NCyfw/viewform) to sign the Image Release Form.
 
-**Image Release Form**
+## Image Release Form
 
 "I grant to Democracy Earth Foundaton, its representatives and employees the right to take photographs of me in connection with the above-identified subject. I authorize Democracy Earth, its
 assigns and transferees to copyright, use and publish the same in print
