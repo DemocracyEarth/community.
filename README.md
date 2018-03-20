@@ -6,7 +6,7 @@ Index to this repo:
 - [Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program)
 - [Image Release Form](https://github.com/DemocracyEarth/ambassadors/blob/master/Image_release_form.md#image-release-form)
 - [Democracy Earth in the media](https://github.com/DemocracyEarth/ambassadors/blob/master/DEF-In-The-Media.md#videos-press-mentions-articles--ted-talks): press mentions, articles, interviews, podcasts and videos
-- [Visual Assets](https://github.com/DemocracyEarth/ambassadors/blob/master/VisualAssets.md#approved-quote-banners): quote banners for your presentations
+- [Visual Assets](https://github.com/DemocracyEarth/ambassadors/blob/master/VisualAssets.md#approved-quote-banners): support for your presentations, community outreach and social messaging
 - [Resources](https://github.com/DemocracyEarth/ambassadors/blob/master/Resources.md#resources): Guides for speeches, content creation and more
 - [The DEF Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform)
 - [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute): How to start a discussion or submit an edit or change on the DEF Ambassador repo
