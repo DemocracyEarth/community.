@@ -1,4 +1,4 @@
-# The Democracy Earth's Ambassadors Program
+# The Democracy Earth Ahmbassadors Program
 
 Index to this repo: 
 
