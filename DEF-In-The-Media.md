@@ -21,6 +21,10 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) 
 
+[Santiago Siri at BlockstackBerli: Crypto Politics | Beyond the Nation-State  March 2018](http://bit.ly/SantiSiriBerlin)
+
+[Santiago Siri on the Decentralized Future: What is it and how do we not screw it up?](http://bit.ly/SamsungNext)
+
 
 
 ## **PODCASTS**
@@ -67,6 +71,8 @@ Check out these materials to learn about Democracy Earth's history, public messa
 - **Dell Technologies** [Democracy 2.0: How Blockchain Technology Is Unveiling a New Type of Democracy](https://www.delltechnologies.com/en-us/perspectives/democracy-2-0-how-blockchain-technology-is-unveiling-a-new-type-of-democracy/)
 
 - **Deutsche Welle** [The New Face of Leadership at the Davos Forum ](http://www.dw.com/en/the-new-face-of-leadership-at-the-davos-forum/a-42253887)
+
+- **Virginia Review of Politics** [Political Scientist, Democracy Hacktivist Visionary: An Interview wiwth Pia Mancini] March 2018 (http://bit.ly/PiaVAReview)
 
 
 ## **WHAT WE SAY ABOUT OUR WORK**
