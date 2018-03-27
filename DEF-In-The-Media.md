@@ -72,7 +72,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 - **Deutsche Welle** [The New Face of Leadership at the Davos Forum ](http://www.dw.com/en/the-new-face-of-leadership-at-the-davos-forum/a-42253887)
 
-- **Virginia Review of Politics** [Political Scientist, Democracy Hacktivist Visionary: An Interview wiwth Pia Mancini] March 2018 (http://bit.ly/PiaVAReview)
+- **Virginia Review of Politics** [Political Scientist, Democracy Hacktivist Visionary: An Interview wiwth Pia Mancini March 2018](http://bit.ly/PiaVAReview)
 
 
 ## **WHAT WE SAY ABOUT OUR WORK**
