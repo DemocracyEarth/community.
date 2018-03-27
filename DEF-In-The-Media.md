@@ -23,7 +23,7 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri at BlockstackBerli: Crypto Politics | Beyond the Nation-State  March 2018](http://bit.ly/SantiSiriBerlin)
 
-[Santiago Siri on the Decentralized Future: What is it and how do we not screw it up?](http://bit.ly/SamsungNext)
+[Santiago Siri on the Decentralized Future: What is it and how do we not screw it up? March 2018](http://bit.ly/SamsungNext)
 
 
 
