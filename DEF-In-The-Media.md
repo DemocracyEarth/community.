@@ -19,11 +19,11 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State - Dec 2017](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
 
-[Pia Mancini DAVOS 2018 Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) 
+[DAVOS 2018 Pia Mancini Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) 
 
-[Santiago Siri at BlockstackBerli: Crypto Politics | Beyond the Nation-State  March 2018](http://bit.ly/SantiSiriBerlin)
+[BlockstackBerlin Santiago Siri: Crypto PoliticsBeyond the Nation-State March 2018](http://bit.ly/SantiSiriBerlin)
 
-[Santiago Siri on the Decentralized Future: What is it and how do we not screw it up? March 2018](http://bit.ly/SamsungNext)
+[Samsung Next interviews Santiago Siri The Decentralized Future: What is it and how do we not screw it up? March 2018](http://bit.ly/SamsungNext)
 
 
 
