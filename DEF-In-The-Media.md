@@ -86,3 +86,12 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - [Surveillance in the 21st century: the gathering storm](https://words.democracy.earth/the-gathering-storm-eb0c6bbf3886)
 
 - [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
+
+##  **PILOTS & CASE STUDIES**
+
+- [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
+
+- [The Impacts of PopVote in Hong Kong](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
+
+- [Google Tests Liquid Decision Making](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
+
