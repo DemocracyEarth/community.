@@ -41,9 +41,13 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 [Santiago Siri on Tales From the Crypt: Blockchains Are Geopolitical February 2018](https://soundcloud.com/user-112937267/santiago-siri-blockchains-are-geopolitical) 
 
+[Pia Mancini on World Economic Forum podcast: Your Government Needs Updating February 2018](http://bit.ly/YourGovUpdate)
+
 [Eduardo Medina on Tales From the Crypt: A Conversation on Venezuela and Bitcoin February 2018](https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc)
 
 [Santiao Siri on Democracy Salon: Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth March 2018](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack)
+
+[Santiago Siri on BlockCrunch podcast with Jason Choi: Geopolitics and the Blockchain  April 2018](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri)
 
 
 ## **WHAT OTHERS SAY ABOUT US**
