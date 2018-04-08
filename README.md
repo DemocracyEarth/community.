@@ -16,7 +16,7 @@ Index to this repo:
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
 
-*[ ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the second quarter of 2018. 
+*[ ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the third quarter of 2018. 
 
 
 # Ambassador Application Steps
