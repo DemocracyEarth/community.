@@ -7,47 +7,50 @@ Check out these materials to learn about Democracy Earth's history, public messa
 
 ## **TALKS**
 
-[Pia Mancini TED Talk: How to Upgrade Democracy for the Internet Era - Oct 2014](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)
+Pia Mancini TED Talk [How to Upgrade Democracy for the Internet Era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) Oct 2014 
 
-[Santiago Siri Internet and blockchain-based technology, a revolution for Democracy @ L'ÉCHAPPÉE - May 2016](https://www.youtube.com/watch?v=UajbQTHnTfM)
+Santiago Siri@ L'ÉCHAPPÉE  [Internet and blockchain-based technology, a revolution for Democracy](https://www.youtube.com/watch?v=UajbQTHnTfM) May 2016 
 
-[Santiago Siri TEDx Talk: The Future of Democracy - May 2016](https://www.youtube.com/watch?v=yGmGWZCE4h0)
+Santiago Siri TEDx Talk [The Future of Democracy](https://www.youtube.com/watch?v=yGmGWZCE4h0) May 2016
 
-[Santiago Siri World's Fair Nano - SanFrancisco:  The Future of Democracy - Jan 2017](https://www.youtube.com/watch?v=HaKrFmnvAfs)
+Santiago Siri World's Fair Nano | SanFrancisco [The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs) Jan 2017 
 
-[Sunny Sangha TEDx Talk: Is a fair, global democracy possible? - Nov 2017 ](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
+Sunny Sangha TEDx Talk | Birmingham UK [Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8) Nov 2017
 
-[Santiago Siri Crypto_NYC Blockchain for Good Meetup: Bitocoin, Geopolitics, and the Divorce Between Money and State - Dec 2017](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) 
+Santiago Siri | Crypto_NYC Blockchain for Good Meetup [Bitocoin, Geopolitics, and the Divorce Between Money and State](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) Dec 2017
 
-[DAVOS 2018 Pia Mancini Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) 
+Pia Mancini World Economic Forum | DAVOS  [Democracy in a Post-Truth World Panel January 2018](https://www.weforum.org/events/world-economic-forum-annual-meeting-2018/sessions/rethinking-democracy-in-a-post-truth-era) February 2018
 
-[BlockstackBerlin Santiago Siri: Crypto PoliticsBeyond the Nation-State March 2018](http://bit.ly/SantiSiriBerlin)
+Santiago Siri | Blockstack Berlin [Crypto PoliticsBeyond the Nation-State] (http://bit.ly/SantiSiriBerlin) March 2018
 
-[Samsung Next interviews Santiago Siri The Decentralized Future: What is it and how do we not screw it up? March 2018](http://bit.ly/SamsungNext)
+Santiago Siri | Samsung Next Ask an Expert [The Decentralized Future: What is it and how do we not screw it up?](http://bit.ly/SamsungNext) March 2018
+
+Santiago Siri | Fast Forward Accelerate Good Global [Blockchain for Social Good: Not Just a Quick Billion](http://bit.ly/SantiAccelr8Good) March 2018
 
 
 
 ## **PODCASTS**
 
-[Herb Stephens on Democracy Salon: Aragon, ICOs and Ethereum, Oh my! Aug 2017](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my)
+Herb Stephens | Democracy Salon [Aragon, ICOs and Ethereum, Oh my!](https://soundcloud.com/user-561734241/democracy-salon-aragon-icos-and-ethereum-oh-my) Aug 2017
 
-[Herb Stephens on FutureTech Podcast: Enabling Liquid Democracy for the World Sep 2017](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/)
+Herb Stephens | FutureTech Podcast [Enabling Liquid Democracy for the World](https://www.futuretechpodcast.com/podcasts/herb-stephens-president-of-democracy-earth-enabling-liquid-democracy-for-the-world/) Sep 2017
 
-[Santiago Siri on Tales From the Crypt Podcast: A Conversation with Santiago Siri Oct 2017](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri)
+Santiago Siri | Tales From the Crypt Podcast [A Conversation with Santiago Siri](https://player.fm/series/tales-from-the-crypt/tales-from-the-crypt-3-a-conversation-with-santiago-siri) Oct 2017
 
-[Pia Mancini on Evolving to a System of New Power on the podcast show, Creating a Humanist Blockchain Future Jan 2018]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f)
+Pia Mancini | Creating a Humanist Blockchain Future Podcast [Evolving to a System of New Power]( https://medium.com/@RhysLindmark/31-pia-mancini-democracyearth-and-opencollective-evolving-to-a-system-of-newpower-6de7f970ef2f) Jan 2018
 
-[Sandra Miller on Positive Feedback Loop: Blockchains and Digital Decentralized Voting February 2018](https://soundcloud.com/pflpodcast/ep-51-decentralized-voting-with-sandra-miller-from-democracyearth)
+Sandra Miller | Positive Feedback Loop Podcast [Blockchains and Digital Decentralized Voting](https://soundcloud.com/pflpodcast/ep-51-decentralized-voting-with-sandra-miller-from-democracyearth) February 2018
 
-[Santiago Siri on Tales From the Crypt: Blockchains Are Geopolitical February 2018](https://soundcloud.com/user-112937267/santiago-siri-blockchains-are-geopolitical) 
+Santiago Siri  Tales From the Crypt [Blockchains Are Geopolitical](https://soundcloud.com/user-112937267/santiago-siri-blockchains-are-geopolitical) February 2018
 
-[Pia Mancini on World Economic Forum podcast: Your Government Needs Updating February 2018](http://bit.ly/YourGovUpdate)
+Pia Mancini | World Economic Forum podcast [Your Government Needs Updating](http://bit.ly/YourGovUpdate) February 2018
 
-[Eduardo Medina on Tales From the Crypt: A Conversation on Venezuela and Bitcoin February 2018](https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc)
+Eduardo Medina | Tales From the Crypt [A Conversation on Venezuela and Bitcoin] (https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc) February 2018
 
-[Santiao Siri on Democracy Salon: Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth March 2018](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack)
+Santiao Siri | Democracy Salon [Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack) March 2018
 
-[Santiago Siri on BlockCrunch podcast with Jason Choi: Geopolitics and the Blockchain  April 2018](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri)
+Santiago Siri | BlockCrunch podcast with Jason Choi [Geopolitics and the Blockchain](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri) April 2018
+
 
 
 ## **WHAT OTHERS SAY ABOUT US**
@@ -96,6 +99,9 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - [Surveillance in the 21st century: the gathering storm](https://words.democracy.earth/the-gathering-storm-eb0c6bbf3886)
 
 - [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
+
+- [SDG Special Report: Digital ID As a Basic Human Right](http://bit.ly/digitalIDrefugees)
+
 
 ##  **PILOTS & CASE STUDIES**
 
