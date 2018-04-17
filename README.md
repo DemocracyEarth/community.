@@ -74,7 +74,7 @@ All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as
 <a name="Step-2"></a>
 ## **STEP 2 - Connect with Democracy Earth community channels**
 
-Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
+Teaching MS how to use github. Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
 
 * Create a Github account so we can share with you materials that you can use for presentations! 😊 
 * Join our [#ambassadors_def channel](https://democracyearth.slack.com/messages/ambassadors_def/) on [Slack](http://chat.democracy.earth/). We will be communicating with all of our Ambassadors through that channel, and in adittion this will be a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
