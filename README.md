@@ -10,6 +10,7 @@ Index to this repo:
 - [Resources](https://github.com/DemocracyEarth/ambassadors/blob/master/Resources.md#resources): Guides for speeches, content creation and more
 - [The DEF Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform)
 - [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute): How to start a discussion or submit an edit or change on the DEF Ambassador repo
+- NEW! ✨ Ambassadors Application Form for [Students](http://bit.ly/AmbassadorStudentApply)
 
 ## Welcome!
 [<img width="638" alt="screen shot 2017-12-07 at 15 57 54" src="https://user-images.githubusercontent.com/18194034/33744731-93926be2-db67-11e7-8124-a6c52a5e5f8f.png">
