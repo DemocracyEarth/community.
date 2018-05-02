@@ -5,7 +5,7 @@ Whether you are looking for a step-by-step instructional guide or just tips on o
 # Guidelines
 
 - Every presentation must be in line with Democracy Earth's aesthetic. 
-- The best way to go about it is using one of our templates 
+- The best way to go about it is using one of our templates: 
 
 **Template 1 (standard presentation):**
 
