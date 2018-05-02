@@ -34,9 +34,3 @@ That includes:
 4. Use only **high quality** pictures.
 5. If you want to use any other colors, choose the ones that we already use in our templates or the ones from our logo.
 
-
-## Speeches
-
-- [How To Write a Speech That is Digital Content-Ready](https://www.goinferno.com/blog/how-to-write-a-speech-for-digital-content) by [Marik Hazan](https://twitter.com/MarikHazan?lang=en).  
-In this guide, Marik outlines the process for making an online content-ready talk, from choosing the demographics you want to target, how to structure your speech, and how to write something that can appeal to your in-person audience and then be spliced up into 20-40 incredible pieces of content.
-
