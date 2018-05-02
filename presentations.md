@@ -7,7 +7,7 @@ Whether you are looking for a step-by-step instructional guide or just tips on o
 - Every presentation must be in line with Democracy Earth's aesthetic. 
 - The best way to go about it is using one of our templates: 
 
-**Template 1 (standard presentation):**
+> **Template 1 (standard presentation):**
 
 PowerPoint
 
@@ -15,7 +15,7 @@ Keynote
 
 Google Slides
 
-**Template 2 ( geopolitical role of Bitcoin + standard presentation ):**
+> **Template 2 ( geopolitical role of Bitcoin + standard presentation ):**
 
 PowerPoint
 
