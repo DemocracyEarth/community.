@@ -4,8 +4,8 @@ Whether you are looking for a step-by-step instructional guide or just tips on o
 
 # Guidelines
 
-- Every presentation must be in line with Democracy Earth's aesthetic. 
-- The best way to go about it is using one of our templates: 
+- Every presentation must reflect the Democracy Earth as represented by our Branding Guide
+- The best way to go about this is using one of the Democracy Earth approved presentation templates: 
 
 > **Template 1 (standard presentation):**
 
@@ -28,9 +28,9 @@ Google Slides
 That includes:
 
 1. Always use the purple background ( Color code: #32263C )
-2. Extract design elements such as logo, vote token, etc. from the templates - avoid recreating anything.
+2. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the templates - avoid recreating anything.
 2. Use Helvetica as the main font ( see how we use bold / unbold on our template ). 
-3. Less is more! :) Make sure every slide contains only the necessary information ( you want people to pay attention to you, and the slide is just a resource that can reinforce your message without being distracting ).
+3. Less is more! Make sure every slide contains only the necessary information ( you want people to pay attention to you, and the slide is just a resource that can reinforce your message without being distracting ).
 4. Use only **high quality** pictures.
-5. If you want to use any other colors, choose the ones that we already use in our templates or the ones from our logo.
+5. If you want to use any other colors, choose the ones that we already use in our templates or the ones from our logo following the Brand Guide.
 
