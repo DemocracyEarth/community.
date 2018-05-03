@@ -49,7 +49,11 @@ Eduardo Medina | Tales From the Crypt [A Conversation on Venezuela and Bitcoin] 
 
 Santiao Siri | Democracy Salon [Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack) March 2018
 
+Pia Mancini | Rhys Lindmark's Creating a Humanist BlockchainFuture [Democracy.Earth and OpenCollective: Evolving to a System of New Power](http://bit.ly/PiaManciniNewPowerSystems)
+
 Santiago Siri | BlockCrunch podcast with Jason Choi [Geopolitics and the Blockchain](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri) April 2018
+
+Herb Stephens | Democracy Salon [Organzing and Accountability on the Blockchain](http://bit.ly/HerbOrganizingBlockchains)
 
 
 
