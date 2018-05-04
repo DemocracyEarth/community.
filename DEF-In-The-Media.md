@@ -85,7 +85,7 @@ Herb Stephens | Democracy Salon [Organzing and Accountability on the Blockchain]
 
 - **Virginia Review of Politics** [Political Scientist, Democracy Hacktivist Visionary: An Interview wiwth Pia Mancini March 2018](http://bit.ly/PiaVAReview)
 
-- **P2P Foundation** [Who are the new co-op weavers?](https://blog.p2pfoundation.net/who-are-the-new-co-op-weavers/2018/04/23)
+- **P2P Foundation** [Who are the new co-op weavers?](https://blog.p2pfoundation.net/who-are-the-new-co-op-weavers/2018/04/23 April 2018)
 
 ## **WHAT WE SAY ABOUT OUR WORK**
 
