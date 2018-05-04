@@ -106,6 +106,8 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 
 - [SDG Special Report: Digital ID As a Basic Human Right](http://bit.ly/digitalIDrefugees)
 
+- [Who are the new co-op weavers?  P2P Foundation ](https://blog.p2pfoundation.net/who-are-the-new-co-op-weavers/2018/04/23)
+
 
 ##  **PILOTS & CASE STUDIES**
 
