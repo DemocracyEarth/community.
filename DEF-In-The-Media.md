@@ -53,7 +53,7 @@ Pia Mancini | Rhys Lindmark's Creating a Humanist BlockchainFuture [Democracy.Ea
 
 Santiago Siri | BlockCrunch podcast with Jason Choi [Geopolitics and the Blockchain](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri) April 2018
 
-Herb Stephens | Democracy Salon [Organzing and Accountability on the Blockchain](http://bit.ly/HerbOrganizingBlockchains)
+Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain](http://bit.ly/HerbOrganizingBlockchains)
 
 
 
