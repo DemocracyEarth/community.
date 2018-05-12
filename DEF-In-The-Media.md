@@ -1,6 +1,6 @@
 ## Democracy Earth Foundation 🌿
 # Bibliography
-Videos, Press Mentions, Articles & TED Talks**
+**Videos, Press Mentions, Articles & TED Talks**
 
 This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
