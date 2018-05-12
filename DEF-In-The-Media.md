@@ -27,6 +27,10 @@ Santiago Siri | Samsung Next Ask an Expert [The Decentralized Future: What is it
 
 Santiago Siri | Fast Forward Accelerate Good Global [Blockchain for Social Good: Not Just a Quick Billion](http://bit.ly/SantiAccelr8Good) March 2018
 
+Herb Stephens | World Affairs [Blockchain: A Tool For Social Good?](http://bit.ly/WorldAffairsFB) May 2018
+
+Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation State](https://www.youtube.com/playlist?list=PLqQr7a4PpiBjwcmolcFo4FaWdB8zuUerR) May 2015
+
 
 
 ## **PODCASTS**
