@@ -1,5 +1,6 @@
 ## Democracy Earth Foundation 🌿
-# **Videos, Press Mentions, Articles & TED Talks**
+# Bibliography
+Videos, Press Mentions, Articles & TED Talks**
 
 This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
@@ -31,7 +32,6 @@ Santiago Siri | Fast Forward Accelerate Good Global [Blockchain for Social Good:
 Herb Stephens | World Affairs [Blockchain: A Tool For Social Good?](http://bit.ly/WorldAffairsFB) May 2018
 
 Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation State](https://www.youtube.com/playlist?list=PLqQr7a4PpiBjwcmolcFo4FaWdB8zuUerR) May 2015
-
 
 
 ## **PODCASTS**
