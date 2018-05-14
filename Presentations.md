@@ -11,7 +11,7 @@ Whether you are looking for a step-by-step instructional guide or just tips on o
 
 PowerPoint
 
-Keynote
+[Keynote] [https://www.dropbox.com/s/82z7ukm8mu1137g/Democracy.Earth_template.key?dl=0]
 
 Google Slides
 
