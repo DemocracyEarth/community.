@@ -1,3 +1,8 @@
+This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
+
+Check out these materials to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
+
+
 # Presentations
 
 Whether you are looking for a step-by-step instructional guide or just tips on on everything from building a presentation or speech that is digital content-ready speech, to planning and implementing an event, be it a MeetUp or Hackathon, the Democracy Earth Community has an expert you can learn from. 
@@ -27,8 +32,8 @@ Google Slides
 
 That includes:
 
-1. Always use the purple background ( Color code: #32263C )
-2. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the templates - avoid recreating anything.
+1. Always follow the Democracy Brand Guide for presenation design elements, e.g. use the DEF purple background ( Color code: #32263C )
+2. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the Brand Guide - avoid recreating anything.
 2. Use Helvetica as the main font ( see how we use bold / unbold on our template ). 
 3. Less is more! Make sure every slide contains only the necessary information ( you want people to pay attention to you, and the slide is just a resource that can reinforce your message without being distracting ).
 4. Use only **high quality** pictures.
