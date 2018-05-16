@@ -5,7 +5,6 @@ This file is where we will provide links to resources to help Ambassadors create
 
 Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-) to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
 
-![smallwheat1](https://user-images.githubusercontent.com/24529258/40144068-2c354d1a-5912-11e8-8cc4-2f62daebd4b2.png)
 
 # Guidelines
 
