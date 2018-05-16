@@ -1,16 +1,15 @@
+## Democracy Earth Foundation 🌿
+# Presentations
+
 This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content designed to help you build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age - a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
 Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-) to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
 
-
-# Presentations
-
-Whether you are looking for a step-by-step instructional guide or just tips on on everything from building a presentation or speech that is digital content-ready speech, to planning and implementing an event, be it a MeetUp or Hackathon, the Democracy Earth Community has an expert you can learn from. 
+![smallwheat1](https://user-images.githubusercontent.com/24529258/40144068-2c354d1a-5912-11e8-8cc4-2f62daebd4b2.png)
 
 # Guidelines
 
-- Every presentation must reflect the Democracy Earth as represented by our Branding Guide
-- The best way to go about this is using one of the Democracy Earth approved presentation templates: 
+- We want your Democracy Earth presentation to properly reflect DEF branding elements and style as represented by our Branding Guide The best way to go about this is using one of the Democracy Earth approved presentation templates
 
 > **Template 1 (standard presentation):**
 
