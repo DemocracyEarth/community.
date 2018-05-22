@@ -7,11 +7,9 @@ Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/
 
 
 # Guidelines
-We want your Democracy Earth presentation to properly reflect DEF branding elements and style as represented by our Branding Guide The best way to go about this is using one of the Democracy Earth approved presentation templates
+While we expect presentations made by Ambassadors should reflect the tone, style and focus you bring to the event, presentation materials themselves should follow the Democracy Earth Branding Guide with respect to usage of logos, color, and graphics ((e.g. use official Democracy Earth purple background color #32263C )). Additional guidelnes for effective presenations include: 
 
-
-1. Always follow the Democracy Brand Guide for presenation design elements, e.g. use the DEF purple background ( Color code: #32263C )
-2. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the Brand Guide - avoid recreating anything.
+1. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the Brand Guide - avoid recreating anything
 2. Use Helvetica as the main font ( see how we use bold / unbold on our template ). 
 3. Less is more! Make sure every slide contains only the necessary information ( you want people to pay attention to you, and the slide is just a resource that can reinforce your message without being distracting ).
 4. Use only **high quality** pictures.
