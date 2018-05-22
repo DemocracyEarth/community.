@@ -19,15 +19,16 @@ We want your Democracy Earth presentation to properly reflect DEF branding eleme
 
 
 # Templates
-Below you will find two presentation slide decks: 
+Below you will find two presentation slide decks:
 - the liquid democracy presentation
 - the geopolitical/crypto presentation
 
-## Platform
-All presentation slide decks 
+Each presenation is available in three formats: 
 - PowerPoint
 - Google Slides
 - Powerpoint
+
+
 
 [Keynote](https://www.dropbox.com/s/82z7ukm8mu1137g/Democracy.Earth_template.key?dl=0)
 
