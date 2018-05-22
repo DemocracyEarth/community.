@@ -8,11 +8,19 @@ Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/
 
 # Guidelines
 
-- We want your Democracy Earth presentation to properly reflect DEF branding elements and style as represented by our Branding Guide The best way to go about this is using one of the Democracy Earth approved presentation templates
+We want your Democracy Earth presentation to properly reflect DEF branding elements and style as represented by our Branding Guide The best way to go about this is using one of the Democracy Earth approved presentation templates
 
-> **Template 1 (standard presentation):**
 
-PowerPoint
+# Templates
+Below you will find two presentation slide decks: 
+- the liquid democracy presentation
+- the geopolitical/crypto presentation
+
+## Platform
+All presentation slide decks 
+- PowerPoint
+- Google Slides
+- Powerpoint
 
 [Keynote](https://www.dropbox.com/s/82z7ukm8mu1137g/Democracy.Earth_template.key?dl=0)
 
