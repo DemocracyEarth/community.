@@ -11,7 +11,7 @@ Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/
 While we expect presentations made by Ambassadors should reflect the tone, style and focus you bring to the event, presentation materials themselves should follow the Democracy Earth Branding Guide with respect to usage of logos, color, and graphics ((e.g. use official Democracy Earth purple background color #32263C )). 
 
 
-**All presentations must be sent to sandra@democracy.earth at least 72 hours in advance of the event for approval.** Send the file that you will be utilizing, plus a video of you talking through the slides (you can record yourself speaking while you go through the slides on your screen with Quicktime player). This also makes for an excellent preparation exercide :)
+**Important: presentations must be reviewed by Democracy Earth Communications at least 72 hours in advance of the event.** Provide the file of you presentation plus a recording of your presentation timing  - we recommend QuickTime.  This also makes for an excellent preparation exercide :)
 
 Additional guidelnes for preparing effective presentations include: 
 
