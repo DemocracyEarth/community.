@@ -60,7 +60,7 @@ Challenge:	Find a faculty sponsor. Engage a teacher who might be interested in h
 Purpose: 	Deepen the concepts learned on Week 2, and explore the governance issues in the current scenario. 
 Challenge: 	Redact article to be published in a university newspaper or another publication.
 
-**Week 8  | First week of college**
+**Week 8  | Operating in a network**
 
 Purpose:	Orientation for how to join and participate in the network, how to keep Foundation updated on events and how to ask for help.
 Challenge: 	Organize a meetup.
