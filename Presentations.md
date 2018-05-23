@@ -24,7 +24,7 @@ Additional guidelnes for preparing effective presentations include:
 7. Slide background should be Democracy Earth purple. Choose accent colors from the Democracy Earth Brand Guide.
 8. Know before you go: confirm presentation setup in advance with event orgnaizers, and choose your presentation format accordingly.
 9. Every presentation should address fundamental messages of the Democracy Earth platform: The Social Smart Contract, the benefits and tools of blockchain-based liquid democracy.  
-10. Liquid democracy is not an abstract idea - in vote.democracy.earth you have a toolbox to demonstrate/explore. Every presentation should contain a call to action to log on to vote.democracy.earth.  Plan to engage the audience wit pre-prepared polls/proposals/debates or #hashtag issues created on vote.democracy.earth before the event.
+10. Liquid democracy is not an abstract idea - in vote.democracy.earth you have a toolbox to demonstrate/explore. Every presentation should contain a call to action to log on to vote.democracy.earth.  Plan to engage the audience with pre-prepared polls/proposals/debates or #hashtag issues created on vote.democracy.earth before the event.
 11. Where possible, establish with Democracy Earth an api.democracy.earth for your organization/jurisdiction/event.
 
 <img width="494" alt="screen shot 2018-05-23 at 00 24 18" src="https://user-images.githubusercontent.com/18194034/40402028-d8b218ea-5e1f-11e8-914f-a4d035a2543c.png">
