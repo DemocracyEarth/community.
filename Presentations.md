@@ -37,7 +37,7 @@ Additional guidelnes for preparing effective presentations include:
 
 Below you will find two presentation slide decks:
 
-- Standard liquid democracy presentation
+## Standard liquid democracy presentation
 
 <img width="585" alt="screen shot 2018-05-22 at 23 12 36" src="https://user-images.githubusercontent.com/18194034/40399837-d8b44c46-5e15-11e8-8814-6dab378e6f54.png">
 
@@ -46,7 +46,7 @@ Below you will find two presentation slide decks:
 [Download Keynote](https://www.dropbox.com/s/82z7ukm8mu1137g/Democracy.Earth_template.key?dl=0)
 
 
-- Geopolitical role of crypto presentation
+## Geopolitical role of crypto presentation
 
 <img width="585" alt="screen shot 2018-05-22 at 23 16 12" src="https://user-images.githubusercontent.com/18194034/40399908-277fc22e-5e16-11e8-9533-2c51e2c2a7e8.png">
 
