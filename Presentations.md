@@ -17,30 +17,25 @@ While we expect presentations made by Ambassadors should reflect the tone, style
 
 
 # Templates
+
 Below you will find two presentation slide decks:
-- the liquid democracy presentation
-- the geopolitical/crypto presentation
 
-Each presenation is available in three formats: 
-- PowerPoint
-- Google Slides
-- Powerpoint
+- Standard liquid democracy presentation
 
-
+<img width="585" alt="screen shot 2018-05-22 at 23 12 36" src="https://user-images.githubusercontent.com/18194034/40399837-d8b44c46-5e15-11e8-8814-6dab378e6f54.png">
 
 [Keynote](https://www.dropbox.com/s/82z7ukm8mu1137g/Democracy.Earth_template.key?dl=0)
 
-Google Slides
+[PowerPoint](https://www.dropbox.com/s/yopqdm137shoud7/Democracy.Earth_template.pptx?dl=0)
 
-> **Template 2 ( geopolitical role of Bitcoin + standard presentation ):**
 
-PowerPoint
+- Geopolitical role of crypto presentation
 
-Keynote 
+<img width="585" alt="screen shot 2018-05-22 at 23 16 12" src="https://user-images.githubusercontent.com/18194034/40399908-277fc22e-5e16-11e8-9533-2c51e2c2a7e8.png">
 
-Google Slides
+[Keynote](https://www.dropbox.com/s/10beojlb6d6eq2n/Democracy%20Earth%20-%20Geopolitical%20-%20Template%20.key?dl=0)
+[PowerPoint](
 
-- If you want to make a couple tweaks to those templates to better fit your own narrative, ensure that any adittional slide is in accordance with our aesthetic and submit that to us for approval at least a week in advance of your presentation date. 
 
 
 
