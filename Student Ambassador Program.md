@@ -30,29 +30,30 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **May 25**   Applications open
 
-**June 15**   Applications close
+**June 15**  Applications close
 
 **July 2**   Announcement of selected Ambassadors 
 
 **July 7**   Inaugural Ambassador Meeting
 
-**July 9**     8 Week Peer Learning Program Starts
+**July 9**   8 Week Peer Learning Program Begins
 
-                    Week 1
+             July x       Week 1
                     
-                    Week 2 
+             July y       Week 2 
                     
-                    Week 3
+             July z       Week 3
                     
-                    Week 4
+             July w       Week 4
                     
-                    Week 5
+             Aug x        Week 5
                     
-                    Week 6
+             Aug y        Week 6
                     
-                    Week 7
+             Aug z        Week 7
                     
-August 27-31        Week 8
+             Aug w        Week 8
+                    
                     
 
 Note: schedule will be adjusted on a case-by-case basis for early start students
