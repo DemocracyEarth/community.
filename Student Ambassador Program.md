@@ -36,8 +36,13 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 7.**   Inaugural online gathering with all of the Ambassadors
 
-**July 9-14.**   Week 1 of the program
-
+**July 9-14.**      Week 1 of the program
+                    Week 2 
+                    Week 3
+                    Week 4
+                    Week 5
+                    Week 6
+                    Week 7
 **August 27-31.**   Week 8 - classes start (we'll work on a case-by-case basis if there's someone who starts earlier)
 
 ## Content<a name="Content"></a>
