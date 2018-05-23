@@ -36,7 +36,7 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 7**   Inaugural Ambassador Meeting
 
-**July 9**   8 Week Peer Learning Program Begins
+**July 9**   8-Week Peer Learning Program begins
 
              July x       Week 1
                     
