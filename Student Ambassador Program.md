@@ -28,15 +28,15 @@ The entire content of the program was created in collaboration with our pioneer 
 
 ## Timeline<a name="Timeline"></a>
 
-**May 25.**   Applications open
+**May 25**   Applications open
 
-**June 15.**  Applications close
+**June 15**  Applications close
 
-**July 2.**   Announcement of selected Ambassadors 
+**July 2**   Announcement of selected Ambassadors 
 
-**July 7.**   Inaugural Ambassador Meeting
+**July 7**   Inaugural Ambassador Meeting
 
-**July 9.**   8-Week Peer Learning Program begins
+**July 9**   8-Week Peer Learning Program begins
 
              July x       Week 1
                     
