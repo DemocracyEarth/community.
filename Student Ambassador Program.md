@@ -8,7 +8,7 @@ Our chosen format - a peer-learning program - is aimed at ensuring that students
 
 Ambassador students will be challenged to engage their peers on our voting platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish material and host a meetup to kickstart their communities and engage organizations and Student governments to use liquid democracy . 
 
-The entire content of the program was created in collaboration with our pioneer Student Ambassadors who come from Yale University, UC Berkeley, Cornell University, University of Virginia and Northwestern University. The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
+The entire content of the program was created in collaboration with our pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and (Robinson Markus) Northwestern University, as well as Janine Gölz. The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
 
 ## Timeline
 
