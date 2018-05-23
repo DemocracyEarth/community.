@@ -2,13 +2,15 @@
 
 ## Student Ambassador Program
 
-[About the Student Ambassador Program](#About)
+Index:
 
-[Application](#Application)
+* [About the Student Ambassador Program](#About)
 
-[Timeline](#Timeline)
+* [Application](#Application)
 
-[Content](#Content)
+* [Timeline](#Timeline)
+
+* [Content](#Content)
 
 ## About<a name="About"></a>
 
