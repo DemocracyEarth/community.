@@ -16,9 +16,9 @@ Index:
 
 Democracy Earth Foundation aims to build a global movement for blockchain-based liquid democracy. Universities are rich with micro-activism and decision-making, presenting a low consequence environment for innovative governance experiments. During the Summer of 2018, Democracy Earth Foundation will run a peer-learning program with students from all over the globe to equip future Student Ambassadors with the fundamental building blocks of knowledge that will allow them to have an in-depth understanding of blockchain voting, liquid democracy and crypto politics. After going through the program, students will be equipped to advocate for these ideas and start running liquid democracy governance pilots inside their universities. 
 
-Our chosen format - a peer-learning program - is aimed at ensuring that students are properly supported and can leverage a global network of peers with similar interests. The program will consist of eight weekly meetings where a range of topics will be covered, including: **history of citizen participation technology (democracy tech), blockchain basics, applications of smart contracts for governance, liquid democracy, the case for global governance and a universal basic income, the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, and the governance aspects of blockchain networks.** 
+Our chosen format - a peer-learning program - is aimed at ensuring that student ambassadors can optimally leverage the expertise of a global network of democracy activist peers. The program will consist of eight weekly meetings where a range of topics will be covered, including: **history of citizen participation technology (democracy tech), blockchain basics, applications of smart contracts for governance, liquid democracy, the case for global governance and a universal basic income, the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, and the governance aspects of blockchain networks.** 
 
-Ambassador students will be challenged to engage their peers on our voting platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish material and host a meetup to kickstart their communities and engage organizations and Student governments to use liquid democracy . 
+Student Ambassadors will be challenged to engage their peers on the Democracy Earth governance platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish content and host MeetUps to kickstart their communities and engage organizations and student governments to experiment liquid democracy . 
 
 The entire content of the program was created in collaboration with our pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz. The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
 
@@ -34,15 +34,22 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 2.**   Announcement of selected Ambassadors 
 
-**July 7.**   Inaugural online gathering with all of the Ambassadors
+**July 7.**   Inaugural Ambassador Meeting
 
 **July 9-14.**      Week 1 of the program
+
                     Week 2 
+                    
                     Week 3
+                    
                     Week 4
+                    
                     Week 5
+                    
                     Week 6
+                    
                     Week 7
+                    
 **August 27-31.**   Week 8 - classes start (we'll work on a case-by-case basis if there's someone who starts earlier)
 
 ## Content<a name="Content"></a>
