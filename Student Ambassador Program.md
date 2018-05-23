@@ -36,8 +36,10 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 7.**   Inaugural Ambassador Meeting
 
-**July 9-14.**      Week 1 of the program
+**July 9-14.**     8 Week Peer Learning Program Starts
 
+                    Week 1
+                    
                     Week 2 
                     
                     Week 3
@@ -50,7 +52,10 @@ The entire content of the program was created in collaboration with our pioneer 
                     
                     Week 7
                     
-**August 27-31.**   Week 8 - classes start (we'll work on a case-by-case basis if there's someone who starts earlier)
+August 27-31        Week 8
+                    
+
+Note: schedule will be adjusted on a case-by-case basis for early start students
 
 ## Content<a name="Content"></a>
 
