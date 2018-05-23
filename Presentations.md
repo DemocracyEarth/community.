@@ -15,17 +15,17 @@ While we expect presentations made by Ambassadors should reflect the tone, style
 
 Additional guidelnes for preparing effective presentations include: 
 
-1. Time your presentations in advance; know your overall objective, the cal to action, and the key message/takeaway for every slide.
-2. Assume one slide per five minuts of presentation time
+1. Time your presentations in advance; know your overall objective and the key message/takeaway for every slide.
+2. Assume one slide per five minutse of presentation time.
 3. Extract all graphical design elements such as logo, vote token, liquid democracy illustrations etc. from the Democracy Earth Brand Guide - avoid recreating anything.
 4. Use Helvetica as the main font, minimum 24 pt  (see how we use bold / unbold on our template ). 
 5. Less is more! Make sure every slide contains only the necessary information ( you want people to pay attention to you, and the slide is just a resource that can reinforce your message without being distracting ).
 6. Use only **high quality** pictures.
 7. Slide background should be Democracy Earth purple. Choose accent colors from the Democracy Earth Brand Guide.
-8. Know before you go: confirm presentation setup in advance with event orgnaizers, and choose your presentation format accordingly
+8. Know before you go: confirm presentation setup in advance with event orgnaizers, and choose your presentation format accordingly.
 9. Every presentation should address fundamental messages of the Democracy Earth platform: The Social Smart Contract, the benefits and tools of blockchain-based liquid democracy.  
 10. Liquid democracy is not an abstract idea - in vote.democracy.earth you have a toolbox to demonstrate/explore. Every presentation should contain a call to action to log on to vote.democracy.earth.  Plan to engage the audience wit pre-prepared polls/proposals/debates or #hashtag issues created on vote.democracy.earth before the event.
-11. Where possible, establish with Democracy Earth an api.democracy.earth for your organization/jurisdiction/event
+11. Where possible, establish with Democracy Earth an api.democracy.earth for your organization/jurisdiction/event.
 
 <img width="494" alt="screen shot 2018-05-23 at 00 24 18" src="https://user-images.githubusercontent.com/18194034/40402028-d8b218ea-5e1f-11e8-914f-a4d035a2543c.png">
 
