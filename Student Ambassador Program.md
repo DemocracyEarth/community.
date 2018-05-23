@@ -2,6 +2,13 @@
 
 ## Student Ambassador Program
 
+[About the Student Ambassador Program](#About)
+[Application](#Application)
+[Timeline](#Timeline)
+[Content](#Content)
+
+## About<a name="About"></a>
+
 Democracy Earth Foundation aims to build a global movement for blockchain-based liquid democracy. Universities are rich with micro-activism and decision-making, presenting a low consequence environment for innovative governance experiments. During the Summer of 2018, Democracy Earth Foundation will run a peer-learning program with students from all over the globe to equip future Student Ambassadors with the fundamental building blocks of knowledge that will allow them to have an in-depth understanding of blockchain voting, liquid democracy and crypto politics. After going through the program, students will be equipped to advocate for these ideas and start running liquid democracy governance pilots inside their universities. 
 
 Our chosen format - a peer-learning program - is aimed at ensuring that students are properly supported and can leverage a global network of peers with similar interests. The program will consist of eight weekly meetings where a range of topics will be covered, including: **history of citizen participation technology (democracy tech), blockchain basics, applications of smart contracts for governance, liquid democracy, the case for global governance and a universal basic income, the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, and the governance aspects of blockchain networks.** 
@@ -10,9 +17,11 @@ Ambassador students will be challenged to engage their peers on our voting platf
 
 The entire content of the program was created in collaboration with our pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz. The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
 
+## Application<a name="Application"></a>
+
 **If you are interested in joining the program,** 👉 [APPLY HERE.](https://democracyearthfoundation.typeform.com/to/QhsJjm)
 
-## Timeline
+## Timeline<a name="Timeline"></a>
 
 **May 25.**   Applications start 
 
@@ -26,7 +35,7 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **August 27-31.**   Week 8 - classes start (we'll work on a case-by-case basis if there's someone who starts earlier)
 
-## Content
+## Content<a name="Content"></a>
 
 **Week 1 | Background**
 
