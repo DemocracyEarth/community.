@@ -6,7 +6,7 @@ This file is where we will provide links to resources to help Ambassadors create
 Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-) to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
 
 
-# Guidelines
+## Guidelines
 
 While we expect presentations made by Ambassadors should reflect the tone, style and focus you bring to the event, presentation materials themselves should follow the Democracy Earth Branding Guide with respect to usage of logos, color, and graphics ((e.g. use official Democracy Earth purple background color #32263C )). 
 
