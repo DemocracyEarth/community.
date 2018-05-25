@@ -44,7 +44,7 @@ The entire content of the program was created in collaboration with our pioneer 
                     
              July 23-27      Week 3 - Smart Contracts & Liquid Democracy
                     
-             July 30- Aug 3  Week 4 - Global Governance & Universal Basic Income
+             July 30 - Aug 3 Week 4 - Global Governance & Universal Basic Income
                     
              Aug 6-10        Week 5 - Crypto Politics
                     
@@ -56,7 +56,7 @@ The entire content of the program was created in collaboration with our pioneer 
                     
                     
 
-Note: schedule will be adjusted on a case-by-case basis for early start students
+Note: the learning will be done online and can be adapted to each student's availability. Peer-learning meetings will be adjusted on a case-by-case basis.
 
 ## Content<a name="Content"></a>
 
