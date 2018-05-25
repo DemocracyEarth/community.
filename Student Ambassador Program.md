@@ -1,4 +1,4 @@
-   <img width="753" alt="screen shot 2018-05-23 at 01 25 24" src="https://user-images.githubusercontent.com/18194034/40403430-443f636c-5e28-11e8-8fa3-8e4b6f18dcf7.png">
+<img width="771" alt="screen shot 2018-05-25 at 01 25 25" src="https://user-images.githubusercontent.com/18194034/40526725-c6943ad0-5fbe-11e8-93f1-21d463c04c4a.png">
 
 ## Student Ambassador Program
 
@@ -36,23 +36,23 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 7**   Inaugural Ambassador Meeting
 
-**July 9**   8-Week Peer Learning Program begins
+**July 9**   8-Week Online Peer Learning Program begins
 
-             July x       Week 1
+             July 9-13       Week 1 - Background
                     
-             July y       Week 2 
+             July 16-20      Week 2 - Blockchain Basics
                     
-             July z       Week 3
+             July 23-27      Week 3 - Smart Contracts & Liquid Democracy
                     
-             July w       Week 4
+             July 30- Aug 3  Week 4 - Global Governance & Universal Basic Income
                     
-             Aug x        Week 5
+             Aug 6-10        Week 5 - Crypto Politics
                     
-             Aug y        Week 6
+             Aug 13-17       Week 6 - Decentralized ID & Sybil Attacks
                     
-             Aug z        Week 7
+             Aug 20-24       Week 7 - Governance
                     
-             Aug w        Week 8
+             Aug 28 - Sep 1  Week 8 - Networked Approach
                     
                     
 
@@ -62,41 +62,41 @@ Note: schedule will be adjusted on a case-by-case basis for early start students
 
 **Week 1 | Background**
 
-Purpose:	Provide a brief history of citizen-participation technology (democracy tech) and how that informs our vision for our work at Democracy Earth. Teach what does it mean to build values-based software, what is open source, why it matters and how it works. Expose Ambassadors to how open-source projects are developed on Github and Slack.
+We start by providing a brief history of citizen-participation technology (democracy tech) and how that history informs the vision for our work at Democracy Earth. We explore what does it mean to build a values-based software, what is open source, why it matters and how it works. 
 Challenge: Start creating debates on your universitie's URL and invite your peers to join it!
 
 **Week 2  | Blockchain**
 
-Purpose:	Have the new Ambassador develop a solid introductory knowledge of the mechanics behind blockchains. Every Ambassador will be able to own the basic vocabulary [public/private keys, the double-spend problem, protocol, hash and proof of work].
+Solid introductory knowledge of the mechanics behind blockchains. Every Ambassador will be able to own the basic "blockchain vocabulary" [public/private keys, the double-spend problem, protocol, hash, timestamps and proof of work].
 
 **Week 3 | Smart contracts & Liquid democracy**
 
-Purpose:	Have the new Ambassador develop an introductory knowledge of smart contracts and their application for transparency, accountability, governance and participatory budgeting + liquid democracy.
+Introductory knowledge of smart contracts and their application for transparency, accountability, governance and participatory budgeting + an in depth view of liquid democracy.
 
 **Week 4 | Global Governance**
 
-Purpose:	Explore the challenges that our globalized economy and interconnected ecology present for nationally based governments. Share DEF's vision for the need of an inclusive global governance system that can be enacted from the individual level, the role that the foundation aims to play in enabling it through a blockchain-based ID software and tokenization of votes + our strategy for deploying it and creating a global movement.
+We will explore the challenges that our globalized economy and interconnected ecology present for nationally based governments. Here we share DEF's vision for the need of an inclusive global governance system that can be enacted from the individual level, the role that the foundation aims to play in enabling it through a blockchain-based ID software and tokenization of votes + our strategy for deploying it.
 
 **Week 5 | Crypto politics**
 
-Purpose:	Discuss the geopolitical role of Bitcoin and the new nuances of crypto politics. 
+Introduction to the geopolitical role of Bitcoin and the emerging dynamics of crypto politics. 
 Challenge:	Find a partner / team, to work with them in their respective universities.
 
 
 **Week 6 | Decentralized ID**
 
-Purpose: 	Introduce them to the main challenge of crypto: building a truly decentralized ID system + DEF views on the matter and parallel developments from other organizations. 
+Introduction to the main challenge of the crypto ecossystem: building a truly decentralized ID system. We also share DEF views on the matter and parallel developments from other organizations. 
 Challenge:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
 
 
 **Week 7 | Blockchain governance**
 
-Purpose: 	Deepen the concepts learned on Week 2, and explore the governance issues in the current scenario. 
+Deepening the concepts learned on Week 2, and an overview of the governance issues in the current scenario. 
 Challenge: 	Redact article to be published in a university newspaper or another publication.
 
 **Week 8  | Operating in a network**
 
-Purpose:	Orientation for how to join and participate in the network, how to keep Foundation updated on events and how to ask for help.
+Orientation for how to join and participate in the network, how to keep Foundation updated on events and how to ask for help.
 Challenge: 	Organize a meetup.
 
 
