@@ -38,21 +38,21 @@ The entire content of the program was created in collaboration with our pioneer 
 
 **July 9.**   8-Week Online Peer Learning Program begins
 
-             **July 9-13.**         Week 1 - Background
+             July 9-13.         Week 1 - Background
                     
-             **July 16-20.**        Week 2 - Blockchain Basics
+             July 16-20.        Week 2 - Blockchain Basics
                     
-             **July 23-27.**        Week 3 - Smart Contracts & Liquid Democracy
+             July 23-27.        Week 3 - Smart Contracts & Liquid Democracy
                     
-             **July 30 - Aug 3.**   Week 4 - Global Governance & Universal Basic Income
+             July 30 - Aug 3.   Week 4 - Global Governance & Universal Basic Income
                     
-             **Aug 6-10.**          Week 5 - Crypto Politics
+             Aug 6-10.          Week 5 - Crypto Politics
                     
-             **Aug 13-17.**         Week 6 - Decentralized ID & Sybil Attacks
+             Aug 13-17.         Week 6 - Decentralized ID & Sybil Attacks
                     
-             **Aug 20-24.**         Week 7 - Governance
+             Aug 20-24.         Week 7 - Governance
                     
-             **Aug 28 - Sep 1.**    Week 8 - Networked Approach
+             Aug 28 - Sep 1.    Week 8 - Networked Approach
                     
                     
 
