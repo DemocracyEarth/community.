@@ -17,3 +17,9 @@ Here you will be able to find all the information you need in order to conduct y
 
 
 * **giving a presentation:** Whenever you have a presentation to give, please refer to our [Presentation file](https://github.com/DemocracyEarth/ambassadors/blob/master/Presentations.md), where you will find our slides to be downloaded and guidelines regarding how you can edit them. Note that all presentations must be sent to sandra@democracy.earth and paula@democracy.earth at least 72 hours in advance of the event, for approval. Only presentations that are in accordance with the guidelines will be approved.
+
+* **following up our development / suggesting a feature:** The simplest way to follow our development is by keeping up with our monthly [Development Updates](https://words.democracy.earth/monthly-dev-update/home) at our Hacktivism publication. For a closer look, you can check our [development Milestones](https://github.com/DemocracyEarth/sovereign/milestones) and see what is being worked on in real time! If you have a suggestion regarding product features, make it via [Github issues](https://github.com/DemocracyEarth/sovereign/issues) and be prepared for a good debate! Every new feature is the product of open, transparent debates, so that the product is very well though through. Here is an example of such debate, and here is how to create a Github issue!
+
+<p align="center">
+         <img width="534" alt="screen shot 2018-05-28 at 16 46 48" src="https://user-images.githubusercontent.com/18194034/40627703-e314faac-6296-11e8-9fa0-289983456446.png">
+         </p>
