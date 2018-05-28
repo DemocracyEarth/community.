@@ -5,7 +5,9 @@ Here you will be able to find all the information you need in order to conduct y
 
 * **INITIAL SET-UP:** You have received your democracy.earth e-mail and your invite to Basecamp. Now, create your Basecamp profile with: address, e-mail, phone number, and the URL you will be working on (ex: venezuela.democracy.earth) + 10 questions to kickstart the URL with content. [Here's a video showing how to do it.](https://drive.google.com/file/d/14Pxvgiks7Wbcr2n04XdyGIL1TGj19ZQI/view?usp=sharing) Alternativelly, you can request your URL directly [here](https://github.com/DemocracyEarth/sovereign/issues/305), on Github. 
 
+<p align="center">
          <img width="571" alt="screen shot 2018-05-28 at 14 51 29" src="https://user-images.githubusercontent.com/18194034/40625091-b6f38aac-6286-11e8-954e-b2dfd976924b.png">
+         </p>
 
 * **EVENTS:** If you are going to host an event or participate in an event in any form, add it to Basecamp's schedule with all relevant information (ex: streaming link) so that we can add it to our communications. You can ask us questions on the event thread, and Sandra Miller, the responsible for DEF's communications, might be asking you questions over there as well. All events related communication should be made on Basecamp. [Here's a video showing how to do it.](https://drive.google.com/file/d/1T0wtDWSeZfLomv_ttJBCJHaLMTP3mdCi/view?usp=sharing)
 
