@@ -1,4 +1,3 @@
-## Democracy Earth Foundation 🌿
 # Presentations
 
 This file is where we will provide links to resources to help Ambassadors create presentations, social communications and other content. These are designed to help you spread our message and build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age: a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
