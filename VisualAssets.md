@@ -1,8 +1,6 @@
-For step-by-step instructions on how to create a DEF approved quote banner, go [here](https://github.com/DemocracyEarth/community/blob/master/README.md) 
+# Logos
 
-# Approved quote banners
-
-![pia meme](https://user-images.githubusercontent.com/24529258/34322936-e163a280-e7e9-11e7-8e62-9a14fe793cac.png)
-
-
+* [logo (dark background)](https://www.dropbox.com/s/vtx1jjkzo41uk1s/DEF%20logo-03.png?dl=0)
+* [logo (transparent background)](https://www.dropbox.com/s/lrgftywlpxst0m2/DEF%20logo-02.png?dl=0)
+* [olive branch (transparent background)](https://www.dropbox.com/s/chpazrfao8w6xrf/Democracy.Earth%20wheat%20sheaf%20symbol.png?dl=0)
 
