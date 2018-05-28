@@ -23,3 +23,8 @@ Here you will be able to find all the information you need in order to conduct y
 <p align="center">
          <img width="534" alt="screen shot 2018-05-28 at 16 46 48" src="https://user-images.githubusercontent.com/18194034/40627703-e314faac-6296-11e8-9fa0-289983456446.png">
          </p>
+
+
+<p align="center">
+         .   .   . 
+         </p>
