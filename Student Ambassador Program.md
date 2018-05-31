@@ -30,9 +30,9 @@ The entire content of the program was created in collaboration with our pioneer 
 
 ## Timeline<a name="Timeline"></a>
 
-**May 25.**   Applications open
+**May 31.**   Applications open
 
-**June 15.**  Applications close
+**June 22.**  Applications close
 
 **July 2.**   Announcement of selected Ambassadors 
 
