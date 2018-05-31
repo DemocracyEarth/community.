@@ -1,6 +1,8 @@
-<img width="771" alt="screen shot 2018-05-25 at 01 25 25" src="https://user-images.githubusercontent.com/18194034/40526725-c6943ad0-5fbe-11e8-93f1-21d463c04c4a.png">
+# Democracy Earth Foundation 🌿 
 
 ## Student Ambassador Program
+
+<img width="771" alt="screen shot 2018-05-25 at 01 25 25" src="https://user-images.githubusercontent.com/18194034/40526725-c6943ad0-5fbe-11e8-93f1-21d463c04c4a.png">
 
 Index:
 
