@@ -3,7 +3,7 @@
 
 Here you will be able to find all the information you need in order to conduct your activities as an Ambassador for Democracy Earth Foundation.
 
-* **choosing your URL:** On the internet land, a URL can be analogous to territory. This is where you will do your work and build your movement. There are three different kinds of urls that can be created on vote.democracy.earth: 
+* **choosing your URL:** On the internet land, a URL can be analogous to territory. This is where you will do your work and build your movement. There are three different kinds of URLs that can be created on vote.democracy.earth: 
 
 
 NATIONAL - A national url points to all posts made by users from a given nation. Ex: venezuela.democracy.earth
