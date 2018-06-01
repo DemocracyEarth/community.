@@ -1,4 +1,3 @@
-## Democracy Earth Foundation 🌿 
 
 # Student Ambassador Program
 
