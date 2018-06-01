@@ -6,11 +6,11 @@ Here you will be able to find all the information you need in order to conduct y
 * **choosing your URL:** On the internet land, a URL can be analogous to territory. This is where you will do your work and build your movement. There are three different kinds of urls that can be created on vote.democracy.earth: 
 
 
-*NATIONAL -* A national url points to all posts made by users from a given nation. Ex: venezuela.democracy.earth
+NATIONAL - A national url points to all posts made by users from a given nation. Ex: venezuela.democracy.earth
 
-*PRIVATE -* A private url points to all posts made from a specific account that you can then create. This way you have full control over the content, but it is not as engaging because other usres can only vote or debate, they can't make posts themselves.
+PRIVATE - A private url points to all posts made from a specific account that you can then create. This way you have full control over the content, but it is not as engaging because other usres can only vote or debate, they can't make posts themselves.
 
-*HASHTAG -* You can also have a URL pointing to a specific hashtag, so that any post with that hashtag will appear there. 
+HASHTAG - You can also have a URL pointing to a specific hashtag, so that any post with that hashtag will appear there. 
 
 * **initial set-up:** You have received your democracy.earth e-mail and your invite to Basecamp. Now, create your Basecamp profile with: address, e-mail, phone number, and the URL you will be working on (ex: venezuela.democracy.earth) + 10 questions to kickstart the URL with content. [Here's a video showing how to do it.](https://drive.google.com/file/d/14Pxvgiks7Wbcr2n04XdyGIL1TGj19ZQI/view?usp=sharing) Alternativelly, you can request your URL directly [here](https://github.com/DemocracyEarth/sovereign/issues/305), on Github. 
 
