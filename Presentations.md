@@ -12,7 +12,7 @@ While we expect presentations made by Ambassadors should reflect the tone, style
 
 **Important: presentations must be reviewed by Democracy Earth Communications at least 72 hours in advance of the event.** Provide the file of you presentation plus a recording of your presentation timing  - we recommend QuickTime.  This also makes for an excellent preparation exercide :)
 
-Additional guidelnes for preparing effective presentations include: 
+Additional guidelines for preparing effective presentations include: 
 
 1. Time your presentations in advance; know your overall objective and the key message/takeaway for every slide.
 2. Assume one slide per five minutse of presentation time.
