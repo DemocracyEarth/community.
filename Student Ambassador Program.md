@@ -58,7 +58,7 @@ The entire content of the program was created in collaboration with our pioneer 
                     
 
 
-**Note:** the learning will be done online and can be adapted to each student's availability. Peer-learning meetings will be adjusted on a case-by-case basis.
+**Note:** the onlin curriculum is adaptable to individual student availability. Peer-learning meetings will be adjusted on a case-by-case basis.
 
 ## Content<a name="Content"></a>
 
