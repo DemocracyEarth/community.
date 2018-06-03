@@ -88,7 +88,7 @@ Once you have completed the full application process and have been introduced as
   - [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag)
   - [Instagram](https://www.instagram.com/democracy.earth/)
   - [Medium](https://words.democracy.earth/) 
-  - DemocracySalon podcast on [SoundCloud](https://soundcloud.com/user-561734241)
+  - [SoundCloud](https://soundcloud.com/user-561734241)
   - [Sign up for the monthly Democracy Earth newsletter](https://www.democracy.earth/) to keep updated on our work! 
 
 <a name="Step-3"></a>
