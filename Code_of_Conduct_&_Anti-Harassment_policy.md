@@ -1,6 +1,6 @@
+## Democracy Earth Ambassadors Program 🌿
 
-
-## Code of Conduct
+# Code of Conduct
 
 This Code of Conduct is based on [Code for America's](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) Code of Conduct and has been adapted by the Democracy Earth Foundation to serve our community's purpose. 
 
