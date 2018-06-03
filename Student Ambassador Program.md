@@ -19,7 +19,7 @@ Democracy Earth Foundation aims to build a global movement for blockchain-based 
 
 Our chosen format - a peer-learning program - is designed to ensure student ambassadors can leverage the expertise of a global network of democracy activist peers. The program will consist of eight weekly meetings in which a range of topics will be covered, including: 
 
-- **the history of citizen participation technology (democracy tech)
+**- the history of citizen participation technology (democracy tech)
 - the basics of blockchain technology
 - applications of smart contracts for governance
 - the tools and tactics of liquid democracy
