@@ -1,6 +1,4 @@
-
-
-## Democracy Earth Foundation 🌿
+## Democracy Earth Ambassadors Program 🌿
 # Image Release Form
 
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSel8XCZsu385Eg2o19l9IpLaB89DnIraIOpl1g17X8Y-NCyfw/viewform) to sign the Image Release Form.
