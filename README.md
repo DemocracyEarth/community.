@@ -3,7 +3,7 @@
 
 Index to this repo: 
 
-- [The DEF Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform)
+- [The Democracy.Earth Ambassador Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform)
 - Meet the [Democracy Earth Ambassadors](https://words.democracy.earth/ambassadors/home)
 - [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute): How to start a discussion or submit an edit or change on the DEF Ambassador repo
 - [Bibliography: Democracy Earth in the media](https://github.com/DemocracyEarth/community./blob/master/Bibliography.md#democracy-earth-foundation-)
@@ -20,7 +20,7 @@ Index to this repo:
 ](https://www.youtube.com/watch?v=m_ATcV7s8Ys)
 
 
-*[📢 ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the third quarter of 2018. 
+*[📢 ANNOUNCEMENT ]* As of February 1st, we have closed application reviews for the first quarter of 2018. We are working closely with the first cohort of successful applicants and will be announcing them during the next few months. Nevertheless, if you are interested in becoming an Ambassador for Democracy.Earth we highly recommend that you apply as soon as possible, so you can be considered for our next cohort, which we will start interviewing during the third quarter of 2018. 
 
 
 # Ambassador Application Steps
@@ -41,7 +41,7 @@ Index to this repo:
 
 
 
-**Hello future Ambassador!** We need your help to bring our message to the four corners of the world 🌎 and create a global movement that will redefine what democracy is in the 21st century! 
+**Hello future Ambassador!** We need your help to bring the Democracy.Earth message to the four corners of the world 🌎 and create a global movement that will redefine democracy for the 21st century! 
 
 As an Ambassador, you will help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community in and kickstart a debate about what kind of democracy we want in the internet age!
 
@@ -70,19 +70,19 @@ As an Ambassador of Democracy Earth you will represent the Democracy Earth Found
 * Fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLSfwFO4SupMFoG2z3fHlrMFZpg9pm5f-EUblcIIgVs1CY6M5jg/viewform). 
 * **Share your vision with the world!** Send us a < 2 minute video to **ambassadors@democracy.earth** sharing what is your inspiration, why these ideas matter to you and your country, and what you would like to accomplish as an Ambassador for Democracy Earth. Make sure to say your name, country, city and contact information so others from your area can connect with you. Our goal is to create a videowall of Ambassadors representing the global scale and the excitement around the movement we are creating. Most importantly, we want to show other people **why these ideas matter,** why they are relevant, and why they should learn about them as well. In your video, consider the world your audience - address the public, the people that you want to engage as a future Ambassador. We have read about you in your application, and now we want you to show your unique vision and voice to the world as well. 
 
-All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as a title. Be sure to include a short bio with your full name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a Democracy.Earth Ambassador 😊. All videos will go to our [YouTube channel](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) to show the world how our movement is growing globally; your video may even be included in the work of documentarians featuring or promoting Democracy.Earth! For inspiration purposes, make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
+All e-mails should have: **"I want to be an Ambassador for Democracy.Earth"** as a title. Be sure to include a short bio with your full name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a Democracy.Earth Ambassador 😊. All videos will go to our [YouTube channel](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) to show the world how our movement is growing globally; your video may even be included in the work of documentarians featuring or promoting Democracy.Earth! For inspiration purposes, make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
 👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador application, and your planned strategies and tactics. Steps 2 through 5 
 
 <a name="Step-2"></a>
-## **STEP 2 - Connect with Democracy Earth community channels**
+## **STEP 2 - Connect with Democracy.Earth community channels**
 
-Once you have completed the full application process and have been introduced to the Democracy.Earth community as an Ambassador, it's time to get acquainted with the wider Democracy Earth wider community. 
+Once you have completed the full application process and have been introduced as an Ambassador, it's time to get acquainted with the wider Democracy.Earth community. 
 
 * Create a personal Github account so we can share with you materials that you can use for presentations! 😊 
 * Join the Democracy Earth Ambassadors channel, [#ambassadors_def channel](https://democracyearth.slack.com/messages/ambassadors_def/) on [Slack](http://chat.democracy.earth/). We communicate with all of our Ambassadors through this channel; as well, it's a great way to get in touch with other ambassadors from around the world doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
-* Create an profile on the Democracy Earth alpha web-based Sovereign platform at vote.democracy.earth and begin experimenting with the tools of liquid democracy
-* Follow Democracy Earth on social media: 
+* Create an profile on the Democracy.Earth alpha web-based Sovereign platform at vote.democracy.earth and begin experimenting with the tools of liquid democracy
+* Follow Democracy.Earth on social media: 
   - [Twitter](https://twitter.com/democracyearth)
   - [Facebook](https://www.facebook.com/DemocracyEarth/)
   - [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag)
