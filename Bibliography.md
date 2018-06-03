@@ -2,7 +2,7 @@
 # Bibliography
 **Videos, Podcasts, Articles & TED Talks**
 
-## **TALKS**
+## **TED TALKS & VIDEOS**
 
 Pia Mancini TED Talk [How to Upgrade Democracy for the Internet Era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) Oct 2014 
 
