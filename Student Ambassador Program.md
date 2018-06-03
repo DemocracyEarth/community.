@@ -13,7 +13,7 @@
 
 * [Content](#Content)
 
-## About<a name="About"></a>
+🌿## About<a name="About"></a>
 
 Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. Through the response we have received since the launch of our global [Ambassadors Program](https://words.democracy.earth/ambassadors/home) in 2017,  it is readily apparent that the light of democracy hacktivism burns bright in the hearts of students at universities around the world. This has spurred us to extend our Ambassadors program onto campus, and launch a targeted initiative designed for and by students: the Democracy.Earth Student Ambassador program. 
 
@@ -23,14 +23,14 @@ Our chosen educational format - a peer-to-peer learning program - is designed to
 
 Our goal is to connect students togtether and support their efforts to start the liquid democracy conversation and experimentation on the Democracy.Earth Sovereign platform at their unviversity.  Student Ambassadors will be challenged to engage their peers on the Democracy Earth governance software (modeled on the v1.1. alpha here: [vote.democracy.earth](https://vote.democracy.earth/)), form a local team, engage a faculty sponsor, publish content, and host MeetUps to kickstart their communities and engage organizations and student governments with the tools and techniques of liquid democracy.
 
-## Acknowledgements
+🌿## Acknowledgements
 The _*Blockchain Governance Basics*_ program curriculum was created in collaboration with a team of pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz 🇫🇷. All program content will be hosted online and freely accessible to curious and motivated open source-loving democracy hacktivists everywhere: all are welcome!
 
-## Application<a name="Application"></a>
+🌿## Application<a name="Application"></a>
 
 **If you are interested in joining the program,** 👉 [APPLY HERE.](https://democracyearthfoundation.typeform.com/to/QhsJjm)
 
-## Timeline<a name="Timeline"></a>
+🌿## Timeline<a name="Timeline"></a>
 
 **May 31**    
 >>Application period opens
@@ -44,7 +44,7 @@ The _*Blockchain Governance Basics*_ program curriculum was created in collabora
 **July 7**        
 >>Inaugural Online Ambassador Meeting
 
-## Curriculum
+🌿## Curriculum
 
 **July 9.**   8-Week Online Peer Learning Program  _**Blockchain Governance Basics**_ begins
 
@@ -68,13 +68,13 @@ The _*Blockchain Governance Basics*_ program curriculum was created in collabora
 
 _**note:**_ *this online curriculum can be adapted for individual student availability as needed*
 
-## Program Table of Contents<a name="Content"></a>
+🌿## Program Table of Contents<a name="Content"></a>
 
 **Week 1 | Background**
 
 We start by providing a brief history of citizen-participation technology (democracy tech, or #demtech) and how that history informs the vision for our work at Democracy.Earth. We explore what it means to build a values-based software, what is open source, why it matters and how it works. 
 
-🌿 _**Challenge**_: Start the conversation on the Sovereign URL released by Democracy.Earth for your university (university.democracy.earth). Invite your peers to join you in making proposals, voting and debating!
+ _**Challenge**_: Start the conversation on the Sovereign URL released by Democracy.Earth for your university (university.democracy.earth). Invite your peers to join you in making proposals, voting and debating!
 
 **Week 2  | Blockchain**
 
@@ -91,24 +91,24 @@ We will explore the challenges that our globalized economy and interconnected ec
 **Week 5 | Crypto politics**
 
 Introduction to the geopolitical role of Bitcoin and the emerging dynamics of crypto politics. 
-🌿 _**Challenge**_:	Find a partner/team to work with at another university and support their efforts to launch Sovereign.
+ _**Challenge**_:	Find a partner/team to work with at another university and support their efforts to launch Sovereign.
 
 
 **Week 6 | Decentralized ID**
 
 Introduction to the main challenge of the crypto ecossystem: building a truly decentralized sovereign identity system. We also share Democracy.Earth views along with parallel developments among partners and other organizations. 
-🌿 _**Challenge**_:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
+ _**Challenge**_:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
 
 
 **Week 7 | Blockchain governance**
 
 Deepening the concepts of incorruptibility, increased participation and represenation behind the technology mechanics learned during Week 2, with an overview of current governance issues on the _Land_ and in the _Cloud_.
-🌿 _**Challenge**_: author or redact an article to be published in a university newspaper or another online publication including [university blogs](https://virginiapolitics.org/interviews/2018/3/26/interview-16-pia-mancini) or [Hacktivism](https://medium.com/@DemocracyEarth) on Medium.
+ _**Challenge**_: author or redact an article to be published in a university newspaper or another online publication including [university blogs](https://virginiapolitics.org/interviews/2018/3/26/interview-16-pia-mancini) or [Hacktivism](https://medium.com/@DemocracyEarth) on Medium.
 
 **Week 8  | Operating in a network**
 
 Orientation for how to create, join and participate in the network, how to keep the Foundation updated on events and how to ask for help.
-🌿 _**Challenge**_: Organize a meetup.
+ _**Challenge**_: Organize a meetup.
 
 
 
