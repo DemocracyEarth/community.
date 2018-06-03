@@ -43,7 +43,7 @@ Index to this repo:
 
 **Hello future Ambassador!** We need your help to bring our message to the four corners of the world 🌎 and create a global movement that will redefine what democracy is in the 21st century! 
 
-As an Ambassador, help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community in and kickstart a debate about what kind of democracy we want in the internet age!
+As an Ambassador, you will help us spread 📣 ideas of [Liquid Democracy](https://words.democracy.earth/frozen-in-the-past-no-more-the-promise-of-liquid-democracy-e2a067be18bc) into your hometown and start Democracy Earth meetups, so we can bring the community in and kickstart a debate about what kind of democracy we want in the internet age!
 
 Our platform [Sovereign](https://vote.democracy.earth/) is in alpha, and still under development. Now, it's time to bring in the decision makers: those organizations, collectives and institutions that can significantly benefit by implementing liquid democracy practices in their own governance.  
 
@@ -73,17 +73,24 @@ As an Ambassador of Democracy Earth you will represent the Democracy Earth Found
 
 All e-mails should have: **"I want to be an Ambassador for Democracy Earth"** as a title. Be sure to write a short bio in the e-mail including your full name, where you live (city, country), what is your background and platform, if you have one, and most importantly: why you are inspired to be a DEF Ambassador 😊. All videos will go to our [YouTube channel](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) so we can show how our movement is growing globally, and they might go into the work of filmmakers wanting to document and promote Democracy Earth! For inspiration purposes, make sure to check the [amazing work that DEF Ambassador Sunny Sangha is doing in the UK 🇬🇧!](https://www.youtube.com/watch?v=tsz7MjMJ5J8)
 
-👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador strategies and tactics!
+👉 After following these steps, we will get in touch and schedule a meeting with one of DEF core team members by video conference to discuss your Ambassador application, and your planned strategies and tactics. Steps 2 through 5 
 
 <a name="Step-2"></a>
 ## **STEP 2 - Connect with Democracy Earth community channels**
 
-Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sharing information to the public as a DEF representative. In order to onboard, here are the steps you need to take:
+Once you have completed the full application process and have been introduced to the Democracy.Earth community as an Ambassador, it's time to get acquainted with the wider Democracy Earth wider community. 
 
-* Create a Github account so we can share with you materials that you can use for presentations! 😊 
-* Join our [#ambassadors_def channel](https://democracyearth.slack.com/messages/ambassadors_def/) on [Slack](http://chat.democracy.earth/). We will be communicating with all of our Ambassadors through that channel, and in adittion this will be a great way to get in touch with other people doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
-* Follow our [Twitter](https://twitter.com/democracyearth), [Facebook](https://www.facebook.com/DemocracyEarth/), [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag) and [sign up for our newsletter](https://www.democracy.earth/) to keep updated with our work! 
-* Like and Follow the Democracy Earth [Facebook Page](https://www.facebook.com/DemocracyEarth/)
+* Create a personal Github account so we can share with you materials that you can use for presentations! 😊 
+* Join the Democracy Earth Ambassadors channel, [#ambassadors_def channel](https://democracyearth.slack.com/messages/ambassadors_def/) on [Slack](http://chat.democracy.earth/). We communicate with all of our Ambassadors through this channel; as well, it's a great way to get in touch with other ambassadors from around the world doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
+* Create an profile on the Democracy Earth alpha web-based Sovereign platform at vote.democracy.earth and begin experimenting with the tools of liquid democracy
+* Follow Democracy Earth on social media: 
+  - [Twitter](https://twitter.com/democracyearth)
+  - [Facebook](https://www.facebook.com/DemocracyEarth/)
+  - [Youtube](https://www.youtube.com/channel/UCbnrw21wKi1T-h26FLUN2ag)
+  - [Instagram](https://www.instagram.com/democracy.earth/)
+  - [Medium](https://words.democracy.earth/) 
+  - DemocracySalon podcast on [SoundCloud](https://soundcloud.com/user-561734241)
+  - [Sign up for the monthly Democracy Earth newsletter](https://www.democracy.earth/) to keep updated on our work! 
 
 <a name="Step-3"></a>
 ## **STEP 3 - Start a community** 
@@ -95,22 +102,23 @@ Congratulations on becoming a DEF Ambassador 🌎! Now you are ready to start sh
 * Translate (if needed) and share the DEF Ambassador program welcome/mission announcement from Santiago Siri with your group.
 * Invite members of your network to the group.
 * Connect to the [Democracy Earth Foundation Facebook Page](https://www.facebook.com/DemocracyEarth/)
-* Like, share and comment on DEF page content in your group feed - get the debate started!😊 
+* Like, share and comment on Democracy.Earth Fcebook page content in your group feed - get the debate started!😊 
+* Share proposals from vote.democracy.earth, and get your community engaged in a conversation about liquid democracy and the promise it holds in your local community/organization for incorruptible, transparent voting that gives everyone a voice.
 
 <a name="Step-4"></a>
 ## **STEP 4 - Get the word out**
 
-* Visit related democracy/blockchain/civic tech meet-ups as a visitor and spread information.
+* Find related democracy/blockchain/civic tech meet-ups, get to know the coordinators, spread the word about Democracy Earth...many Democracy.Earth ambassadors are regular presenters at such events, why not you?
 * Reach out to local populations (activists, students, cooperatives) that will benefit from the Sovereign governance platform.
-* Write a guest post about your activities for the [DEF's Medium publication “Hacktivism”](https://words.democracy.earth/).
+* Write a guest post about your activities for the [Democracy.Earth Medium publication “Hacktivism”](https://words.democracy.earth/).
 * Create education materials in your language to spread understanding of the concepts of liquid democracy, decentralization, and crypto politics to your local community.
 
 <a name="Step-5"></a>
 ## **STEP 5 - Share your experience and help us amplify your voice!**
 
-* Send us a Google Calendar invite to ambassadors@democracy.earth with informations about the events you create or participate in, so that we can keep track and post them on our social media to invite our followers from your area to show up!
+* For events you are creating or presenting at, share with us any Google Calendar invite to ambassadors@democracy.earth with relevant information (event host, focus, date, venue, presentation title, start time) so that we can share the announcement to Democracy.Earth social media, inviting followers from your area to attend!
 * Share your [Learnings, Advice & Experience](https://github.com/DemocracyEarth/ambassadors/blob/master/Learning_advice_%26_experiences) here on Github so that other Ambassadors can access it as well!
-* Tell us what do you think we could do to help you! The first way to do that is to get the debate started on Slack's [#ambassadors channel](https://democracyearth.slack.com/messages/ambassadors/) (we will do our best to monitor and engage with all debates), and then after you are sure this is a valuable contribution and have circulated ideas around for a bit, [create a github issue on this repository](https://help.github.com/articles/creating-an-issue/).
+* Tell us what we can do to help you! The first way to do that is to get the debate started on Slack's [#ambassadors channel](https://democracyearth.slack.com/messages/ambassadors/) (we will do our best to monitor and engage with all debates), and then after you are sure this is a valuable contribution and have circulated ideas around for a bit, [create a github issue on this repository](https://help.github.com/articles/creating-an-issue/).
 
 
 
