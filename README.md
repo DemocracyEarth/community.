@@ -102,7 +102,7 @@ Once you have completed the full application process and have been introduced as
 * Invite members of your network to the group.
 * Connect to the [Democracy Earth Foundation Facebook Page](https://www.facebook.com/DemocracyEarth/)
 * Like, share and comment on Democracy.Earth Fcebook page content in your group feed - get the debate started!😊 
-* Share proposals from vote.democracy.earth, and get your community engaged in a conversation about liquid democracy and the promise it holds in your local community/organization for incorruptible, transparent voting that gives everyone a voice.
+* Share proposals from [vote.democracy.earth](https://vote.democracy.earth/), and get your community engaged in a conversation about liquid democracy and the promise it holds for incorruptible, transparent voting that gives everyone a voice.
 
 <a name="Step-4"></a>
 ## **STEP 4 - Get the word out**
