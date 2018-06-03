@@ -32,7 +32,7 @@ The _*Blockchain Governance Basics*_ program curriculum was created in collabora
 
 ## Timeline<a name="Timeline"></a>
 
-**May 31**&nbsp;Application period opens
+**May 31**   <p>Application period opens
 
 **June 22**   Application period closes
 
