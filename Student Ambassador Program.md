@@ -21,7 +21,7 @@ Globally and throughout time, universities have proven a natural petri dish for 
 
 Our chosen educational format - a peer-to-peer learning program - is designed to ensure student ambassadors can leverage the expertise of a global network of democracy activist peers. The program will consist of eight weekly meetings in which a range of topics will be covered, including **the history of citizen participation technology (democracy tech), the basics of blockchain technology, applications of smart contracts for governance, the tools and tactics of liquid democracy, the case for global governance and cryptographically distributed universal basic income (UBI), the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, the governance aspects of blockchain networks**, and more.
 
-Our goal is to connect students togtether, and support their efforts to start the liquid democracy conversation and experimentation on the Democracy Earth Sovereign platform at their unviversity.  Student Ambassadors will be challenged to engage their peers on the Democracy Earth governance platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish content, and host MeetUps to kickstart their communities and engage organizations and student governments with the tools and techniques of liquid democracy.
+Our goal is to connect students togtether and support their efforts to start the liquid democracy conversation and experimentation on the Democracy.Earth Sovereign platform at their unviversity.  Student Ambassadors will be challenged to engage their peers on the Democracy Earth governance platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish content, and host MeetUps to kickstart their communities and engage organizations and student governments with the tools and techniques of liquid democracy.
 
 ## Acknowledgements
 The _*Blockchain Governance Basics*_ program curriculum was created in collaboration with a team of pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz 🇫🇷. All program content will be hosted online and freely accessible to curious and motivated open source-loving democracy hacktivists everywhere: all are welcome!
@@ -40,7 +40,9 @@ The _*Blockchain Governance Basics*_ program curriculum was created in collabora
 
 **July 7.**   Inaugural Online Ambassador Meeting
 
-**July 9.**   8-Week Online Peer Learning Program _*Basics of Blockchain*_ begins
+## Curriculum
+
+**July 9.**   8-Week Online Peer Learning Program  _**Blockchain Governance Basics**_ begins
 
              July 9-13.         Week 1 - Background
                     
@@ -66,21 +68,21 @@ _**note:**_ *this online curriculum can be adapted for individual student availa
 
 **Week 1 | Background**
 
-We start by providing a brief history of citizen-participation technology (democracy tech, or #demtech) and how that history informs the vision for our work at Democracy Earth. We explore what does it mean to build a values-based software, what is open source, why it matters and how it works. 
+We start by providing a brief history of citizen-participation technology (democracy tech, or #demtech) and how that history informs the vision for our work at Democracy.Earth. We explore what it means to build a values-based software, what is open source, why it matters and how it works. 
 
 🌿 _**Challenge**_: Start the conversation on the Sovereign URL released by Democracy.Earth for your university (university.democracy.earth). Invite your peers to join you in making proposals, voting and debating!
 
 **Week 2  | Blockchain**
 
-Solid introductory knowledge of the mechanics behind blockchains. Every Ambassador will be able to own the basic "blockchain vocabulary" [public/private keys, the double-spend problem, protocol, hash, timestamps and proof of work].
+Solid introductory knowledge of the mechanics behind blockchains. Every Ambassador will own the basic "blockchain vocabulary". [public/private keys, the double-spend problem, protocol, hash, timestamps and proof of work].
 
 **Week 3 | Smart contracts & Liquid democracy**
 
-Introductory knowledge of smart contracts and their application for transparency, accountability, governance and participatory budgeting + an indepth dissection of the tactics of liquid democracy.
+Introductory knowledge of smart contracts and their application for transparency, accountability, governance and participatory budgeting plus an in-depth dissection of the tools and tactics of liquid democracy.
 
 **Week 4 | Global Governance**
 
-We will explore the challenges that our globalized economy and interconnected ecology present for nationally based governments (nation-states). Here we share Democracy Earth's vision - and implementation strategy  for -  an inclusive global governance system that can be enacted "bottoms up", from the individual level, and the role the foundation aims to play through the development of blockchain-based, sovereign identity-enabled tokenized voting software. 
+We will explore the challenges that our globalized economy and interconnected ecology present for nationally based governments (nation-states). Here we share Democracy.Earth's vision - and implementation strategy  for -  an inclusive global governance system that can be enacted "bottoms up", from the individual level, and the role the foundation aims to play through the development of blockchain-based, sovereign identity-enabled tokenized gpvernance software. 
 
 **Week 5 | Crypto politics**
 
@@ -90,18 +92,18 @@ Introduction to the geopolitical role of Bitcoin and the emerging dynamics of cr
 
 **Week 6 | Decentralized ID**
 
-Introduction to the main challenge of the crypto ecossystem: building a truly decentralized ID system. We also share DEF views on the matter and parallel developments from other organizations. 
+Introduction to the main challenge of the crypto ecossystem: building a truly decentralized sovereign identity system. We also share Democracy.Earth views along with parallel developments among partners and other organizations. 
 🌿 _**Challenge**_:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
 
 
 **Week 7 | Blockchain governance**
 
-Deepening the concepts learned on Week 2, and an overview of the governance issues in the current scenario. 
-🌿 _**Challenge**_: Redact article to be published in a university newspaper or another publication.
+Deepening the concepts of incorruptibility, increased participation and represenation behind the technology mechanics learned during Week 2, with an overview of current governance issues on the _Land_ and in the _Cloud_.
+🌿 _**Challenge**_: author or redact an article to be published in a university newspaper or another online publication including [university blogs](https://virginiapolitics.org/interviews/2018/3/26/interview-16-pia-mancini) or [Hacktivism](https://medium.com/@DemocracyEarth) on Medium.
 
 **Week 8  | Operating in a network**
 
-Orientation for how to join and participate in the network, how to keep Foundation updated on events and how to ask for help.
+Orientation for how to create, join and participate in the network, how to keep the Foundation updated on events and how to ask for help.
 🌿 _**Challenge**_: Organize a meetup.
 
 
