@@ -1,8 +1,8 @@
-# Democracy Earth Ambassador Program 
+## Democracy Earth Ambassadors Program 🌿
 
 [Click here](https://goo.gl/forms/KzB7I578TA7NImXu2) to sign the Terms and Conditions form. 
 
-## Terms and Conditions
+# Terms and Conditions
 
 
 As an Ambassador for Democracy Earth Foundation, you agree to:
