@@ -1,4 +1,4 @@
-
+## Democracy Earth Foundation 🌿
 # Getting Started
 
 Here you will be able to find all the information you need in order to conduct your activities as an Ambassador for Democracy Earth Foundation.
