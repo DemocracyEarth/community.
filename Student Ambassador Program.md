@@ -3,7 +3,7 @@
 
 <img width="771" alt="screen shot 2018-05-25 at 01 25 25" src="https://user-images.githubusercontent.com/18194034/40526725-c6943ad0-5fbe-11e8-93f1-21d463c04c4a.png">
 
-Index:
+## Index:
 
 * [About the Student Ambassador Program](#About)
 
@@ -15,13 +15,16 @@ Index:
 
 ## About<a name="About"></a>
 
-Democracy Earth Foundation aims to build a global movement for blockchain-based liquid democracy. Universities are rich with micro-activism and decision-making, presenting a low consequence environment for innovative governance experiments. During the Summer of 2018, Democracy Earth Foundation will run a peer-learning program with students from all over the globe to equip future Student Ambassadors with the fundamental building blocks of knowledge that will allow them to have an in-depth understanding of blockchain voting, liquid democracy and crypto politics. After going through the program, students will be equipped to advocate for these ideas and start running liquid democracy governance pilots inside their universities. 
+Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. As we began rolling out our global [Ambassadors program](https://words.democracy.earth/ambassadors/home), it became readily apparent that the light of democracy hacktivism burns bright in the young too, in the hearts of students at universities around the world. This has spurred us to extend our Ambassadors program onto campus, and launch a targeted initiative designed for and by students: the Democracy.Earth Student Ambassador program. 
 
-Our chosen format - a peer-learning program - is designed to ensure student ambassadors can leverage the expertise of a global network of democracy activist peers. The program will consist of eight weekly meetings in which a range of topics will be covered, including **the history of citizen participation technology (democracy tech), the basics of blockchain technology, applications of smart contracts for governance, the tools and tactics of liquid democracy, the case for global governance and cryptographically distributed universal basic income (UBI), the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, the governance aspects of blockchain networks**, and more.
+Globally, universities have proven a natural petri dish for hacking democracy. Universities are rich with micro-activism and decision-making, presenting a low consequence environment for innovative governance experiments. During the Summer of 2018, Democracy Earth Foundation will hold an 8-week peer-learning program with students from all over the globe as part of a training curriculum for future Student Ambassadors focused on fundamental 'learning building blocks' of blockchain technology.   The _**Basics of Blockcahin**_ course of study will lay the basis for an in-depth understanding of implementing a tokenized liquid democracy in a rapidly evolving crypto-political landscape. After completing the program, Student Ambassadors will not only be equipped to advocate for these ideas but will have the tools to begin implementing liquid democracy governance pilots within their universities. 
+
+Our chosen teaching format - a peer-to-peer learning program - is designed to ensure student ambassadors can leverage the expertise of a global network of democracy activist peers. The program will consist of eight weekly meetings in which a range of topics will be covered, including **the history of citizen participation technology (democracy tech), the basics of blockchain technology, applications of smart contracts for governance, the tools and tactics of liquid democracy, the case for global governance and cryptographically distributed universal basic income (UBI), the emerging dynamics of crypto politics, the technical challenges of decentralized IDs and Sybil Attacks, the governance aspects of blockchain networks**, and more.
 
 Student Ambassadors will be challenged to engage their peers on the Democracy Earth governance platform, [vote.democracy.earth](https://vote.democracy.earth/), form a local team, engage a faculty sponsor, publish content and host MeetUps to kickstart their communities and engage organizations and student governments to experiment liquid democracy . 
 
-The entire content of the program was created in collaboration with our pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz. The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
+## Acknowledgements
+The _*Basics of Blockchain*_ program curriculum was created in collaboration with our pioneer Student Ambassadors: Robel Mulugueta (Yale University), Travis Bell and Samuel Eisner (UC Berkeley), Charles Thompson (Cornell University), Avital Balwit (University of Virginia) and Robinson Markus (Northwestern University), as well as Janine Gölz . The content will be hosted online, so that anyone can access it, but the Foundation will facilitate a peer-learning initiative with the goal of connecting students and having them be supported as they learn and work with our platform.
 
 ## Application<a name="Application"></a>
 
@@ -29,13 +32,13 @@ The entire content of the program was created in collaboration with our pioneer 
 
 ## Timeline<a name="Timeline"></a>
 
-**May 31.**   Applications open
+**May 31.**   Application period opens
 
-**June 22.**  Applications close
+**June 22.**  Application period closes
 
-**July 2.**   Announcement of selected Ambassadors 
+**July 2.**   Announcement of Ambassadors 
 
-**July 7.**   Inaugural Ambassador Meeting
+**July 7.**   Inaugural Online Ambassador Meeting
 
 **July 9.**   8-Week Online Peer Learning Program begins
 
@@ -58,9 +61,9 @@ The entire content of the program was created in collaboration with our pioneer 
                     
 
 
-**Note:** the onlin curriculum is adaptable to individual student availability. Peer-learning meetings will be adjusted on a case-by-case basis.
+**Note:** the online curriculum is adaptable to individual student availability; peer-learning meetings will be adjusted on a case-by-case basis.
 
-## Content<a name="Content"></a>
+## Program Table of Contents<a name="Content"></a>
 
 **Week 1 | Background**
 
