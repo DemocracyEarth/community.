@@ -32,13 +32,17 @@ The _*Blockchain Governance Basics*_ program curriculum was created in collabora
 
 ## Timeline<a name="Timeline"></a>
 
-**May 31**        Application period opens
+**May 31**        
+    Application period opens
 
-**June 22**       Application period closes
+**June 22**       
+    Application period closes
 
-**July 2**        Announcement of Ambassadors 
+**July 2**        
+    Announcement of Ambassadors 
 
-**July 7**        Inaugural Online Ambassador Meeting
+**July 7**        
+    Inaugural Online Ambassador Meeting
 
 ## Curriculum
 
