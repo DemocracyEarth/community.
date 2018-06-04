@@ -30,7 +30,7 @@ The _*Blockchain Governance Basics*_ curriculum was created in collaboration wit
 
 ## Application<a name="Application"></a>
 
-**If you are interested in joining the program,** 👉 [APPLY HERE.](https://democracyearthfoundation.typeform.com/to/QhsJjm)
+👉 [APPLY HERE](https://democracyearthfoundation.typeform.com/to/QhsJjm) to be a Student Ambassador.
 
 ## Timeline<a name="Timeline"></a>
 
