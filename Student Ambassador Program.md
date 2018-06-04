@@ -92,20 +92,20 @@ We will explore the challenges that our globalized economy and interconnected ec
 
 **Week 5 | Crypto politics**
 
-Introduction to the geopolitical role of Bitcoin and the emerging dynamics of crypto politics. 
- 🌿 _**Challenge**_:	Find a partner/team to work with at another university and support their efforts to launch Sovereign.
+Introduction to the geopolitical role of Bitcoin and the emerging dynamics of crypto politics.
+🌿 _**Challenge**_:	Find a partner/team to work with at another university and support their efforts to launch Sovereign.
 
 
 **Week 6 | Decentralized ID**
 
 Introduction to the main challenge of the crypto ecossystem: building a truly decentralized sovereign identity system. We also share Democracy.Earth views along with parallel developments among partners and other organizations. 
- 🌿 _**Challenge**_:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
+🌿 _**Challenge**_:	Find a faculty sponsor. Engage a teacher who might be interested in helping your activities and could be of support.
 
 
 **Week 7 | Blockchain governance**
 
 Deepening the concepts of incorruptibility, increased participation and represenation behind the technology mechanics learned during Week 2, with an overview of current governance issues on the _Land_ and in the _Cloud_.
- 🌿 _**Challenge**_: author or redact an article to be published in a university newspaper or another online publication including [university blogs](https://virginiapolitics.org/interviews/2018/3/26/interview-16-pia-mancini) or [Hacktivism](https://medium.com/@DemocracyEarth) on Medium.
+🌿 _**Challenge**_: author or redact an article to be published in a university newspaper or another online publication including [university blogs](https://virginiapolitics.org/interviews/2018/3/26/interview-16-pia-mancini) or [Hacktivism](https://medium.com/@DemocracyEarth) on Medium.
 
 **Week 8  | Operating in a network**
 
