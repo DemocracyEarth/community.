@@ -8,7 +8,6 @@ Index to this repo:
 - [How To Contribute](https://github.com/DemocracyEarth/ambassadors/blob/master/CONTRIBUTING.md#how-to-contribute): How to start a discussion or submit an edit or change on the DEF Ambassador repo
 - [Bibliography: Democracy Earth in the media](https://github.com/DemocracyEarth/community./blob/master/Bibliography.md#democracy-earth-foundation-)
 - [Democracy Earth Branding/Logos](https://github.com/DemocracyEarth/press-kit/blob/master/logo.md): support for your presentations, community outreach and social messaging
-- Resources for Democracy Earth Ambassadors
 - [Resources](https://github.com/DemocracyEarth/community./blob/master/Presentations.md): Guides for speeches, content creation and more
 - [Code of Conduct and Anti-Harrassment Policy](https://github.com/DemocracyEarth/ambassadors/blob/master/Code_of_Conduct_%26_Anti-Harassment_policy.md#code-of-conduct)
 - [Terms and Conditions](https://github.com/DemocracyEarth/ambassadors/blob/master/Terms-and-Conditions.md#democracy-earth-ambassador-program)
