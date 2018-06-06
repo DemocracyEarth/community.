@@ -81,7 +81,7 @@ Once you have completed the full application process and have been introduced as
 
 * Create a personal Github account so we can share with you materials that you can use for presentations! 😊 
 * Join the Democracy Earth Ambassadors channel, [#ambassadors_def channel](https://democracyearth.slack.com/messages/ambassadors_def/) on [Slack](http://chat.democracy.earth/). We communicate with all of our Ambassadors through this channel; as well, it's a great way to get in touch with other ambassadors from around the world doing similar work, learn from them and exchange ideas! Make sure to also search for channels corresponding to your country or community (i.e: [#brasil](https://democracyearth.slack.com/messages/brasil/), or [#habla_español](https://democracyearth.slack.com/messages/habla_espanol/) so you can find more people with similar interests in your area!)
-* Create an profile on the Democracy.Earth alpha web-based Sovereign platform at vote.democracy.earth and begin experimenting with the tools of liquid democracy
+* Create an profile on the Democracy.Earth alpha web-based Sovereign platform at [vote.democracy.earth](https://vote.democracy.earth/) and begin experimenting with the tools of liquid democracy
 * Follow Democracy.Earth on social media: 
   - [Twitter](https://twitter.com/democracyearth)
   - [Facebook](https://www.facebook.com/DemocracyEarth/)
