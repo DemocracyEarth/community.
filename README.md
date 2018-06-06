@@ -27,7 +27,7 @@ Index to this repo:
 
 👉 [**STEP 1:** Apply.](#Step-1)
 
-👉 [**STEP 2:** Connect with DEF's channels. ](#Step-2)
+👉 [**STEP 2:** Connect with Democracy Earth channels. ](#Step-2)
 
 👉 [**STEP 3:** Start a community.](#Step-3)
 
