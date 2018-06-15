@@ -39,7 +39,7 @@ The _*Blockchain Governance Basics*_ curriculum was created in collaboration wit
 **May 31**    
 >>Application period opens
 
-**June 22**    
+**June 25**    
 >>Application period closes
 
 **July 2**        
