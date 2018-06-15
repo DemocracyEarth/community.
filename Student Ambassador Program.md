@@ -32,23 +32,19 @@ The _*Blockchain Governance Basics*_ curriculum was created in collaboration wit
 
 ## Application<a name="Application"></a>
 
-👉 [APPLY HERE](https://democracyearthfoundation.typeform.com/to/QhsJjm) to be a Student Ambassador.
+👉 [APPLY HERE](https://democracyearthfoundation.typeform.com/to/QhsJjm) to be a Student Ambassador. The deadline for applications is June 25. 
 
 ## Timeline<a name="Timeline"></a>
 
-**May 31**    
->>Application period opens
+**May 31.**    Application period opens
 
-**June 25**    
->>Application period closes
+**June 25.**    Application period closes
 
-**July 2**        
->>Announcement of Ambassadors 
+**July 2.**     Announcement of Ambassadors 
 
-**July 7**        
->>Inaugural Online Ambassador Meeting
+**July 7.**     Inaugural Online Ambassador Meeting
 
-## Curriculum
+## Peer-learning 
 
 **July 9.**   8-Week Online Peer Learning Program  _**Blockchain Governance Basics**_ begins
 
