@@ -36,17 +36,16 @@ The _*Blockchain Governance Basics*_ curriculum was created in collaboration wit
 
 ## Timeline<a name="Timeline"></a>
 
-**May 31.**    Application period opens
+**May 31.**        Application period opens
 
-**June 25.**    Application period closes
+**June 25.**       Application period closes
 
-**July 2.**     Announcement of Ambassadors 
+**July 2.**        Announcement of Ambassadors 
 
-**July 7.**     Inaugural Online Ambassador Meeting
+**July 7.**        Inaugural Online Ambassador Meeting
 
-## Peer-learning 
+**PEER-LEARNING**
 
-**July 9.**   8-Week Online Peer Learning Program  _**Blockchain Governance Basics**_ begins
 
              July 9-13.         Week 1 - Background
                     
