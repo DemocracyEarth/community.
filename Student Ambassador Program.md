@@ -15,9 +15,9 @@
 
 ## About<a name="About"></a>
 
-Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. Through the response we have received since the launch of our global [Ambassadors Program](https://words.democracy.earth/ambassadors/home) in 2017, it is readily apparent that the light of democracy hacktivism burns bright in the hearts of students at universities around the world. 
+Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. Through the response we have received since the launch of our global [Ambassadors Program](https://words.democracy.earth/ambassadors/home) in 2017, it is readily apparent thatstudents at universities around the world are willing and ready to start becoming activists for liquid democracy and blockchain voting. 
 
-This has spurred us to extend our Ambassadors program to the collegiate campus, and launch a targeted initiative designed for and by students: the **Democracy.Earth Student Ambassador** program. Globally and throughout time, universities have proven a natural petri dish for hacking democracy. Universities are rich with micro-activism and decision-making scenarios of all-types, presenting what is often an ideal, potentially high-impact environment for innovative governance experiments. 
+This has spurred us to extend our Ambassadors program to the college campuses, and launch a targeted initiative designed for and by students: the **Democracy.Earth Student Ambassador** program. Globally and throughout time, universities have proven a natural testing ground for democratic innovation. College campuses are rich with micro-activism and decision-making scenarios of all-types, presenting what is often an ideal, potentially high-impact environment for new governance experiments. 
 
 During the Summer of 2018, Democracy Earth Foundation will hold an 8-week peer-learning program with students from all over the globe. This training curriculum is part of the onboarding processs for future Student Ambassadors and will focus on fundamental 'learning building blocks' of blockchain technology and liquid democracy in the global crypto-political landscape. After completing the program, Student Ambassadors will have the tools to begin implementing liquid democracy governance pilots within their universities, and beyond. 
 
