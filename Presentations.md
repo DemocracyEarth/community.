@@ -67,6 +67,8 @@ subscribe to our blog
 code with us!  
 + vote.democracy.earth  
 experiment with liquid democracy  
++ ambassadors.democracy.earth  
+become an ambassador  
 
   
 
