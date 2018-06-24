@@ -58,7 +58,7 @@ Below you will find two presentation slide decks:
 At the end of your presentations, be sure to include a call to action that gives attendees further opportunity to engage with Democracy Earth ideas and community. We've created special easy-to-share urls that point to Democracy Earth resources: 
 
 + paper.democracy.earth
-  Read our white paper The Social Smart Contract  
+  Read our white paper The Social Smart Contract
 + chat.democracy.earth         
   Join our Slack community 
 + vote.democracy.earth         
