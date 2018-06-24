@@ -1,5 +1,5 @@
-# 🌿Democracy Earth Ambassadors Program 
-## Presentations Support
+# Democracy Earth Ambassadors Program 
+## 🌿Presentations Support
 
 This file is where we provide links to resources that will help Ambassadors create presentations, social communications and other content. These resources - from presentation slides to audio and video clips - are designed to help ambassadors spread the Democracy Earth message and build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age: a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
 
