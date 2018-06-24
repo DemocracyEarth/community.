@@ -61,6 +61,7 @@ At the end of your presentations, be sure to include a call to action that gives
  - vote.democracy.earth         Experiment with the tools of liquid democracy
  - code.democracy.earth         Code with us!
  - ambassadors.democracy.earth  become an Ambassador
+ - words.democracy.earth        read Hacktivism, our Medium blog
 
 
 
