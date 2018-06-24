@@ -61,6 +61,13 @@ At the end of your presentations, be sure to include a call to action that gives
 read our white paper The Social Smart Contract  
 + chat.democracy.earth  
 join our community  
++ words.democracy.earth  
+subscribe to our blog  
++ code.democracy.earth  
+code with us!  
++ vote.democracy.earth  
+experiment with liquid democracy  
+
   
 
 
