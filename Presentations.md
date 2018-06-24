@@ -54,6 +54,14 @@ Below you will find two presentation slide decks:
 
 [Download Keynote](https://www.dropbox.com/s/10beojlb6d6eq2n/Democracy%20Earth%20-%20Geopolitical%20-%20Template%20.key?dl=0)
 
+## Let's keep the conversation going! 
+At the end of your presentations, be sure to include a call to action that gives attendees further opportunity to engage with Democracy Earth ideas and community. We've created special easy-to-share urls that point to Democracy Earth resources: 
+ - paper.democracy.earth        Read our white paper, The Social Smart Contract  
+ - chat.democracy.earth         Join our Slack community 
+ - vote.democracy.earth         Experiment with the tools of liquid democracy
+ - code.democracy.earth         Code with us!
+ - ambassadors.democracy.earth  become an Ambassador
+
 
 
 
