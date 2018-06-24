@@ -1,4 +1,4 @@
-## Democracy Earth Ambassadors Program 🌿
+## 🌿Democracy Earth Ambassadors Program 
 # Presentations Support
 
 This file is where we provide links to resources that will help Ambassadors create presentations, social communications and other content. These resources - from presentation slides to audio and video clips - are designed to help ambassadors spread the Democracy Earth message and build a local community around the Democracy Earth mission to enable decentralized, digital governance for the internet age: a borderless, global democracy recognizing the right of every human on earth to have a voice, a vote. 
@@ -6,7 +6,7 @@ This file is where we provide links to resources that will help Ambassadors crea
 Check out the [Bibliography](https://github.com/DemocracyEarth/ambassadors/blob/master/Bibliography.md#democracy-earth-foundation-) to learn about Democracy Earth's history, public messaging, and communications regarding our vision, mission and goals. And be sure to click the "Watch" button (in the upper right hand corner of this repo file) to get notifications when new resources have been added. 
 
 
-## Guidelines
+## 🌿Guidelines
 
 While we expect presentations made by Ambassadors should reflect the tone, style and focus you bring to the event, presentation materials themselves should follow the Democracy Earth Branding Guide with respect to usage of logos, color, and graphics ((e.g. use official Democracy Earth purple background color #32263C )). 
 
@@ -33,7 +33,7 @@ Additional guidelines for preparing effective presentations include:
 
 
 
-## Templates
+## 🌿Templates
 
 Below you will find two presentation slide decks:
 
@@ -54,7 +54,7 @@ Below you will find two presentation slide decks:
 
 [Download Keynote](https://www.dropbox.com/s/10beojlb6d6eq2n/Democracy%20Earth%20-%20Geopolitical%20-%20Template%20.key?dl=0)
 
-## Let's keep the conversation going! 
+## 🌿Keep the conversation going! 
 At the end of your presentations, be sure to include a call to action that gives attendees further opportunity to engage with Democracy Earth ideas and community. We've created special easy-to-share urls that point to Democracy Earth resources: 
  - paper.democracy.earth        Read our white paper, The Social Smart Contract  
  - chat.democracy.earth         Join our Slack community 
