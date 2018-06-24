@@ -60,7 +60,7 @@ At the end of your presentations, be sure to include a call to action that gives
 + chat.democracy.earth         
   Join our Slack community 
 + paper.democracy.earth
-  Read out white paper The Social Smart Contrat
+  read out white paper The Social Smart Contrat
 + vote.democracy.earth         
   Experiment with the tools of liquid democracy
 + code.democracy.earth         
