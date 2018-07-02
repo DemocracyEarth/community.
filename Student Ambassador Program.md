@@ -73,8 +73,6 @@ _**note:**_ *this online curriculum can be adapted for individual student availa
 
 We start by providing a brief history of citizen-participation technology (democracy tech, or #demtech) and how that history informs the vision for our work at Democracy.Earth. We explore what it means to build a values-based software, what is open source, why it matters and how it works. 
 
-🌿 _Challenge_: Start the conversation on the Sovereign URL released by Democracy.Earth for your university (university.democracy.earth). Invite your peers to join you in making proposals, voting and debating!
-
 **Week 2  | Blockchain**
 
 Solid introductory knowledge of the mechanics behind blockchains. Every Ambassador will own the basic "blockchain vocabulary". [public/private keys, the double-spend problem, protocol, hash, timestamps and proof of work].
