@@ -6,7 +6,7 @@ Here you will be able to find all the information you need in order to conduct y
 * **Choose your URL:** On the internet, a URL is analogous to territory. The URL - your Democracy Earth Internet territory -  is where you will build your movement. There are three different kinds of URLs that can be created:  
 
 
- 1. NATIONAL - A national url points to all posts made by users from a given nation. Ex: venezuela.democracy.earth  
+ <li>1. NATIONAL - A national url points to all posts made by users from a given nation. Ex: venezuela.democracy.earth  
 
  2. PRIVATE - A private url points to all posts made from a specific account that you can then create. This way you have full control over the content, but it is not as engaging because other usres can only vote or debate, they can't make posts themselves.  
 
