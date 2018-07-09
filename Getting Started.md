@@ -3,7 +3,8 @@
 
 Here you will be able to find all the information you need in order to conduct your activities as an Ambassador for Democracy Earth Foundation.
 
-### **Choose your URL:**  On the internet, a URL is analogous to territory. The URL - your Democracy Earth Internet territory -  is where you will build your movement. There are three different kinds of URLs that can be created:  
+### **Choose your URL:**  
+On the internet, a URL is analogous to territory. The URL - your Democracy Earth Internet territory -  is where you will build your movement. There are three different kinds of URLs that can be created:  
 
 
       1. NATIONAL - A national url points to all posts made by users from a given nation. 
