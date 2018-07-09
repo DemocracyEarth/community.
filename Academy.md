@@ -51,6 +51,8 @@ Their new approach was to use blockchains - the same technology underlying Bitco
 **Representation**: Our system does not provide the right incentives for our representatives to represent us very well. If we disagree with how they voted, we have to wait until the next election cycle to try to remove them which could be many years. We are forced to choose a single representative to represent us on all issues, rather than be able to choose multiple experts from different fields to represent us on different issues. This is why Democracy Earth is building a liquid democracy platform that allows for users to propose, debate, and vote directly on issues, or to *delegate* their vote to someone they trust to vote for them. Representation will be more responsive when you can delegate your vote to anyone and immediately revoke it if they vote incorrectly or behave unethically.
 
 
+🎥[Meet Democracy Earth's co-founder, Herb Stephens, and his perspective on Liquid Democracy.](https://youtu.be/gWdhc-jxs_s) 
+
 ## 1.3 Sovereign
 
 There are three main strategic components to the Democracy Earth governance platform, Sovereign: it is blockchain based, open source, and designed to be as simple to use as a social media platform.
