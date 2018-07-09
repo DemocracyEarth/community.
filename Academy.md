@@ -32,7 +32,7 @@ Partido de la Red and DemocracyOS taught Pia and Santi three important lessons t
 
 3. The third and most painful lesson was about corruption. [Spies infiltrated party meetings](https://medium.com/@santisiri/baptism-of-fire-100392b05726) to generate confusion; they were attacked online, and were even asked to bribe a judge in order to be able to run for the 2015 elections. This first-hand contact with corruption taught them how difficult it is to change the system from within. As Santi has remarked, “it is much more likely that the system will change you first.”
  
-
+* 🎥[Watch here Pia Mancini's TED talk about DemocracyOS and how to upgrade democracy for the internet era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era)  
 
 ## 1.2 Silicon Valley
 
