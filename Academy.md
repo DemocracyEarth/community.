@@ -76,5 +76,5 @@ Ultimately, Sovereign will help realize the principles expressed in the Universa
 
 *“Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Everyone has the right to freedom of peaceful assembly and association. Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.”*
 
-🎥[Watch Santi Siri talk about the key aspects to Sovereign](https://youtu.be/FwGF9g3t3Vw) 
+🎥[Watch Santi Siri talk about the key aspects of the Democracy Earth platform.](https://youtu.be/FwGF9g3t3Vw) 
 
