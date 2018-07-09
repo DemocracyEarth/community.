@@ -72,7 +72,9 @@ Our mission at Democracy Earth is to create a governance platform with all the g
 
 Another key difference from centralized social media: expressions of preference on the Sovereign platform will actually lead to action. While a “like” or a “retweet” on centralized platforms might show support for a person or idea, in practical terms these signals serve the purpose of feeding attention-mining algorithms that generate profit to the private organizations controlling the apps. With Sovereign, because there is no middleman, all benefits from the use of the platform go to the users. They keep their data, they make meaningful decisions about their own lives.
 
-
 Ultimately, Sovereign will help realize the principles expressed in the Universal Declaration of Human Rights:
 
 *“Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Everyone has the right to freedom of peaceful assembly and association. Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.”*
+
+🎥[Watch Santi Siri talk about the key aspects to Sovereign](https://youtu.be/FwGF9g3t3Vw) 
+
