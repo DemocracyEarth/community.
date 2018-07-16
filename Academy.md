@@ -143,6 +143,10 @@ So what is the purpose of utilizing hash functions in a blockchain network? As d
 ![rosenbaum_chab_01](https://user-images.githubusercontent.com/40152411/41207677-aefd2964-6cce-11e8-8a96-edabf4f6d180.png)
 
 ## 2.5 What is public key cryptography? How do digital signatures enable peer-to-peer value transfer?
+
+[<img width="667" alt="screen shot 2018-07-16 at 17 29 28" src="https://user-images.githubusercontent.com/18194034/42784813-57001d7c-891e-11e8-9d76-5cd4c26378d5.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
+
+
 #### 2.5.1 Trusted Third Party
 Traditional computer networks use what is known as a **client/server architecture**.  **The clients** are the individual computers that access the network.  **The servers** are the computers which host the data that is accessed by the client computers. 
 
@@ -166,9 +170,9 @@ When **signing**, you use your private key to encrypt your message's signature. 
 
 How is this employed in bitcoin? You use your private key to sign/send transactions, and they are addressed to someone’s public key -- or more precisely an address derived from it. You can know who sent you a transaction too, because the transaction will be signed with the sender’s private key which is mixed together with the hash of the transaction. This means that the recipient does not end up with the sender’s private key undercutting the sender’s privacy because the private key is now combined with a transaction hash that is specific to that particular transaction, and verifiable with the sender’s address/public key.
 
-[<img width="667" alt="screen shot 2018-07-16 at 17 29 28" src="https://user-images.githubusercontent.com/18194034/42784813-57001d7c-891e-11e8-9d76-5cd4c26378d5.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
-
 ## 2.6 How do all of these pieces of technology combine to create a peer-to-peer network that solves the double-spend dilemma? 
+
+[<img width="674" alt="screen shot 2018-07-16 at 17 28 35" src="https://user-images.githubusercontent.com/18194034/42785243-c7719e4a-891f-11e8-9dd5-2f19996ea812.png">](https://www.youtube.com/watch?v=yh3tSHLb-2E)
  
 ### “Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending.”
 Satoshi Nakamoto | *Excerpt from Bitcoin Whitepaper*
@@ -193,7 +197,11 @@ All the nodes mentioned above are running software that automatically checks if 
 
 ### 2.6.3 Proof of Work and Miners
 
-The network is made up of nodes who are following this protocol, but there are different types of nodes. Partial nodes, which have downloaded a part of the ledger, full nodes, which have downloaded the entire ledger, and full nodes that are also miners, meaning people who are actively submitting blocks of transactions to the ledger for other nodes to examine. Since miners do this extra process of bundling, hashing, and submitting transactions, they need an extra incentive on top of just being able to see first hand a secure ledger of their transactions. This reward comes through a process known as **Proof of Work**. It provides the incentive system which makes any attempts at double-spending economically and computationally costy. 
+[
+<img width="674" alt="screen shot 2018-07-16 at 17 29 06" src="https://user-images.githubusercontent.com/18194034/42785658-56d18cb6-8921-11e8-95f3-44851dbace39.png">
+](https://www.youtube.com/watch?v=ErxlYOCFCvM)
+
+The network is made up of nodes who are following this protocol, but there are different types of nodes. Partial nodes, which have downloaded a part of the ledger, full nodes, which have downloaded the entire ledger, and full nodes that are also miners, meaning that they are actively submitting blocks of transactions to the ledger for other nodes to examine. Since miners do this extra process of bundling, hashing, and submitting transactions, they need an extra incentive on top of just being able to see first hand a secure ledger of their transactions. They need an incentive for behaving honestly so that they keep the ledger's integrity. This incentive comes through a process known as **Proof of Work**. It provides a reward system which makes any attempts at double-spending economically and computationally costy. 
 
 The protocol is being applied by all nodes, but it is miners who package together transactions and submit them to the network so that other nodes can examine them. By participating in this process miners have a chance of winning bitcoin as a reward. The miners then have another incentive to only submit valid transactions because their bitcoin reward will only be valuable so long as the bitcoin network itself is secure. This creates a financial incentive to maintain the network's integrity, and the process has been working well in this decentralized, uncoordinated manner for the past decade with nodes all over the world working to ensure the integrity of the transactions. 
 
