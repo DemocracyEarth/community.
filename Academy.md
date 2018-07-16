@@ -120,8 +120,6 @@ Satoshi Nakamoto | [*Excerpt from Bitcoin Whitepaper*](https://bitcoin.org/bitco
 
 Bitcoin, and the underlying blockchain technology, was created by an anonymous individual or group called "Satoshi Nakamoto." Satoshi wanted to create a "peer-to-peer version of electronic cash." **Peer-to-peer** basically means person-to-person or without intermediaries. In other words, no intermediaries. It's a term used to describe a network in which participants can communicate with each other *directly*, without the need for centralized **[trusted third parties](https://users.soe.ucsc.edu/~abadi/Papers/verif.pdf)** (TTPs) to intermediate the exchange of services or the transfer of data.  Peer-to-peer networks are becoming a staple of the 21st century “sharing economy” business model. Uber and AirBnB are partial examples of a peer-to-peer because while the services are provided in a peer-to-peer manner the payment and governance still happens through a centralized company. The bitcoin blockchain is an example of a truly peer-to-peer network. 
 
-![a956b81f0c43ee37140b2a3c0b405962](https://user-images.githubusercontent.com/40152411/42729086-41a733b4-8781-11e8-9596-e04e536ac8de.jpg)
-
 ## 2.3 How can a truly peer-to-peer Internet of Value be enabled?  What is the double-spend dilemma?
 
 ### “We propose a solution to the double-spending problem using a peer-to-peer network.”
@@ -158,8 +156,6 @@ However, in peer-to-peer networks the need for TTP’s is replaced by the clever
 
 **Here's how it works:**  
 
-[<img width="655" alt="screen shot 2018-07-16 at 17 23 22" src="https://user-images.githubusercontent.com/18194034/42784456-4b38bc20-891d-11e8-92f2-07e6a269de3c.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
-
 An algorithm generates two keys. One key is a **private key**, which as the name suggests, should always be kept private. The other is a **public key** which can be made publicly available for all to see. 
 
 The two keys are mathematically linked to each other. This means **everything that is encrypted with your public key, can only be decrypted with your private key. And everything that is encrypted with your private key can only be decrypted with your public key.** This allows you to both **encrypt** and **sign** messages.
@@ -168,8 +164,9 @@ When **encrypting**, you use the recipient's public key to encrypt a message, so
 
 When **signing**, you use your private key to encrypt your message's signature. This way, anyone can use your public key to verify that that signature came from you, because your public key could only decrypt a signature that was made with your private key.   
 
-How is this employed in bitcoin? You use your private key to sign/send transactions, and they are addressed to someone’s public key -- or more precisely an address derived from it. You can know who sent you a transaction too, because the transaction will be signed with the sender’s private key which is mixed together with the hash of the transaction. This means that the recipient does not end up with the sender’s private key undercutting the sender’s privacy because the private key is now combined with a transaction hash that is specific to that particular transaction, and verifiable with the sender’s address/public key.. 
+How is this employed in bitcoin? You use your private key to sign/send transactions, and they are addressed to someone’s public key -- or more precisely an address derived from it. You can know who sent you a transaction too, because the transaction will be signed with the sender’s private key which is mixed together with the hash of the transaction. This means that the recipient does not end up with the sender’s private key undercutting the sender’s privacy because the private key is now combined with a transaction hash that is specific to that particular transaction, and verifiable with the sender’s address/public key.
 
+[<img width="667" alt="screen shot 2018-07-16 at 17 29 28" src="https://user-images.githubusercontent.com/18194034/42784813-57001d7c-891e-11e8-9d76-5cd4c26378d5.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
 
 ## 2.6 How do all of these pieces of technology combine to create a peer-to-peer network that solves the double-spend dilemma? 
  
