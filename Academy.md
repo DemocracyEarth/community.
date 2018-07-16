@@ -4,7 +4,7 @@
 
 [1.0 Background](#Background)
 
-[2.0 Blockchain](#blockchain)
+[2.0 Blockchain](#Blockchain)
 
 <a name="introduction"></a>
 # Introduction
