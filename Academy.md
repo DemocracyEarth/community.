@@ -1,8 +1,8 @@
 # Index
 
 Introduction
-1.0 Background
-2.0 Blockchain
+[1.0 Background](#background)
+[2.0 Blockchain](#blockchain)
 
 # Introduction
 
