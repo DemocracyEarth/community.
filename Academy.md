@@ -1,9 +1,12 @@
 # Index
 
-Introduction
+[Introduction](#introduction)
+
 [1.0 Background](#background)
+
 [2.0 Blockchain](#blockchain)
 
+<a name="introduction"></a>
 # Introduction
 
 The Democracy Earth Foundation is working to update government for the 21st century by building a blockchain-based liquid-democracy platform. In that pursuit, the foundation has spent the past 6 years researching, experimenting, learning and building at the intersection of technology and politics. In our white paper, [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki), we explore in detail how a blockchain-based liquid democracy can help the world solve some of the most pressing challenges facing democracy, such as rising authoritarianism and a lack of voter participation.
