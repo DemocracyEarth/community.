@@ -2,7 +2,7 @@
 
 [Introduction](#introduction)
 
-[1.0 Background](#background)
+[1.0 Background](#Background)
 
 [2.0 Blockchain](#blockchain)
 
