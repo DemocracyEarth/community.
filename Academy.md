@@ -1,12 +1,36 @@
 # Index
 
-[Introduction](#introduction)
+- [Introduction](#introduction)
+- [1.0 Background](#10-background)
+  * [1.1 A group of hacktivists tried to improve their country](#11-a-group-of-hacktivists-tried-to-improve-their-country)
+  * [1.2 Silicon Valley](#12-silicon-valley)
+  * [1.3 Sovereign](#13-sovereign)
+- [2.0 Blockchain Basics](#20-blockchain-basics)
+  * [2.1 Origins of Bitcoin and blockchain technology.](#21-origins-of-bitcoin-and-blockchain-technology)
+    + ["Privacy is necessary for an open society in the electronic age.”](#-privacy-is-necessary-for-an-open-society-in-the-electronic-age-)
+  * [2.2 Peer-to-peer networks](#22-peer-to-peer-networks)
+    + [“A purely  peer-to-peer   version   of  electronic  cash  would  allow  online payments  to be sent  directly from one party to another without  going through a financial institution.”](#-a-purely--peer-to-peer---version---of--electronic--cash--would--allow--online-payments--to-be-sent--directly-from-one-party-to-another-without--going-through-a-financial-institution-)
+  * [2.3 How can a truly peer-to-peer Internet of Value be enabled?  What is the double-spend dilemma?](#23-how-can-a-truly-peer-to-peer-internet-of-value-be-enabled---what-is-the-double-spend-dilemma-)
+    + [“We propose a solution to the double-spending problem using a peer-to-peer network.”](#-we-propose-a-solution-to-the-double-spending-problem-using-a-peer-to-peer-network-)
+      - [2.3.1 The Double-Spend Dilemma:](#231-the-double-spend-dilemma-)
+  * [2.4 What is a hash function and why are hashes important in peer-to-peer networks?](#24-what-is-a-hash-function-and-why-are-hashes-important-in-peer-to-peer-networks-)
+      - [2.4.1 Hash & Hash Function](#241-hash---hash-function)
+  * [2.5 What is public key cryptography? How do digital signatures enable peer-to-peer value transfer?](#25-what-is-public-key-cryptography--how-do-digital-signatures-enable-peer-to-peer-value-transfer-)
+      - [2.5.1 Trusted Third Party](#251-trusted-third-party)
+    + [2.5.2 Digital Signatures](#252-digital-signatures)
+  * [2.6 How do all of these pieces of technology combine to create a peer-to-peer network that solves the double-spend dilemma?](#26-how-do-all-of-these-pieces-of-technology-combine-to-create-a-peer-to-peer-network-that-solves-the-double-spend-dilemma-)
+    + [“Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending.”](#-digital-signatures-provide-part-of-the-solution--but-the-main-benefits-are-lost-if-a-trusted-third-party-is-still-required-to-prevent-double-spending-)
+    + [2.6.1 Nodes](#261-nodes)
+    + [2.6.2 Protocol](#262-protocol)
+    + [2.6.3 Proof of Work and Miners](#263-proof-of-work-and-miners)
+    + [2.6.4 How does mining work?](#264-how-does-mining-work-)
+          + ['Hello'](#-hello-)
+          + ['Hello1' or 'Hello2' etc.](#-hello1--or--hello2--etc)
+          + [0000c3af42fc31103f1fdc0151fa747ff87349a4714df7cc52ea464e12dcd4e9](#0000c3af42fc31103f1fdc0151fa747ff87349a4714df7cc52ea464e12dcd4e9)
+- [References](#references)
 
-[1.0 Background](#Background)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-[2.0 Blockchain](#Blockchain)
-
-<a name="introduction"></a>
 # Introduction
 
 The Democracy Earth Foundation is working to update government for the 21st century by building a blockchain-based liquid-democracy platform. In that pursuit, the foundation has spent the past 6 years researching, experimenting, learning and building at the intersection of technology and politics. In our white paper, [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki), we explore in detail how a blockchain-based liquid democracy can help the world solve some of the most pressing challenges facing democracy, such as rising authoritarianism and a lack of voter participation.
