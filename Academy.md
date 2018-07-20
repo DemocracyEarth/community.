@@ -198,8 +198,6 @@ The two keys are mathematically linked to each other. This means **everything th
 
 When **encrypting**, you use the recipient's public key to encrypt a message, so you can be assured that only he can read it because only he has the private key that will allow him to decrypt it.
 
-![private key] (https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjGkuWWhazcAhWDDewKHVdNCO8QjRx6BAgBEAU&url=http%3A%2F%2Fdocs.huihoo.com%2Fglobus%2Fgt3-tutorial%2Fch10s03.html&psig=AOvVaw197TkO1kFrrYTTHWldkXPf&ust=1532119787324777)
-
 When **signing**, you use your private key to encrypt your message's signature. This way, anyone can use your public key to verify that that signature came from you, because your public key could only decrypt a signature that was made with your private key.   
 
 How is this employed in bitcoin? You use your private key to sign/send transactions, and they are addressed to someone’s public key -- or more precisely an address derived from it. You can know who sent you a transaction too, because the transaction will be signed with the sender’s private key which is mixed together with the hash of the transaction. This means that the recipient does not end up with the sender’s private key undercutting the sender’s privacy because the private key is now combined with a transaction hash that is specific to that particular transaction, and verifiable with the sender’s address/public key.
