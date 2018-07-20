@@ -262,6 +262,7 @@ Here is an example of a hash created by SHA256:
 The challenge is to find out what are those numbers that, when added to the end of the base string, will result in the hash *starting with four zeros.* 
 
 When we hear that computers are “mining bitcoin”, what that actually means is that they are essentially solving a big guess and check problem. The software they are running is trying, randomly, by trial and error, to find what numbers were added to the input in order to originate that hash. They keep trying all possibilities until they find the right one and the first to do it gets to validate the next block.
+
 ![what-makes-a-blockchain-protocols-and-the-future](https://user-images.githubusercontent.com/40152411/41691617-558679fa-74b0-11e8-887c-bd4e7d96d17f.gif =500x350)
 
 Any computer can compute more than 4,000 trials per second, so as the number of computers competing for the right to validate a block increases, the system adjusts the difficulty of the challenge so that it corresponds to the current computational power available. It does this by simply adding more leading zeros. This ensures that new blocks are always "mined" every ten minutes. This is why the process is called Proof of Work: in order to mine Bitcoin, computational processing work is involved.  Attaching a computational cost makes submitting false transactions uneconomical because then you would have to overpower the network in order to have the right to validate the next block and submit your false transactions in it. 
