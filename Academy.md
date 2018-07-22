@@ -81,6 +81,9 @@ Their new approach was to use blockchains - the same technology underlying Bitco
 
 ## 1.3 Sovereign
 
+[<img width="584" alt="screen shot 2018-07-22 at 11 36 00" src="https://user-images.githubusercontent.com/18194034/43047318-9074409a-8da3-11e8-9305-8a33dbcfc94e.png">
+](https://youtu.be/FwGF9g3t3Vw) 
+
 There are three main strategic components to the Democracy Earth governance platform, Sovereign: it is blockchain based, open source, and designed to be as simple to use as a social media platform.
 
 **Why blockchain and not just an online platform?** 
@@ -106,8 +109,6 @@ Another key difference from centralized social media: while a “like” or a �
 Ultimately, Sovereign will help realize the principles expressed in the Universal Declaration of Human Rights:
 
 *“Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Everyone has the right to freedom of peaceful assembly and association. Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.”*
-
-🎥[Watch Santi Siri talk about the key aspects of the Democracy Earth platform.](https://youtu.be/FwGF9g3t3Vw) 
 
 <a name="Blockchain"></a>
 # 2.0 Blockchain Basics
