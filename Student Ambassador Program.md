@@ -23,7 +23,7 @@ During the Summer of 2018, Democracy Earth Foundation will hold an 8-week peer-l
 
 Our chosen educational format - a peer-to-peer learning program - is designed to ensure student ambassadors can leverage the expertise of a global network of democracy activist peers. The program will consist of weekly online meetings covering a range of topics, including: **the history of citizen participation technology (democracy tech), the basics of blockchain technology, applications for smart contracts in governance, the tools and tactics of liquid democracy, the case for global governance and cryptographically distributed universal basic income (UBI), the emerging dynamics of cryptopolitics beyond nation-state borders, the technical challenges of decentralized IDs and Sybil Attacks, aspects of governance on blockchain networks**, and more.
 
-Our goal is to help students start a conversation about/experimentation in liquid democracy at their unviversities - to engage their  peers, student organizations and student government bodies on the Democracy.Earth Sovereign platform [vote.democracy.earth](https://vote.democracy.earth/). 
+Our goal is to help students start a conversation about/experimentation in liquid democracy at their universities - to engage their  peers, student organizations and student government bodies on the Democracy.Earth Sovereign platform [vote.democracy.earth](https://vote.democracy.earth/). 
 
 Through forming a local team, identifying a faculty sponsor, publishing content, hosting MeetUps and related activism, Student Ambassadors will kickstart a movement within their communities for an incorruptible, transparent and more representative form of democracy, i.e. blockchain-enabled liquid democracy. 
 
