@@ -63,6 +63,8 @@ Partido de la Red and DemocracyOS taught Pia and Santi three important lessons t
 
 ## 1.2 Silicon Valley
 
+[<img width="601" alt="screen shot 2018-07-22 at 11 26 53" src="https://user-images.githubusercontent.com/18194034/43047234-3a7ffd60-8da2-11e8-8141-9e14236985d8.png">](https://www.youtube.com/watch?v=UajbQTHnTfM) 
+
 In 2015 the Silicon Valley accelerator YCombinator - backer of Reddit and AirBnb, among others - invited Pia and Santi to join the Y15 class of nonprofit startups, selected for their potential for global impact. It was here they met Herb Stephens, a former GE auditor and serial software entrepreneur with a 25-year history of building disintermediating systems that shifted power to the user through technology. Since learning of blockchain technology in 2012 and considering it “the best invention since the Internet itself”, Herb dedicated the rest of his career to social entrepreneurism, readily joining the foundation in the role of president and treasurer.
 
 Together Herb, Santi, Pia and Virgile Devile - the Paris-based co-founder of Open Source Politics and one-time team lead for Democracy OS Europe- formed the Democracy Earth Foundation, a U.S. (CA) 501©(3) non-profit.
@@ -76,9 +78,6 @@ Their new approach was to use blockchains - the same technology underlying Bitco
 **Identity**: Today we receive identity from centralized authorities such as governments providing passports and ID cards, and from websites providing passwords, logins and profiles. The Democracy Earth platform will employ a decentralized ID system, allowing citizens to have a secure form of identification beyond the influence of any third party. Democracy Earth will help citizens own their data and identity through the use of new cryptographic technologies, which will be explained in-depth later in the curriculum.
 
 **Representation**: Our system does not provide the right incentives for our representatives to represent us very well. If we disagree with how they voted, we have to wait until the next election cycle to try to remove them which could be many years. We are forced to choose a single representative to represent us on all issues, rather than be able to choose multiple experts from different fields to represent us on different issues. This is why Democracy Earth is building a liquid democracy platform that allows for users to propose, debate, and vote directly on issues, or to *delegate* their vote to someone they trust to vote for them. Representation will be more responsive when you can delegate your vote to anyone and immediately revoke it if they vote incorrectly or behave unethically.
-
-
-🎥[Meet Democracy Earth's co-founder, Herb Stephens, and his perspective on Liquid Democracy.](https://youtu.be/gWdhc-jxs_s) 
 
 ## 1.3 Sovereign
 
