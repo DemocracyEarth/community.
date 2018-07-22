@@ -63,7 +63,7 @@ Partido de la Red and DemocracyOS taught Pia and Santi three important lessons t
 
 ## 1.2 Silicon Valley
 
-[<img width="601" alt="screen shot 2018-07-22 at 11 26 53" src="https://user-images.githubusercontent.com/18194034/43047234-3a7ffd60-8da2-11e8-8141-9e14236985d8.png">](https://www.youtube.com/watch?v=UajbQTHnTfM) 
+[<img width="598" alt="screen shot 2018-07-22 at 11 32 27" src="https://user-images.githubusercontent.com/18194034/43047283-f9d4cbfa-8da2-11e8-945d-c8ea051dd44a.png">](https://www.youtube.com/watch?v=UajbQTHnTfM) 
 
 In 2015 the Silicon Valley accelerator YCombinator - backer of Reddit and AirBnb, among others - invited Pia and Santi to join the Y15 class of nonprofit startups, selected for their potential for global impact. It was here they met Herb Stephens, a former GE auditor and serial software entrepreneur with a 25-year history of building disintermediating systems that shifted power to the user through technology. Since learning of blockchain technology in 2012 and considering it “the best invention since the Internet itself”, Herb dedicated the rest of his career to social entrepreneurism, readily joining the foundation in the role of president and treasurer.
 
