@@ -20,6 +20,8 @@
     + [2.6.2 Protocol](#262-protocol)
     + [2.6.3 Proof of Work and Miners](#263-proof-of-work-and-miners)
     + [2.6.4 How does mining work?](#264-how-does-mining-work-)
+   - [3.0 Global Decision-Making & Universal Basic Income](#Global)
+    
 - [References](#references)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
