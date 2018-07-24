@@ -295,8 +295,6 @@ It is also worth noting that the very five countries that hold veto power at the
 
 ## 3.1.1 The Cloud
 
-[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://www.youtube.com/watch?v=oJ1QCMv8O5M)
-
 While most of the problems listed above pertain to the land, the Cloud is also a formidible and flawed realm. *The Cloud* controls our data. Major internet corporations have the ability to track and aggregate data regarding most of our digital activities. In a way, they know users better than users know themselves, and over and over have demonstrably predicted and influenced user behaviour. Even though Internet monopolies stand as the gatekeepers of online privacy, it should not be forgotten that, theoretically, Facebook has the power to impersonate any of its 2 Billion registered users should it ever desire to. 
 
 Google and Facebook hold the largest identity databases in the world, surpassing the governments of India and China. With 97% of their reported revenue coming from advertising, their source of income strongly influences the kind of experience that users get with their technology. In other words, users find themselves in bubbles not of their own making, but defined by the invisible hand of the profit-optimizing algorithms of the social media giants. It is in their corporate interest to gather as much information as possible to profile people in order to stay competitive in the attention market, and both companies filter information fed to users with algorithms accountable to no one but their own board. 
@@ -305,6 +303,8 @@ Uncensored, free and sovereign debates on the future of humanity are being eaten
 
 ## 3.2 Towards an Inclusive Global Governance
  
+[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://www.youtube.com/watch?v=oJ1QCMv8O5M)
+
 The idea of humanity united under the same governance system is anything but new and does not need to come about in an imperial manner. Visions of global governance date back to the ancient Chinese and Indian civilizations. The approaches to this vision are as varied as its defenders whose ranks include Albert Einstein, Immanuel Kant, Mahatma Gandhi, Dante Alighieri, and Martin Luther King Jr, among many others. Now, with blockchain technology, for the first time in history individuals can actually build this kind of global system of cooperation from the bottom up.
 
 For many, global governance can sound like an oppressive and hegemonistic idea, with good reason — the first forms of globalization we witnessed in history were accomplished through bloody conquest by empires. In the modern era, the word globalization brings to mind an explosion of opportunity that has not been equally distributed. Some geographies have enormously benefited because of liberal trade policies, mass migrations, and increased travel. Yet, to large segments of the population, the globalization of our economies did not improve their lives - instead they have borne the costs of it, being exposed to pollution from multinational conglomerates, brain drain, and increased inequality. 
