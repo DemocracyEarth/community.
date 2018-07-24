@@ -270,6 +270,9 @@ In the previous unit we learned about blockchain technology. In this unit we wil
 
 ## 3.1 The Land: Limitations of nationally-based governance in a globalized world
 
+[<img width="600" alt="screen shot 2018-07-23 at 21 50 03" src="https://user-images.githubusercontent.com/18194034/43112113-6ef2a8c4-8ec2-11e8-9b34-3af24cd22eda.png">](https://www.youtube.com/watch?v=l27t0Yf_Thg)
+
+
 In our deeply interconnected societies, where our economies and ecology are globalized and trends spread rapidly over the webs of social media, national governments are inherently limited in their abilities to confront many of the issues that affect us, such as climate change, refugee crises and technological disruptions. This incompatibility between a globalized world and national governments often makes our political systems ineffective and increasingly vulnerable to forces outside of their control.   
 
 We are accustomed to thinking about the world in terms of nation-states: land-based governments that organize our life as a society. Another way to gain insight into the nature of our political lives is by focusing on The Cloud, which corresponds to the biggest internet corporations. The amount of power and influence these centralized organizations exert on our society is comparable to that of nation-states. They contain an unprecedented amount of data about individuals, easily co-opted by actors willing to influence the direction of political events, as demonstrated by the Cambridge Analytica revelations.
