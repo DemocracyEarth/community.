@@ -329,6 +329,8 @@ Universal Basic Income has recently become a hot topic due to its ability to sup
 
 While UBI is typically examined in the context of a single country, to be truly universal it must be distributed internationally because already we see that the use of a new technology in any given industry or country can have effects that reverberate around the world. Blockchains are ideal technology for UBI implementation, as they can enable such an international distribution, for the realization of a truly universal basic income.
 
+# 4.0 Smart Contracts & Liquid Democracy
+
 # References
 
 [1] https://www.theguardian.com/women-in-leadership/2016/feb/23/how-one-womans-app-is-changing-politics-in-the-digital-age
