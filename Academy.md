@@ -272,7 +272,7 @@ In the previous unit we learned about blockchain technology. In this unit we wil
 
 ## 3.1 The Land: Limitations of nationally-based governance in a globalized world
 
-[<img width="600" alt="screen shot 2018-07-23 at 21 50 03" src="https://user-images.githubusercontent.com/18194034/43112113-6ef2a8c4-8ec2-11e8-9b34-3af24cd22eda.png">](https://www.youtube.com/watch?v=l27t0Yf_Thg)
+[<img width="600" alt="screen shot 2018-07-23 at 21 50 03" src="https://user-images.githubusercontent.com/18194034/43112113-6ef2a8c4-8ec2-11e8-9b34-3af24cd22eda.png">](https://www.youtube.com/watch?v=ROUSmSb9FIQ)
 
 
 In our deeply interconnected societies, where our economies and ecology are globalized and trends spread rapidly over the webs of social media, national governments are inherently limited in their abilities to confront many of the issues that affect us, such as climate change, refugee crises and technological disruptions. This incompatibility between a globalized world and national governments often makes our political systems ineffective and increasingly vulnerable to forces outside of their control.   
@@ -303,7 +303,7 @@ Uncensored, free and sovereign debates on the future of humanity are being eaten
 
 ## 3.2 Towards an Inclusive Global Governance
  
-[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://youtu.be/vFWYFSYxCCs)
+[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://www.youtube.com/watch?v=q2Zca1FnBBk)
 
 The idea of humanity united under the same governance system is anything but new and does not need to come about in an imperial manner. Visions of global governance date back to the ancient Chinese and Indian civilizations. The approaches to this vision are as varied as its defenders whose ranks include Albert Einstein, Immanuel Kant, Mahatma Gandhi, Dante Alighieri, and Martin Luther King Jr, among many others. Now, with blockchain technology, for the first time in history individuals can actually build this kind of global system of cooperation from the bottom up.
 
