@@ -416,6 +416,12 @@ In the same way that institutions have a limited amount of resources to devote t
 
 Facing this global recession of democracy and the growing dissatisfaction even in functioning democracies, a token-based liquid democracy provides a feasible alternative -- it allows citizens to participate exactly as much as they want to and to have more control than ever over the policy that govern their lives. Liquid Democracy holds potential to be the foundation of decision-making in virtual communities, as well as local communities and entire governments -- at a global scale. It enables citizens to be more informed and more empowered to engage with their own governance with their opinions being taken into account more often and on a wider range of issues. In liquid democracy, we have the coming together of technologies - smart phones, blockchains and cryptography - that will ensure everyone owns their own voice/VOTE on a system is incorruptible and censorship-resistant.
 
+# 5.0 Crypto Politics 
+
+# 6.0 Digital IDs
+
+# 7.0 Blockchain Governance
+
 # References
 
 [1] https://www.theguardian.com/women-in-leadership/2016/feb/23/how-one-womans-app-is-changing-politics-in-the-digital-age
