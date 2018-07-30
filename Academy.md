@@ -303,7 +303,7 @@ Uncensored, free and sovereign debates on the future of humanity are being eaten
 
 ## 3.2 Towards an Inclusive Global Governance
  
-[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://www.youtube.com/watch?v=oJ1QCMv8O5M)
+[<img width="582" alt="screen shot 2018-07-23 at 21 59 52" src="https://user-images.githubusercontent.com/18194034/43112363-c345e552-8ec3-11e8-9815-cb8133531cc5.png">](https://youtu.be/vFWYFSYxCCs)
 
 The idea of humanity united under the same governance system is anything but new and does not need to come about in an imperial manner. Visions of global governance date back to the ancient Chinese and Indian civilizations. The approaches to this vision are as varied as its defenders whose ranks include Albert Einstein, Immanuel Kant, Mahatma Gandhi, Dante Alighieri, and Martin Luther King Jr, among many others. Now, with blockchain technology, for the first time in history individuals can actually build this kind of global system of cooperation from the bottom up.
 
