@@ -335,6 +335,8 @@ On the previous section we examined governance on a global scale. On this sectio
 
 ## 4.1 Smart Contracts
 
+[<img width="601" alt="screen shot 2018-07-30 at 20 31 51" src="https://user-images.githubusercontent.com/18194034/43430672-0ed1fd70-9438-11e8-9b02-2d773a413dc0.png">](https://www.youtube.com/watch?v=PSEBYtV5gzM)
+
 ### What is a smart contract?
 
 A smart contract is a computer program that is stored and executed on a blockchain, enabling a new paradigm of "programmable money". A basic analogy can be made with a vending machine: if a person puts in some amount of money, an item will come out. Smart contracts can also employ loops and conditional statements to any desired degree of specificity -- an example would be a contract meant to send a friend (or the holder of any given public key) funds to purchase a pizza, where funds sent to the smart contract can only be spent at one particular pizza store and where the funds are returned (gradually, or all at once) if a pizza is not purchased by the friend in the first 72 hours after being deposited. The pizza order, signed with the private key of the receiving friend, and sent to the smart contract as a transaction, would release the funds to the pizza store.
@@ -350,12 +352,18 @@ Sending a transaction to a smart-contract is like sending a transaction to any o
 
 ## 4.2 Proof of Stake
 
+[<img width="593" alt="screen shot 2018-07-30 at 20 30 42" src="https://user-images.githubusercontent.com/18194034/43430691-2d305d84-9438-11e8-9e40-a94a5c94cf7e.png">](https://www.youtube.com/watch?v=BhUg9VPkx2M)
+
+
 Proof of Stake (PoS) is a proposed alternative to Proof of Work (PoW) for preventing sybil attacks and establishing consensus in a decentralized network. Although the details are still being worked out, PoS promises an anti-sybil solution which requires significantly less electricity consumption than PoW. 
 
 A user's chance of winning a block reward in PoS does not rely on the power of their computing device as it does in PoW. Instead, the number of coins a user/staker holds -- or their "stake" in the network -- determines the chance that they will be pseudo-randomly selected to act as the main validator for a certain amount of time. Users who are heavily invested have less incentive to act dishonestly -- if they act dishonestly, their staked coins can be destroyed or "burned".
 
 
 ## 4.3 Issues with Representative Democracy:
+
+[<img width="586" alt="screen shot 2018-07-30 at 20 33 07" src="https://user-images.githubusercontent.com/18194034/43430616-d1b71a9c-9437-11e8-912f-351e98da9e1b.png">](https://www.youtube.com/watch?v=r1SH2wsiK5Q_
+
 
 Smart contracts are one of the fundamental technological innovations that permit us to envision a token-based liquid democracy. But before we learn about how smart contracts allow for a new kind of decision-making, it is necessary to take a detour to see why national governments need updating at all. 
 
