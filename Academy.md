@@ -362,7 +362,7 @@ A user's chance of winning a block reward in PoS does not rely on the power of t
 
 ## 4.3 Issues with Representative Democracy:
 
-[<img width="586" alt="screen shot 2018-07-30 at 20 33 07" src="https://user-images.githubusercontent.com/18194034/43430616-d1b71a9c-9437-11e8-912f-351e98da9e1b.png">](https://www.youtube.com/watch?v=r1SH2wsiK5Q_
+[<img width="586" alt="screen shot 2018-07-30 at 20 33 07" src="https://user-images.githubusercontent.com/18194034/43430616-d1b71a9c-9437-11e8-912f-351e98da9e1b.png">](https://www.youtube.com/watch?v=r1SH2wsiK5Q)
 
 
 Smart contracts are one of the fundamental technological innovations that permit us to envision a token-based liquid democracy. But before we learn about how smart contracts allow for a new kind of decision-making, it is necessary to take a detour to see why national governments need updating at all. 
