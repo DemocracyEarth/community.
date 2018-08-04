@@ -89,7 +89,7 @@ We will explore the challenges that our globalized economy and interconnected ec
 
 Introduction to the geopolitical role of Bitcoin and the emerging dynamics of crypto politics.
 
-🌿 _Challenge_:	Find a partner/team to work with at another university and support their efforts to launch Sovereign.
+🌿 _Challenge_:	Find a partner/team to work with at your university.
 
 
 **Week 6 | Decentralized ID**
