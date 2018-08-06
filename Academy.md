@@ -431,6 +431,9 @@ This week we return to the topic of bitcoin and blockchains but from a much wide
 
 ## 5.1 Bitcoin and Blockchains Are Inherently Political 
 
+[<img width="600" alt="screen shot 2018-08-06 at 18 54 48" src="https://user-images.githubusercontent.com/18194034/43744915-420e9d02-99aa-11e8-8322-c7b13a170111.png">](https://www.youtube.com/watch?v=q_SX8OjDOnU)
+
+
 ### 5.1.1 The Divorce Between Money and State
 
 The notion that money can be produced by a non-state actor has profound political implications. From as early as the [Lydians](https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx), Greeks, and the Roman Empire, the state has been responsible for printing coinage. There have been sporadic and small incidences of the private issuance of currencies such as in eighteenth century Scotland and in mid-nineteenth century America, but these have been far and away the exceptions. In the modern era, states typically respond with hostility to attempts to create alternative currencies as it is viewed as direct threat to their monetary control and to the economy as a whole. Bitcoin represents a divorce between money and the state that has never been seen on this large of a scale before. Thus its issuance of a non-state currency makes bitcoin inherently geopolitical.
@@ -487,6 +490,8 @@ This spending creates a cycle of worsening inflation as more and more money is p
 This also makes more ambitious top-down economic schemes like a centrally planned Communist economy, impossible due to crypto’s decentralized and censorship resistant structure. One may view this inability to conduct monetary policy on cryptocurrency as a positive development or a negative one. Regardless, it represents a shift for nation states. 
 
 ## 5.4 Three Major Types of National Responses to Cryptocurrency and Blockchain Technology
+
+[<img width="594" alt="screen shot 2018-08-06 at 18 56 53" src="https://user-images.githubusercontent.com/18194034/43744981-847f7260-99aa-11e8-9fc9-581f9fcd9615.png">](https://www.youtube.com/watch?v=AIb4Tnm54bw)
 
 ### 5.4.1 Adoption 
 
