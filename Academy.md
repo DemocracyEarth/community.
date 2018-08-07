@@ -494,7 +494,7 @@ This also makes more ambitious top-down economic schemes like a centrally planne
 
 ## 5.4 Three Major Types of National Responses to Cryptocurrency and Blockchain Technology
 
-[<img width="594" alt="screen shot 2018-08-06 at 18 56 53" src="https://user-images.githubusercontent.com/18194034/43744981-847f7260-99aa-11e8-9fc9-581f9fcd9615.png">](https://www.youtube.com/watch?v=AIb4Tnm54bw)
+[<img width="594" alt="screen shot 2018-08-06 at 18 56 53" src="https://user-images.githubusercontent.com/18194034/43744981-847f7260-99aa-11e8-9fc9-581f9fcd9615.png">](https://www.youtube.com/watch?v=eGfQO7tALIY)
 
 ### 5.4.1 Adoption 
 
