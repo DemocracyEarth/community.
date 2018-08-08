@@ -43,7 +43,7 @@ Neither the white paper nor the Democracy Academy curriculum are intended to rem
 <a name="Background"></a>
 # 1.0 Background
 
-In Week One, we discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of Democracy Earth founders, and how their experiences and lessons shape our software development and movement.
+In this first unit, we will discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of Democracy Earth founders, and how their experiences and lessons shape our software development and movement.
 
 ##  1.1 A group of hacktivists tried to improve their country
 
