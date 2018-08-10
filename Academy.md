@@ -171,9 +171,6 @@ So what is the purpose of utilizing hash functions in a blockchain network? As d
 
 ## 2.5 What is public key cryptography? How do digital signatures enable peer-to-peer value transfer?
 
-[<img width="667" alt="screen shot 2018-07-16 at 17 29 28" src="https://user-images.githubusercontent.com/18194034/42784813-57001d7c-891e-11e8-9d76-5cd4c26378d5.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
-
-
 #### 2.5.1 Trusted Third Party
 Traditional computer networks use what is known as a **client/server architecture**.  **The clients** are the individual computers that access the network.  **The servers** are the computers which host the data that is accessed by the client computers. 
 
@@ -181,9 +178,11 @@ In networks where valuable data such as money or sensitive personal information 
 
 However, in peer-to-peer networks the need for TTP’s is replaced by the clever use of cryptographic technologies, one of them being public key cryptography.  Digital signature schemes are an application of public key cryptography that allow for anonymous actors to verify each others’ identities without the need for TTPs. 
 
-### 2.5.2 Digital Signatures
+### 2.5.2 Public and private keys
 
-[Digital signature schemes](https://ee.stanford.edu/~hellman/publications/24.pdf) are one of the applications of the public-key cryptography method proposed by Dr. Hellman. This method enables two parties to exchange encrypted messages and verify each other's identities without needing to communicate or share the key required to decrypt the message. It's one of the underlying technologies of blockchains that allow users to circumvent the need for TTPs (trusted third parties) to verify the identity and authenticity of their messages in computer networks - meaning that the receiver knows both who the message came from, and that the information is directly coming from the sender and has not been tampered with. 
+[<img width="667" alt="screen shot 2018-07-16 at 17 29 28" src="https://user-images.githubusercontent.com/18194034/42784813-57001d7c-891e-11e8-9d76-5cd4c26378d5.png">](https://www.youtube.com/watch?v=SOW9i4cd-Qk)
+
+The public and private key system, also known as asymmetric cryptography, was first published by [Whitfield Diffie and Martin Hellman](https://ee.stanford.edu/~hellman/publications/24.pdf). It provided an ingenious solution to a difficult dillemma: imagine that you are trying to send an encrypted message to someone that is in a different country. You can encrypt the message in your home and send it to her, but she won't be able to decrypt it unless you can somehow share with her the correct key to decrypt it. In the past, for war purposes, people would meet in person to share that key. But if you are in an unsafe situation, or meeting in person is not an option, than encryption won't be very useful to you. The public and private key method solved that. It enables two parties to exchange encrypted messages and verify each other's identities without needing to communicate or share the key required to decrypt the message.  It's one of the underlying technologies of blockchains that allow users to circumvent the need for TTPs (trusted third parties) to verify the identity and authenticity of their messages in computer networks - meaning that the receiver knows both who the message came from, and that the information is directly coming from the sender and has not been tampered with. 
 
 **Here's how it works:**  
 
