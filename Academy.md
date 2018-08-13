@@ -545,6 +545,10 @@ Proving these things in the physical world is not too difficult, but one can see
 
 ### 6.1.1 The Sybil Attack
 
+
+[<img width="602" alt="screen shot 2018-08-13 at 13 11 36" src="https://user-images.githubusercontent.com/18194034/44057644-c88a8296-9f19-11e8-9cf3-0988d6c9adc2.png">](https://youtu.be/lU-cdHqLL_Q)
+
+
 Why does having a secure decentralized digital ID system matter so much in the first place? Because that can defend any kind of system or network against **Sybil Attacks**. In peer-to-peer systems, there is no  central authority to attest that a digital identity (an online signifier, like a key or an IP address) corresponds to an entity (a person in the real world), so it is always possible for an entity (a real-world person) to present more than one identity (IP addresses, website profiles, etc). It is this forging of multiple identities that is called a Sybil attack. 
 
 Why would this matter? 
@@ -583,6 +587,8 @@ There are many different possibilities for this process. Some tactics include vi
 
 
 ## 6.4 Properties of a decentralized ID system
+
+[<img width="599" alt="screen shot 2018-08-13 at 16 54 41" src="https://user-images.githubusercontent.com/18194034/44057580-9f53e20a-9f19-11e8-8b0e-47c227080b12.png">](https://youtu.be/s9N5UCshxXc)
 
 In a decentralized ID system, any organization or person can issue whatever claims they want; you’re free to store whatever claims you like in your wallet; and claim verifiers are able to choose what claims they trust. Decentralizing these choices ensures the flexibility necessary so that self-sovereign identity systems can be used for almost any purpose.
 
