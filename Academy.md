@@ -84,7 +84,7 @@ Their new approach was to use blockchains - the same technology underlying Bitco
 ## 1.3 Sovereign
 
 [<img width="584" alt="screen shot 2018-07-22 at 11 36 00" src="https://user-images.githubusercontent.com/18194034/43047318-9074409a-8da3-11e8-9305-8a33dbcfc94e.png">
-](https://youtu.be/FwGF9g3t3Vw) 
+](https://youtu.be/-XJLuOeClXo) 
 
 There are three main strategic components to the Democracy Earth governance platform, Sovereign: it is blockchain based, open source, and designed to be as simple to use as a social media platform.
 
