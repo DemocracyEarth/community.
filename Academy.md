@@ -426,7 +426,7 @@ Facing this global recession of democracy and the growing dissatisfaction even i
 <a name="Crypto"></a>
 # 5.0 Crypto Politics
 
-With this unit we return to the topic of bitcoin and blockchains but from a much wider perspective, this time exploring the inherently geopolitical nature of bitcoin. This includes examining the relationship of money and state, understanding what is meant by the genesis block, explorng the political nature of cryptography, and understanding the relationship between energy accounting and currency for not just crypto, but current fiat systems as well. 
+With this unit we return to the topic of bitcoin and blockchains but from a much wider perspective, this time exploring the inherently geopolitical nature of bitcoin. This includes examining the relationship of money and state, understanding what is meant by the genesis block, exploring the political nature of cryptography, and understanding the relationship between energy accounting and currency for not just crypto, but current fiat systems as well. 
 
 ## 5.1 Bitcoin and Blockchains Are Inherently Political 
 
