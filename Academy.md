@@ -398,17 +398,17 @@ Smart contracts are the technological platform that allows for something like a 
 
 ### Crypto as corruption fighter
 
-__**Control.**__  
+__**Control**__  
 With a VOTE token - what Democracy Earth is currently developing - citizens will have full control over their vote. This means that once a citizen owns their token, they can delegate it to representatives, but if dissatisfied with how that representative is using their vote, they can revoke that delegation **at any time.** The ability to revoke at any time brings a paradigmatic change to representation, because it incentivizes better behavior on the part of the representatives. 
 
 Think of the all-too-common scenario of a politician who quickly stops delivering on promises right after the election, once his seat is practically guaranteed for four long years. A liquid democracy placates such scenarios because it enables citizens to immediately revoke their delegations if they so want, effectively creating a model in which empty promises are impractical as the representative is not shielded by a number of years having his power guaranteed to him. This framework creates better incentives for leadership, encouraging representatives to want to be honest, otherwise lies can quickly result in them losing influence. The issue-based delegation will allow for a different model of political leader,  who will be involved in decision-making because she or he is knowledgeable on a certain issue. 
 
 Finally, it also helps prevent a scenario where people buy delegations, because even if a citizen promises away their vote to someone, they can never lose the ability to revoke it. Unless the buyer can control that person 24 hours a day, or have some other means of control (like being able to harm the person in any way) then there is no guarantee that the purchase will be enforced in the long-term. 
 
-__**Auditability.**__   
+__**Auditability**__   
 In a referendum that is made with VOTE tokens, anyone is able to personally audit the results of that referendum and be certain of their integrity. This is because the vote tokens are cast on public blockchains, open for all to audit. That does not mean that anonymity is lost for the voter. Decentralized IDs, which is a topic that we will cover extensively in one of the coming units of this curriculum, enable voters to properly own their data and disclose only as much information as is necessary for any specific context. Cryptography ensures the anonymity of the voters, while maintaining the voting records public for all to check. This level of auditability makes it so one can be certain of the integrity of the results of any vote, knowing that it has not been tampered with or manipulated in any way. 
 
-__**Security.**__  
+__**Security**__  
 The ability to do referendums where anyone can easily participate from their phones and have the results be reliable might not be so critical in well-functioning and earnest governments, but it is a game-changer when it comes to repressive regimes. All over the world votes and referendums are suppressed with different kinds of violence or corruption. For example, with physical elections voting places can be attacked or ballot boxes burned. Removing the complex logistics of running an election and making voting a safe act that anyone can do from their phones and their homes, empowers citizens to clearly express their preferences with no way for powerful actors to suppress the vote. This is one of the most important aspects of how blockchain technology can help otherwise disenfranchised individuals and even entire nations to fully enact their human rights of expressing themselves and their choice of leaders. 
 
 ### The financial value of the $VOTE
