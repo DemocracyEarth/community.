@@ -528,20 +528,19 @@ Ultimately, blockchain’s biggest contribution may be to democracy. Going back 
 
 # 6.0 Decentralized IDs
 
-Throughout the last few units we have learned about blockchain technology, the new forms of governance it enables, and the developments in the world that have made its use necessary. There is still a missing component: a decentralized ID system is one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and the decentralized internet. 
+Throughout the last few units we have learned about blockchain technology, the new forms of governance it enables, and developments in the world that have made it necessary, yet there is still a missing component: a decentralized ID system is one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and a decentralized internet. 
 
-There are challenges that we must overcome to create this ID system: we want to protect it from being exploited by someone creating fake identities, and we want to ensure that the system is truly decentralized, meaning that no organization holds disproportionate or unilateral power over it. In this section we explore the promises and challenges of creating a truly decentralized ID system, as well as the format of digital citizenship for the Democracy Earth Network, emerged as an effort to tackle those challenges and provide it's benefits to anyone who would like to be a part of it.
+There are challenges that we must overcome to create this ID system: we want to protect it from being exploited by  persons creating fake identities, plus we want to ensure that the system is truly decentralized, meaning that no organization holds disproportionate or unilateral power over it. In this section we explore the promises and challenges of creating a truly decentralized ID system, as well as the format of digital citizenship for the Democracy Earth Network, bringing the benefits of blockchain to anyone fulfills the requirements to join (as described below).
 
 ## 6.1 Challenges with online identity
 
-In order for an online idenity to be valid it needs to be able to demonstrate two things -- that behind its keys there is a **living** and the keys are **singular**. 
+In order for an online idenity to be valid it needs to be able to demonstrate two things -- that behind its keys there is a **living** person, and that the keys are **singular**. 
 
 **Proving that someone is living** means showing that the keys are not connected to a bot, an AI, or some other wholely invented persona, but a real self-conscious entity. 
 
-**Proving that the keys are singular** means showing that each identity is connected to a single individual, not a duplicate -- like someone stealing a picture and a name of someone who actually exists, or the same person having multiple accounts. 
+**Proving that the keys are singular** means showing that each identity is connected to a single individual, not a duplicate -- like someone hijacking the picture and a name of someone who actually exists, or the same person having multiple accounts. 
 
-Proving these things in the physical world is not too difficult, but one can see how proving these things online gets trickier.
-
+Proving these things in the physical world is not too difficult, but proving them online is something else altogether.
 
 ### 6.1.1 The Sybil Attack
 
@@ -549,26 +548,35 @@ Proving these things in the physical world is not too difficult, but one can see
 [<img width="602" alt="screen shot 2018-08-13 at 13 11 36" src="https://user-images.githubusercontent.com/18194034/44057644-c88a8296-9f19-11e8-9cf3-0988d6c9adc2.png">](https://youtu.be/lU-cdHqLL_Q)
 
 
-Why does having a secure decentralized digital ID system matter so much in the first place? Because that can defend any kind of system or network against **Sybil Attacks**. In peer-to-peer systems, there is no  central authority to attest that a digital identity (an online signifier, like a key or an IP address) corresponds to an entity (a person in the real world), so it is always possible for an entity (a real-world person) to present more than one identity (IP addresses, website profiles, etc). It is this forging of multiple identities that is called a Sybil attack. 
+Building a secure decentralized digital ID system is a critical defense against **Sybil Attacks**. In peer-to-peer systems, there is no  central authority to attest that a digital identity (an online signifier, like a key or an IP address) corresponds to an entity (a person in the real world), so it is always possible for such an entity to forge/present more than one identity (IP addresses, website profiles, etc) - also known as a Sybil attack. 
 
-Why would this matter? 
+This is important becausse a single person using a Sybil attack could sway a critical vote by presenting as hundreds of online identies. Another way a Sybil Attack could hurt a system is by overpowering the system's defenses against fake identities. Say a platform asks users to examine other people's profiles to see if they look real and unique, someone could hypothetically make so many fake accounts that they were both the checker and the person being checked, easily able to falsely claim that fake profiles correspond to real and unique persons. 
 
-In a voting system, for example, a single real world person could sway a critical vote by presenting as hundreds of online identies. Another way a Sybil Attack could hurt a system is by overpowering the systems defenses against fake identities. Say a platform asks users to examine other people's profiles to see if they look real and unique, someone could hypothetically make so many fake accounts that they were both the checker and the person being checked, and then they could falsely claim that the profile did correspond to a real and unique person. 
-
-Solving the problem of the Sybil Attack is not only crucial for voting but also for another component of the Democracy Earth Network: the secure distribution of a Universal Basic Income (UBI), where there is a high incentive for fake identity creation. This is an ongoing research problem being pursued by many different teams, especially within the distributed ledger sphere, and more technical details can be explored [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/01/IPTPS2002.pdf). 
+Solving the problem of the Sybil Attack is not only crucial for voting but also for another component of the Democracy Earth Network: the secure distribution of a Universal Basic Income (UBI), which provides a strong incentive for fake identity creation. This is an ongoing research problem being pursued by many different teams, especially within the distributed ledger sphere, and more technical details can be explored [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/01/IPTPS2002.pdf). 
 
 ### 6.1.2 Not all online identity systems are created equal
 
-Imagine that all your information -- from your grades to your parking tickets to your taxes -- could be stored in one place, while being secure and accessible only by you and those you personally allow access. Imagine that you could vote online, from anywhere in the world, and that your entire medical history was able to be selectively disclosed to doctors at any time. Imagine that you could search up a politician and see every piece of land they own, sign online forms with a digital signature, or become a digital citizen and start a business without ever entering the country. All of this is already the case in [Estonia](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic).
+Imagine that all your information -- from your grades to your parking tickets to your taxes -- could be stored in one place, while being secure and accessible only by you and those you personally allow access. Imagine that you could vote online, from anywhere in the world, and that your entire medical history was able to be selectively disclosed to doctors at any time. Imagine that you could search up a politician and see every piece of land they own, sign online forms with a digital signature, or become a digital citizen and start a business without ever entering the country. All of this is already the case in [Estonia](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic), dubbed "the first digital republic". 
 
 
-The power of an online ID system holds the potential to reshape the way we connect with governments, leading to more convenience for citizens and less bureaucratic costs for countries. Nevertheless, when it comes to something as crucial as our personal information, we must be extremely careful about the details. In a world where data is the new oil, centrally managed digital identities tend to be highly vulnerable to exploits by malicious actors. In India, for example, the Aadhaar system stores the biometric information of over one billion people -- and after it was shown that it was possible to buy someone’s data for less than $10, many citizens fear that the system [is not secure enough](http://www.bbc.com/news/world-asia-india-42575443).
+The power of an online ID system holds the potential to reshape the way we interact with governments, leading to more convenience for citizens and less bureaucratic costs for countries. Nevertheless, in a world where data is the new oil, centrally managed digital identities tend to be highly vulnerable to exploits by malicious actors. In India, for example, the Aadhaar system centrally stores the biometric information of over one billion people -- and after it was shown that it was possible to buy someone’s data for less than $10, many citizens fear that the system [is not secure enough](http://www.bbc.com/news/world-asia-india-42575443).
+
+
+### 6.1.3 The problems with online identity
+
+Identity centered around paper and plastic credentials works well in day-to-day life (for those fortunate enough to have them) however the same arrangement has been much harder to duplicate online. Challenges arise on many different areas. The first and most obvious of them all is the matter of not being able to physically meet someone and verify that the person is real and corresponds to the image and information that is contained in her or his identity card. Doing that simple check online, for example, is a mechanism that can potentially be hacked with technology. 
+
+Several other factors also present a challenge to realizing a digital ID in a responsible way. 
+
+The first thing to acknowledge is that we already have online identities and use them on a daily basis: those are our Google and Facebook credentials, and the several others that we have to create in order to be able to navigate the digital realm and access its different services. According to the password management company LastPass, [the average business user has an average of 191 passwords](https://www.lastpass.com/business/articles/password-problem-report) (and seven times more the number of passwords that _they think_ they have). The management of such fragmented hubs of personal data is not only excessively time consuming, but it's very complexity is what makes it open to all kinds of attacks by hackers that can profit from accessing that personal data. In the era of data being the new oil, better protection is a prerogative to any kind of responsible identity system. 
+
+The fundamental issue with those protocols is that they are not user-centric. What we mean by this is that they are not designed to satisfy the needs of individuals, but instead of each organization or identity hub that has created them. Users are at the service of those organizations, volunteering information, managing several passwords, and being at their mercy for access to digital services. The scenario can look different, where users control they data and can selectively reveal facts and attestations about themselves, having full control of how that data is used or monetized from. 
 
 ## 6.2 Self-sovereign ID 
 
 Self-sovereign identity systems solve the above problems using decentralization and cryptography. Decentralized identity has been difficult because one of the core requirements of a functional identity system is the ability to look up credentials that are provided to you. In the past, this has always led to centralized directories, which has led to centralized identity systems.
 
-With this new technology, attestations about your identity can all be stored in a place that you control entirely, attached to a single blockchain address / digital wallet.  In the effort to develop a system that avoids the pitfalls inherent to centralization, or delegating power to machines and algorithsm, Democracy Earth includes two human-centric concepts: *Little Brothers* and *Attention Mining*.
+However, with blockchain technology, attestations about your identity can be stored in a place that you control entirely, attached to a single blockchain address / digital wallet.  In the effort to develop a system that avoids the pitfalls inherent to centralization, or delegating power to machines and algorithsm, Democracy Earth includes two human-centric concepts: *Little Brothers* and *Attention Mining*.
 
 ### 6.2.1 Little Brothers
 
@@ -578,36 +586,35 @@ A little brother could be an organization, or another human willing to vouch for
 
 ### 6.2.2 Attention Mining
 
-A self-sovereign identity must be voluntarily generated by a user claiming it. For this purpose the user must broadcast a proof of his or her identity that strictly satisfies a criteria that can be met by human judgement, while remaining resistant to automation and artificial intelligence. 
+A self-sovereign identity must be voluntarily generated by the user claiming it. For this purpose the user must broadcast a proof of his or her identity that strictly satisfies a criteria that can be met by human judgement, while remaining resistant to automation and artificial intelligence. 
 
 In *attention mining*, human attention serves the purpose of voting on self-generated identities after checking for legitimacy and/or duplication. The exact terms of the voting and the claims that must be submitted will be decided by the Democracy Earth Network and included as a part of [Democracy Earth's Consitutional Smart Contract](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0), which will be set in place with the main purpose of regulating the identity-approval process. 
 
-There are many different possibilities for this process. Some tactics include video-proofs (such as was done for Roma Siri, [the first blockchain-registered baby](https://github.com/DemocracyEarth/paper#321-demo)), or creating reputation scores for validators. An interesting expansion of the video proof idea that some groups have been exploring is so-called “online pseudonym parties”, where individuals are randomly assigned to video chat in groups of 4-6 and use conversation to verify that each identity has a real human behind it. Due to the current state-of-the-art with natural language processing, such verification parties would remain highly resistant to automation and serve as a useful tool in the fight against the Sybil Attack. Yet, as the shape and form of Sybil Attacks are constantly changing, the fundamental aspect of Democracy Earth's decentralized identity system is the Constitutional Smart Contract that regulates its validation process -  an adaptable tool that can respond to the ever-changing threats, through  the input of Democracy Earth Network's citizens. 
-
+There are many different possibilities for this process. Some tactics include video-proofs (such as was done for Roma Siri, [the first blockchain-registered baby](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain/) or creating reputation scores for validators. An interesting expansion of the video proof idea that some groups have been exploring is so-called “online pseudonym parties”, where individuals are randomly assigned to video chat in groups of 4-6 and use conversation to verify that each identity has a real human behind it. Due to the current state-of-the-art with natural language processing, such verification parties would remain highly resistant to automation and serve as a useful tool in the fight against sybil attacks. As the shape and form of sybil attacks are constantly changing, the fundamental aspect of Democracy Earth's decentralized identity system is the Constitutional Smart Contract that regulates its validation process -  an adaptable tool that can respond to the ever-changing threats, through  the input of Democracy Earth Network citizens. 
 
 
 ## 6.4 Properties of a decentralized ID system
 
 [<img width="599" alt="screen shot 2018-08-13 at 16 54 41" src="https://user-images.githubusercontent.com/18194034/44057580-9f53e20a-9f19-11e8-8b0e-47c227080b12.png">](https://youtu.be/s9N5UCshxXc)
 
-In a decentralized ID system, any organization or person can issue whatever claims they want; you’re free to store whatever claims you like in your wallet; and claim verifiers are able to choose what claims they trust. Decentralizing these choices ensures the flexibility necessary so that self-sovereign identity systems can be used for almost any purpose.
+In a decentralized ID system, any organization or person can issue whatever claims they want; you’re free to store whatever claims you like in your wallet; and claim verifiers are able to choose what claims they trust. Decentralizing these choices ensures the flexibility necessary for self-sovereign identity systems to be used for almost any purpose.
 
 To be self-sovereign, an identity system must have certain [properties](https://www.computerworld.com/article/3244128/security/how-blockchain-makes-self-sovereign-identities-possible.html):
 
 * **Persistent**: An identity that can be taken away is not self-sovereign. Identifiers in a self-sovereign identity system are long-lived, non-reusable by someone else and owned by the person who creates them. People aren’t the only ones who need self-sovereign identities. Organizations and connected things also need them, and can use the same infrastructure as individuals.
  
-* **Peer-based**: This sort of ID system allows individuals to have control over a larger segment of their life, granting them greater sovereignty over their data and their identity, outside of this segment they interact with others as peers. People are in control of the relationships they form and the information they share, but others get to make the same choices for themselves. Self-sovereign identity systems aren’t client-server, but rather peer-to-peer.
+* **Peer-based**: This sort of ID system allows individuals to have control over a larger segment of their life, granting them greater sovereignty over their data and their identity. Outside of this segment, individuals interact with others as peers. People are in control of the relationships they form and the information they share, but others get to make the same choices for themselves. Self-sovereign identity systems aren’t client-server, but rather peer-to-peer.
  
 * **Privacy protecting**: Self-sovereignty puts the person in control of how information is shared. Consequently, any identity system that doesn’t prevent correlation, minimize attribute disclosure, and provide for explicit consent puts people’s information at risk and removes it from their control.
 
-* **Portable**: Self-sovereignty implies choice and control. Vendor lock-in, when people cannot take their data from platform to platform, destroys both. Identifiers and associated credentials must be portable and self-sovereign identity systems must be interoperable to protect choice and control.
+* **Portable**: Self-sovereignty implies choice and control. Vendor lock-in, wherein people cannot take their data from platform to platform, destroys both. Identifiers and associated credentials must be portable and self-sovereign identity systems must be interoperable to protect choice and control.
 
-Self-sovereign ID systems introduce options which were not previously possible, like Zero-Knowledge Proofs.
+Self-sovereign ID systems introduce options which were not previously possible, such as Zero-Knowledge Proofs.
 
 
 ### 6.4.1 Zero-Knowledge Proofs  
 
-Zero-Knowledge Proofs (ZKP) are a difficult topic but we do want to present them so that you can see the array of possibilities they open up. ZKPs allow a person to prove things about themselves, based on verifiable claims, without having to reveal the claim itself. This reduces the amount of data given out by a person. For example, a ZKP can just reveal that the holder of the claim is over 18 without revealing the date of birth or even their age. 
+Zero-Knowledge Proofs (ZKP) are a difficult topic but we will address the topic briefly in order for readers to see the array of possibilities they enable. ZKPs allow a person to prove things about themselves, based on verifiable claims, without having to reveal the claim itself. This reduces the amount of data given out by a person. For example, a ZKP can simply reveal that the holder of the claim is over 18 without revealing the date of birth or even their age. 
 
 
 Another example could be a virtual loan application: you could prove that you hold more than $500 in assets, without revealing what the actual number is - whether you have $501 or $5,000,000. Furthermore, you could prove your ownership of >$500 without revealing any of the other attestations/attributes connected to your identity. 
