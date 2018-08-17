@@ -1,30 +1,3 @@
-# Index
-
-- [Introduction](#introduction)
-- [1.0 Background](#10-background)
-  * [1.1 A group of hacktivists tried to improve their country](#11-a-group-of-hacktivists-tried-to-improve-their-country)
-  * [1.2 Silicon Valley](#12-silicon-valley)
-  * [1.3 Sovereign](#13-sovereign)
-- [2.0 Blockchain Basics](#20-blockchain-basics)
-  * [2.1 Origins of Bitcoin and blockchain technology.](#21-origins-of-bitcoin-and-blockchain-technology)
-  * [2.2 Peer-to-peer networks](#22-peer-to-peer-networks)
-  * [2.3 How can a truly peer-to-peer Internet of Value be enabled?  What is the double-spend dilemma?](#23-how-can-a-truly-peer-to-peer-internet-of-value-be-enabled---what-is-the-double-spend-dilemma-)
-    + [2.3.1 The Double-Spend Dilemma:](#231-the-double-spend-dilemma-)
-  * [2.4 What is a hash function and why are hashes important in peer-to-peer networks?](#24-what-is-a-hash-function-and-why-are-hashes-important-in-peer-to-peer-networks-)
-    + [2.4.1 Hash & Hash Function](#241-hash---hash-function)
-  * [2.5 What is public key cryptography? How do digital signatures enable peer-to-peer value transfer?](#25-what-is-public-key-cryptography--how-do-digital-signatures-enable-peer-to-peer-value-transfer-)
-    + [2.5.1 Trusted Third Party](#251-trusted-third-party)
-    + [2.5.2 Digital Signatures](#252-digital-signatures)
-  * [2.6 How do all of these pieces of technology combine to create a peer-to-peer network that solves the double-spend dilemma?](#26-how-do-all-of-these-pieces-of-technology-combine-to-create-a-peer-to-peer-network-that-solves-the-double-spend-dilemma-)
-    + [2.6.1 Nodes](#261-nodes)
-    + [2.6.2 Protocol](#262-protocol)
-    + [2.6.3 Proof of Work and Miners](#263-proof-of-work-and-miners)
-    + [2.6.4 How does mining work?](#264-how-does-mining-work-)
-   - [3.0 Global Decision-Making & Universal Basic Income](#Global)
-    
-- [References](#references)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Introduction
 
