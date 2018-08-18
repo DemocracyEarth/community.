@@ -93,7 +93,7 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 - **WIRED** [Meet The man With a Radical Plan For Blockchain Voting](https://www.wired.com/story/santiago-siri-radical-plan-for-blockchain-voting/) August 2018
 
-**Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
+- **Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
 
 ## **WHAT WE SAY ABOUT OUR WORK**
 
@@ -117,7 +117,6 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 
 - [Democracy Earth Token Economics](token.democracy.earth)
 
-
 ##  **PILOTS & CASE STUDIES**
 
 - [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
@@ -125,4 +124,7 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - [The Impacts of PopVote in Hong Kong](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
 
 - [Google Tests Liquid Decision Making](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
+
+
+## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
 
