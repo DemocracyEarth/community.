@@ -28,6 +28,8 @@ Herb Stephens | World Affairs [Blockchain: A Tool For Social Good?](http://bit.l
 
 Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation State](https://www.youtube.com/playlist?list=PLqQr7a4PpiBjwcmolcFo4FaWdB8zuUerR) May 2015
 
+Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.com/watch?v=tbt_WfbC86Q) Personal Democracy Forum/New York June 2018
+
 
 ## **PODCASTS**
 
@@ -53,7 +55,9 @@ Pia Mancini | Rhys Lindmark's Creating a Humanist BlockchainFuture [Democracy.Ea
 
 Santiago Siri | BlockCrunch podcast with Jason Choi [Geopolitics and the Blockchain](https://soundcloud.com/user-561734241/the-blockcrunch-podcast-with-santi-siri) April 2018
 
-Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain](http://bit.ly/HerbOrganizingBlockchains)
+Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain](http://bit.ly/HerbOrganizingBlockchains) May 2018
+
+Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockchain voting, destructive social media and crypto talk](https://soundcloud.com/this_strange_life/santiago-siri-rethinking-democracy-blockchain-voting-destructive-social-media-crypto-talk)  August 2018
 
 
 
@@ -87,6 +91,10 @@ Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain
 
 - **P2P Foundation** [Who are the new co-op weavers? April 2018](https://blog.p2pfoundation.net/who-are-the-new-co-op-weavers/2018/04/23)
 
+- **WIRED** [Meet The man With a Radical Plan For Blockchain Voting](https://www.wired.com/story/santiago-siri-radical-plan-for-blockchain-voting/) August 2018
+
+**Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
+
 ## **WHAT WE SAY ABOUT OUR WORK**
 
 Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
@@ -106,6 +114,8 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
 
 - [SDG Special Report: Digital ID As a Basic Human Right](http://bit.ly/digitalIDrefugees)
+
+- [Democracy Earth Token Economics](token.democracy.earth)
 
 
 ##  **PILOTS & CASE STUDIES**
