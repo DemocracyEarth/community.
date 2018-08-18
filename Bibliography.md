@@ -30,6 +30,8 @@ Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation Stat
 
 Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.com/watch?v=tbt_WfbC86Q) Personal Democracy Forum/New York June 2018
 
+Santiago Siri | The Bitcoin News Show hosted by [The One Vortex](https://twitter.com/theonevortex) on the Cryptocast Network August 2018
+
 
 ## **PODCASTS**
 
