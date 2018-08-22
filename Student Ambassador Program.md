@@ -15,7 +15,7 @@
 
 ## About<a name="About"></a>
 
-Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. Through the response we have received since the launch of our global [Ambassadors Program](https://words.democracy.earth/ambassadors/home) in 2017, it is readily apparent thatstudents at universities around the world are willing and ready to start becoming activists for liquid democracy and blockchain voting. 
+Democracy Earth Foundation is building a global movement for blockchain-based liquid democracy. Through the response we have received since the launch of our global [Ambassadors Program](https://words.democracy.earth/ambassadors/home) in 2017, it is readily apparent that students at universities around the world are willing and ready to start becoming activists for liquid democracy and blockchain voting. 
 
 This has spurred us to extend our Ambassadors program to the college campuses, and launch a targeted initiative designed for and by students: the **Democracy.Earth Student Ambassador** program. Globally and throughout time, universities have proven a natural testing ground for democratic innovation. College campuses are rich with micro-activism and decision-making scenarios of all-types, presenting what is often an ideal, potentially high-impact environment for new governance experiments. 
 
