@@ -1,4 +1,25 @@
+# Index
+[Introduction to Democracy Academy](#introduction)
 
+[1.  Background & Sovereign](#1.0)
+
+[2.  Blockchain Basics](#2.0)
+
+[3.  Global decision-making & Universal Basic Income](#4.0)
+
+[4.  Smart Contracts & Liquid Democracy](#4.0)
+
+[5.  Crypto Politics](#5.0)
+
+[6.  Decentralized IDs](#6.0)
+
+[7.  Blockchain Governance](#7.0)
+
+
+
+
+
+<a name="introduction"></a>
 # Introduction
 
 The Democracy Earth Foundation is working to update government for the 21st century by building a blockchain-based liquid-democracy platform. In that pursuit, the foundation has spent the past 6 years researching, experimenting, learning and building at the intersection of technology and politics. In our white paper, [The Social Smart Contract](https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki), we explore in detail how a blockchain-based liquid democracy can help the world solve some of the most pressing challenges facing democracy, such as rising authoritarianism and a lack of voter participation.
@@ -13,8 +34,8 @@ Neither the white paper nor the Democracy Academy curriculum are intended to rem
 *This content will be updated regularly, with a new unit being added every week. The full content will be posted by September 1st.
 
 
-<a name="Background"></a>
-# 1.0 Background
+<a name="1.0"></a>
+# 1.0 Background & Sovereign
 
 In this first unit, we will discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of Democracy Earth founders, and how their experiences and lessons shape our software development and movement.
 
@@ -85,7 +106,7 @@ Ultimately, Sovereign will help realize the principles expressed in the Universa
 
 *“Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Everyone has the right to freedom of peaceful assembly and association. Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.”*
 
-<a name="Blockchain"></a>
+<a name="2.0"></a>
 # 2.0 Blockchain Basics
 
 In this section we will learn about the technology and history behind blockchains, in order to understand how blockchain networks provide censorship resistance and security for the Democracy Earth platform.
@@ -237,7 +258,7 @@ Any computer can compute more than 4,000 trials per second, so as the number of 
 
 When PoW is combined with the protocol and digital signature scheme, double spending is effectively eliminated as a potential threat. This This gets us back to the reason we are learning about bitcoin -- because the nodes are located around the world, and no single node or group of nodes is more important than another, the network cannot be easily shut down making it **censorship resistant**. The bitcoin network involves thousands of nodes to verify transactions against the protocol, as well as miners with a strong financial incentive to maintain the integrity of the network so that their block rewards are made up of a valuable token. These components create a secure, distributed, and censorship resistant network that has no need of centralized intermediaries. 
 
-<a name="Global"></a>
+<a name="3.0"></a>
 # 3.0 Global Decision Making & Universal Basic Income
 
 In the previous unit we learned about blockchain technology. In this unit we will build on that by looking at how blockchains can help us make decisions globally. This section will be less technical as we focus on the state of governance in the world. We will focus on how globalization connects to governance, the concepts of the Land and the Cloud and the control each exerts in our lives, what a jurisdiction means in the age of blockchains, and how Universal Basic Income supports democracy.
@@ -301,6 +322,7 @@ Universal Basic Income has recently become a hot topic due to its ability to sup
 
 While UBI is typically examined in the context of a single country, to be truly universal it must be distributed internationally because already we see that the use of a new technology in any given industry or country can have effects that reverberate around the world. Blockchains are ideal technology for UBI implementation, as they can enable such an international distribution, for the realization of a truly universal basic income.
 
+<a name="4.0"></a>
 # 4.0 Smart Contracts & Liquid Democracy
 
 On the previous section we examined governance on a global scale. On this section we are going to turn our attention to a smaller scale -- the governance structure within any given country. We also introduce a complementary piece of technology to blockchains: smart contracts, which run on top of blockchains. We will develop an introductory knowledge of smart contracts and learn how they enable a voting structure called liquid democracy. 
@@ -398,7 +420,7 @@ In the same way that institutions have a limited amount of resources to devote t
 
 Facing this global recession of democracy and the growing dissatisfaction even in functioning democracies, a token-based liquid democracy provides a feasible alternative -- it allows citizens to participate exactly as much as they want to and to have more control than ever over the policy that govern their lives. Liquid Democracy holds potential to be the foundation of decision-making in virtual communities, as well as local communities and entire governments -- at a global scale. It enables citizens to be more informed and more empowered to engage with their own governance with their opinions being taken into account more often and on a wider range of issues. In liquid democracy, we have the coming together of technologies - smart phones, blockchains and cryptography - that will ensure everyone owns their own voice/VOTE on a system is incorruptible and censorship-resistant.
 
-<a name="Crypto"></a>
+<a name="5.0"></a>
 # 5.0 Crypto Politics
 
 With this unit we return to the topic of bitcoin and blockchains but from a much wider perspective, this time exploring the inherently geopolitical nature of bitcoin. This includes examining the relationship of money and state, understanding what is meant by the genesis block, exploring the political nature of cryptography, and understanding the relationship between energy accounting and currency for not just crypto, but current fiat systems as well. 
@@ -501,6 +523,7 @@ The intention here is not to litigate whether the libertarian view is correct or
 Ultimately, blockchain’s biggest contribution may be to democracy. Going back to the opening paragraph of this section, the biggest addition of blockchain is an ability for individuals to have more control over their lives than ever before. The decentralized structure of blockchains more directly mirrors democracy, with power being distributed among nodes just like power is distributed among voters. The censorship resistance of the blockchain ledger as well as its ability to be publicly viewed by anyone who downloads it means that it does not allow for corruption and manipulation. Right now, according to the [Human Freedom Index](https://freedomhouse.org/report/freedom-world/freedom-world-2018) 55% of the world’s population does not live in free countries. Thus access to a tool that allows individuals to circumvent repressive regimes in order to conduct elections and business - in short, to transact, and be heard -  has the potential to radically improve personal freedoms and lives.
 
 
+<a name="6.0"></a>
 # 6.0 Decentralized IDs
 
 Throughout the last few units we have learned about blockchain technology, the new forms of governance it enables, and developments in the world that have made it necessary, yet there is still a missing component: a decentralized ID system is one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and a decentralized internet. 
@@ -601,6 +624,7 @@ Once a reliable decentralized ID protocol is developed, it will expand access to
 
 Democracy Earth's decentralized ID will be an [ERC725](https://github.com/ethereum/EIPs/issues/725), which is a standardized Ethereum interface for identities. The ERC725 will be the "ID card" that every member of the network will hold. This identity will hold keys to sign actions (transactions, documents, logins, access, etc), claims, as well as a proxy function to act directly on the blockchain. Every user, once able to have his identity approved, will receive his ERC725 and therefore be considered a citizen of the Democracy Earth Network, with voting and Universal Basic Income rights. 
 
+<a name="7.0"></a>
 # 7.0 Blockchain Governance
 
 In Unit 6, we focused on a particular problem that is troubling the blockchain space, that of Decentralized IDs. For our final unit we are broadening our view to look at the governance of blockchains in general, and how these networks and protocols are mantained and continuously updated. 
