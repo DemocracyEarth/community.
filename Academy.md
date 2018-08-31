@@ -1,5 +1,5 @@
 <p align="center">
-<img width="752" alt="screen shot 2018-08-31 at 15 44 26" src="https://user-images.githubusercontent.com/18194034/44932786-c8965480-ad34-11e8-9df7-84e91c3f357f.png">
+<img width="756" alt="screen shot 2018-08-31 at 15 47 56" src="https://user-images.githubusercontent.com/18194034/44932948-48242380-ad35-11e8-87a2-58a5bb5cbdcc.png">
 
 # Index
 
