@@ -17,8 +17,7 @@
 
 [6.  Decentralized IDs:](#6.0) On unit 6 we explore decentralized ID's, one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and a decentralized internet. 
 
-[7.  Blockchain Governance:](#7.0) 
-In Unit 6, we focused on a particular problem that is troubling the blockchain space, that of Decentralized IDs. For our final unit we are broadening our view to look at the governance of blockchains in general, and how these networks and protocols are mantained and continuously updated.
+[7.  Blockchain Governance:](#7.0) On our final unit we are broadening our view to look at the governance of blockchains in general, and how these networks and protocols are mantained and continuously updated.
 
 <a name="introduction"></a>
 # Introduction
