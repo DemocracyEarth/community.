@@ -129,7 +129,7 @@ However, these nations also needed to pioneer ways of decrypting the cryptograph
 In fact, Dr. Hellman’s writing on “public-key cryptography,” also known as asymmetric cryptography, was the first of its kind, and later inspired the work of individuals such as Eric Hughes. In 1992, Eric Hughes, Timothy May, and John Gilmore founded a small group of mathematically savvy firebrands to share ideas about increasing individual privacy through the use of cryptography. Jude Milhon, an attendee of the first group meeting, was credited with naming the group “Cypherpunks”, a clever combination of cipher and cyberpunk. More like-minded individuals began to attend the group’s meetings and this free flowing sharing of thoughts eventually culminated into Eric Hughes’  [*A Cypherpunk's Manifesto*](https://www.activism.net/cypherpunk/manifesto.html).
 
 <p align="center">
-<img width="589" alt="screen shot 2018-08-31 at 17 47 04" src="https://user-images.githubusercontent.com/18194034/44937151-e7511700-ad45-11e8-8c06-efcce44d89bf.png">
+<img width="645" alt="screen shot 2018-08-31 at 17 48 42" src="https://user-images.githubusercontent.com/18194034/44937203-21221d80-ad46-11e8-923a-e2a0e0df9482.png">
 
 The document outlined the beliefs and vision of the Cypherpunk movement. Hughes explained the distinction between privacy and secrecy throughout the manifesto, famously writing that 
 
