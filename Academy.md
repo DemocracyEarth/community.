@@ -67,7 +67,7 @@ Together Herb, Santi, Pia and Virgile Devile - the Paris-based co-founder of Ope
 
 With these early civic tech experiences, the team was prepared to go well beyond the constraints of the political status quo. They adopted a theory of change best summarized by architect Buckminster Fullers’ famous quote: **“You don’t change the existing reality by fighting against it. To change something, build a new model that makes the existing model obsolete.”** In other words, building an app to interface with existing political systems won’t create change; what is needed is a tool that brings about such an obvious and enormous improvement to governance it renders the current system outdated.
 
-Their new approach was to use blockchains - the same technology underlying Bitcoin - to create a censorship resistant peer-to-peer democracy (terms that will be explained in greater detail later in the curriculum). This new focus would bring massive improvements to three fundamental pillars of governance: 
+Their new approach was to use blockchains - the same technology underlying bitcoin - to create a censorship resistant peer-to-peer democracy (terms that will be explained in greater detail later in the curriculum). This new focus would bring massive improvements to three fundamental pillars of governance: 
 
 **Voting**: The current system for voting is both insecure and difficult to audit because it is highly centralized. It can be hacked and manipulated in many ways, and the only people able to verify voting rolls are a very small group of election officials. With a blockchain-based system, manipulating results is functionally impossible as all votes are recorded in an immutable public ledger that anyone can audit.
 
@@ -111,11 +111,11 @@ Ultimately, Sovereign will help realize the principles expressed in the Universa
 
 In this section we will learn about the technology and history behind blockchains, in order to understand how blockchain networks provide censorship resistance and security for the Democracy Earth platform.
 
-## 2.1 Origins of Bitcoin and blockchain technology.
+## 2.1 Origins of bitcoin and blockchain technology.
 ### "Privacy is necessary for an open society in the electronic age.”
 Eric Hughes | *The Cypherpunk Manifesto*
 
-Bitcoin and blockchains are products of a particular intellectual ecosystem, one that arose from a series of technological innovations and far-seeing individuals. Though these seem like new innovations, in fact the fundamental cryptographic technologies underlying the Bitcoin blockchain were created in response to a collection of important political and mathematical developments in the second half of the twentieth century.
+Bitcoin and blockchains are products of a particular intellectual ecosystem, one that arose from a series of technological innovations and far-seeing individuals. Though these seem like new innovations, in fact the fundamental cryptographic technologies underlying the bitcoin blockchain were created in response to a collection of important political and mathematical developments in the second half of the twentieth century.
 
 Throughout World War II, the Allied and Axis powers secretly developed systems of mathematic codes and ciphers to relay sensitive wartime information between field commanders and their superiors. Only those who possessed the proper key could read the information – so the key was only shared between the two parties communicating. These messages were sometimes called cryptographs. Some of the Allied nations - namely the U.S. and Britain - created their own ways of using cryptography (the codes and ciphers) to securely send messages.
 
@@ -135,7 +135,7 @@ The document outlined the beliefs and vision of the Cypherpunk movement. Hughes 
 
 ***"Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.”***
 
-Yet perhaps the most powerful message of the manifesto was that in order for society to successfully enter into the electronic era, it would be necessary to increase individual privacy. The Cypherpunk movement and its vision of an electronic era that guaranteed the human right to privacy has inspired generations of new dreamers to continue using cryptography in pioneering ways. Blockchain technology was one of these ways. Throughout the next sections of this unit we will explore the various components that were combined to create the Bitcoin network. 
+Yet perhaps the most powerful message of the manifesto was that in order for society to successfully enter into the electronic era, it would be necessary to increase individual privacy. The Cypherpunk movement and its vision of an electronic era that guaranteed the human right to privacy has inspired generations of new dreamers to continue using cryptography in pioneering ways. Blockchain technology was one of these ways. Throughout the next sections of this unit we will explore the various components that were combined to create the bitcoin network. 
 
 ## 2.2 Peer-to-peer networks
 ### “A purely  peer-to-peer   version   of  electronic  cash  would  allow  online payments  to be sent  directly from one party to another without  going through a financial institution.” 
