@@ -1,19 +1,19 @@
 # Index
 * [Introduction to Democracy Academy](#introduction)
 
-* [1.  Background & Sovereign](#1.0)
+1.[  Background & Sovereign](#1.0)
 
-* [2.  Blockchain Basics](#2.0)
+2. [  Blockchain Basics](#2.0)
 
-* [3.  Global decision-making & Universal Basic Income](#4.0)
+3. [  Global decision-making & Universal Basic Income](#4.0)
 
-* [4.  Smart Contracts & Liquid Democracy](#4.0)
+4. [  Smart Contracts & Liquid Democracy](#4.0)
 
-* [5.  Crypto Politics](#5.0)
+5. [  Crypto Politics](#5.0)
 
-* [6.  Decentralized IDs](#6.0)
+6. [ Decentralized IDs](#6.0)
 
-* [7.  Blockchain Governance](#7.0)
+7. [  Blockchain Governance](#7.0)
 
 
 
