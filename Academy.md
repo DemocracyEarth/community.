@@ -5,19 +5,19 @@
 
 * [Introduction to Democracy Academy](#introduction)
 
-[1.  Background & Sovereign:](#1.0) In this first unit we will discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of the founders, and how their experiences and lessons shape the software we develop and our movement. With that we will look into the three main key aspects of our platform, Sovereign.
+* [1.  Background & Sovereign:](#1.0) In this first unit we will discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of the founders, and how their experiences and lessons shape the software we develop and our movement. With that we will look into the three main key aspects of our platform, Sovereign.
 
-[2.  Blockchain Basics:](#2.0) In this section we will learn about the technology and history behind blockchains, in order to understand how blockchain networks provide censorship resistance and security for the Democracy Earth platform.
+* [2.  Blockchain Basics:](#2.0) In this section we will learn about the technology and history behind blockchains, in order to understand how blockchain networks provide censorship resistance and security for the Democracy Earth platform.
 
-[3.  Global decision-making & Universal Basic Income:](#3.0) On this section we focus on the state of governance in the world. We will focus on how globalization connects to governance, the concepts of the Land and the Cloud and the control each exerts in our lives, what a jurisdiction means in the age of blockchains, and how Universal Basic Income can support democracy.
+* [3.  Global decision-making & Universal Basic Income:](#3.0) On this section we focus on the state of governance in the world. We will focus on how globalization connects to governance, the concepts of the Land and the Cloud and the control each exerts in our lives, what a jurisdiction means in the age of blockchains, and how Universal Basic Income can support democracy.
 
-[4.  Smart Contracts & Liquid Democracy:](#4.0) On this section we introduce a complementary piece of technology to blockchains: smart contracts, which run on top of blockchains. We will develop an introductory knowledge of smart contracts and learn how they enable a voting structure called liquid democracy.
+* [4.  Smart Contracts & Liquid Democracy:](#4.0) On this section we introduce a complementary piece of technology to blockchains: smart contracts, which run on top of blockchains. We will develop an introductory knowledge of smart contracts and learn how they enable a voting structure called liquid democracy.
 
-[5.  Crypto Politics:](#5.0) With this unit we return to the topic of bitcoin and blockchains but from a much wider perspective, this time exploring the inherently geopolitical nature of bitcoin. This includes examining the relationship of money and state, understanding what is meant by the genesis block, exploring the political nature of cryptography, and understanding the relationship between energy accounting and currency for not just crypto, but current fiat systems as well.
+* [5.  Crypto Politics:](#5.0) With this unit we return to the topic of bitcoin and blockchains but from a much wider perspective, this time exploring the inherently geopolitical nature of bitcoin. This includes examining the relationship of money and state, understanding what is meant by the genesis block, exploring the political nature of cryptography, and understanding the relationship between energy accounting and currency for not just crypto, but current fiat systems as well.
 
-[6.  Decentralized IDs:](#6.0) On unit 6 we explore decentralized ID's, one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and a decentralized internet. 
+* [6.  Decentralized IDs:](#6.0) On unit 6 we explore decentralized ID's, one of the most crucial remaining pieces required for realizing the full potential of the blockchain ecosystem and a decentralized internet. 
 
-[7.  Blockchain Governance:](#7.0) On our final unit we are broadening our view to look at the governance of blockchains in general, and how these networks and protocols are mantained and continuously updated.
+* [7.  Blockchain Governance:](#7.0) On our final unit we are broadening our view to look at the governance of blockchains in general, and how these networks and protocols are mantained and continuously updated.
 
 <a name="introduction"></a>
 # Introduction
