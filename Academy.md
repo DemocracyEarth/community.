@@ -6,7 +6,7 @@
 
 [2.  Blockchain Basics](#2.0)
 
-[3.  Global decision-making & Universal Basic Income](#4.0)
+[3.  Global decision-making & Universal Basic Income](#3.0)
 
 [4.  Smart Contracts & Liquid Democracy](#4.0)
 
