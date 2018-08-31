@@ -378,6 +378,8 @@ Technological connectivity breaks the main premise that once justified the creat
 
 ### 4.3.1 Liquid Democracy 
 
+<img width="542" alt="screen shot 2018-08-31 at 16 27 23" src="https://user-images.githubusercontent.com/18194034/44934434-cdf69d80-ad3a-11e8-8ebf-cba1aecc90ef.png">
+
 Democracy is about getting the best possible decision, with the greatest amount of legitimacy. In direct democracy, everyone votes — directly. But there is no way that everyone has the time, interest, or expertise to vote on every single issue. On the other hand, in a representative democracy, we elect other people to vote for us. 
 
 There is a system that combines both of these models -- it is called Liquid Democracy. In a liquid democracy individuals can either vote directly on an issue or delegate their vote to an individual they trust to decide for them. They can revoke that vote at any time if they feel their representative voted incorrectly or if they change their mind on the issue. For example, if Laura is a citizen who knows a lot about housing policy she can choose to vote directly on all issues concerning housing policy. If an issue on nuclear power comes up, she might choose to delegate her vote to her favorite physics professor from college with full confidence that she can revoke it from him if she disagrees with his decision. Instead of having representatives based on territory, we utilize a digital, secure, blockchain-based application to start choosing representatives that we know and trust. They represent us for the specific topics that we assign them.
