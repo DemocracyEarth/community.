@@ -3,7 +3,7 @@
 
 # Index
 
-[Introduction to Democracy Academy](#introduction)
+* [Introduction to Democracy Academy](#introduction)
 
 [1.  Background & Sovereign:](#1.0) In this first unit we will discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We will provide an overview of the vision and journey of the founders, and how their experiences and lessons shape the software we develop and our movement. With that we will look into the three main key aspects of our platform, Sovereign.
 
