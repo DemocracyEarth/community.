@@ -1,5 +1,6 @@
 # Index
-* [Introduction to Democracy Academy](#introduction)
+
+[Introduction to Democracy Academy](#introduction)
 
 [1.  Background & Sovereign](#1.0)
 
