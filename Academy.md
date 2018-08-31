@@ -1,3 +1,4 @@
+<p align="center">
 <img width="696" alt="screen shot 2018-08-31 at 15 39 39" src="https://user-images.githubusercontent.com/18194034/44932589-224a4f00-ad34-11e8-9785-002a8263b432.png">
 
 # Index
