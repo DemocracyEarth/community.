@@ -378,7 +378,8 @@ Technological connectivity breaks the main premise that once justified the creat
 
 ### 4.3.1 Liquid Democracy 
 
-<img width="542" alt="screen shot 2018-08-31 at 16 27 23" src="https://user-images.githubusercontent.com/18194034/44934434-cdf69d80-ad3a-11e8-8ebf-cba1aecc90ef.png">
+<img width="543" alt="screen shot 2018-08-31 at 16 29 15" src="https://user-images.githubusercontent.com/18194034/44934517-18781a00-ad3b-11e8-98e9-a4f4f2c39ca4.png">
+
 
 Democracy is about getting the best possible decision, with the greatest amount of legitimacy. In direct democracy, everyone votes — directly. But there is no way that everyone has the time, interest, or expertise to vote on every single issue. On the other hand, in a representative democracy, we elect other people to vote for us. 
 
