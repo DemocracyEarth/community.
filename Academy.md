@@ -5,7 +5,8 @@
 
 * [Introduction to Democracy Academy](#introduction)
 
-* [1.  Background & Sovereign:](#1.0) In this first unit we discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We provide an overview of the vision and journey of the founders, and how their experiences and lessons shape the software we develop currently, as well as our movement. With that, we look into the three main key aspects of our platform, Sovereign.
+* [1.  Background & Sovereign:](#1.0) 
+In this first unit we discuss the emergence of civic tech/democracy tech and the history of the Democracy Earth Foundation. We provide an overview of the vision and journey of the founders, and how their experiences and lessons shape the software we develop currently, as well as our movement. With that, we look into the three main key aspects of our platform, Sovereign.
 
 * [2.  Blockchain Basics:](#2.0) In this section we learn about the history and technolgy behind blockchains, in order to understand how blockchain networks provide censorship resistance and security for the Democracy Earth platform.
 
