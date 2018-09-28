@@ -99,7 +99,7 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 - **Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
 
-- **CoinDesk**[Argentina Back inCrisis: Should teh Government Buy Bitcoin?](https://www.coindesk.com/can-bitcoin-save-argentina/) September 2018
+- **CoinDesk** [Argentina Back inCrisis: Should the Government Buy Bitcoin?](https://www.coindesk.com/can-bitcoin-save-argentina/) September 2018
 
 
 ## **WHAT WE SAY ABOUT OUR WORK**
