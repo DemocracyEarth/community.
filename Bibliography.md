@@ -51,7 +51,7 @@ Santiago Siri  Tales From the Crypt [Blockchains Are Geopolitical](https://sound
 
 Pia Mancini | World Economic Forum podcast [Your Government Needs Updating](http://bit.ly/YourGovUpdate) February 2018
 
-Eduardo Medina | Tales From the Crypt [A Conversation on Venezuela and Bitcoin] (https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc) February 2018
+Eduardo Medina | Tales From the Crypt [A Conversation on Venezuela and Bitcoin](https://lncast.com/#!/podcast/5a51917f7ff0c50658d349c1/5a96dc8d38bbb406618ea4dc) February 2018
 
 Santiao Siri | Democracy Salon [Cryptopolitics at Blockstack Berlin: Talking with Santiago Siri, Founder of Democracy Earth](https://soundcloud.com/user-561734241/cryptopolitics-at-blockstack) March 2018
 
