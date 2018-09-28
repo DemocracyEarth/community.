@@ -32,6 +32,8 @@ Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.co
 
 Santiago Siri | The Bitcoin News Show hosted by [The One Vortex](https://twitter.com/theonevortex) on the Cryptocast Network August 2018
 
+Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos[(https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
+
 
 ## **PODCASTS**
 
@@ -97,6 +99,9 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 - **Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
 
+- **CoinDesk**[Argentina Back inCrisis: Should teh Government Buy Bitcoin?](https://www.coindesk.com/can-bitcoin-save-argentina/) September 2018
+
+
 ## **WHAT WE SAY ABOUT OUR WORK**
 
 Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
@@ -119,6 +124,7 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 
 - [Democracy Earth Token Economics](token.democracy.earth)
 
+
 ##  **PILOTS & CASE STUDIES**
 
 - [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
@@ -126,6 +132,8 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 - [The Impacts of PopVote in Hong Kong](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
 
 - [Google Tests Liquid Decision Making](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
+
+- The Fourth Group [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
 
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
