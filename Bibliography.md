@@ -99,12 +99,14 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 - **Scientific American**[Are Blockchains the Answer for Secure Elections?](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
 
-- **CoinDesk** [Argentina Back inCrisis: Should the Government Buy Bitcoin?](https://www.coindesk.com/can-bitcoin-save-argentina/) September 2018
+- **CoinDesk** [Argentina Back in Crisis: Should the Government Buy Bitcoin?](https://www.coindesk.com/can-bitcoin-save-argentina/) September 2018
+
+- **Animales Sueltos** [Mano a Mano: Siri Con Fantin En Espanol](https://www.youtube.com/watch?v=a85GtnNuMRU)
 
 
-## **WHAT WE SAY ABOUT OUR WORK**
+## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
 
-Here are some of the articles from our Medium publication, [Hacktivism](https://words.democracy.earth)
+Selected articles
 
 - [The story of Democracy Earth Foundation creation: a team comes together](https://words.democracy.earth/blockchain-liquid-democracy-and-the-end-of-the-outsider-a171a0e11816)
 
@@ -120,9 +122,13 @@ Here are some of the articles from our Medium publication, [Hacktivism](https://
 
 - [An inclusive global governance](https://words.democracy.earth/an-inclusive-global-governance-769c2db4e87d)
 
-- [SDG Special Report: Digital ID As a Basic Human Right](http://bit.ly/digitalIDrefugees)
-
 - [Democracy Earth Token Economics](token.democracy.earth)
+
+- [The Blockchain As Medium and Message](https://words.democracy.earth/the-blockchain-as-medium-and-message-1a43534c7540)
+
+- [On Tyranny of the Majority](https://words.democracy.earth/the-tyranny-of-the-majority-30e41c12ba9d)
+
+- [Digital ID: The Power, Promise and Challenge](https://words.democracy.earth/the-power-promise-and-challenge-of-digital-identity-7f85ca673ae)
 
 
 ##  **PILOTS & CASE STUDIES**
