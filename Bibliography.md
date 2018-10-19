@@ -130,16 +130,20 @@ Selected articles
 
 - [Digital ID: The Power, Promise and Challenge](https://words.democracy.earth/the-power-promise-and-challenge-of-digital-identity-7f85ca673ae)
 
+- [Democratic App Ranking: Democracy Earth to Represent Blockstack Community Vote on App Mining](https://words.democracy.earth/democratic-app-ranking-democracy-earth-to-represent-blockstack-community-vote-on-app-mining-7ec8360bdc30)
+
 
 ##  **PILOTS & CASE STUDIES**
 
-- [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
+- **Colombia Peace Referendum Plebiscite Vote** [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
 
-- [The Impacts of PopVote in Hong Kong](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
+- [**The Impacts of PopVote in Hong Kong**] (https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
 
-- [Google Tests Liquid Decision Making](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
+- [**Google Tests Liquid Decision Making**](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
 
-- The Fourth Group [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
+- **The Fourth Group** [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
+
+- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run]          (https://blockstack.org/blog/introducing-app-mining/)
 
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
