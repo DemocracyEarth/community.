@@ -1,4 +1,4 @@
-## Democracy Earth Foundation 🌿
+## Democracy Earth Foundation 🌎
 # Bibliography
 **Videos, Podcasts, Articles & TED Talks**
 
