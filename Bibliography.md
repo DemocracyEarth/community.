@@ -32,6 +32,8 @@ Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.co
 
 Santiago Siri | The Bitcoin News Show hosted by [The One Vortex](https://twitter.com/theonevortex) on the Cryptocast Network August 2018
 
+Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.com/watch?v=Vl02FfEHQjs&list=PLqQr7a4PpiBhzuJPcxgLgSxRTDaCCG24P)
+
 Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
 
 
