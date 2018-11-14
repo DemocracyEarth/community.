@@ -36,6 +36,9 @@ Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.co
 
 Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
 
+Santiago Siri Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s)
+
+
 
 ## **PODCASTS**
 
@@ -65,6 +68,7 @@ Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain
 
 Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockchain voting, destructive social media and crypto talk](https://soundcloud.com/this_strange_life/santiago-siri-rethinking-democracy-blockchain-voting-destructive-social-media-crypto-talk)  August 2018
 
+Herb Stepehs | Stance Podcast | [Voting...Power to the People and Blockchains](https://stancepodcast.com/episodes/stance-22-voting-power-sayaka-murata-fatimah-asghar-john-cooper-clarke) September 2018
 
 
 ## **WHAT OTHERS SAY ABOUT US**
@@ -105,6 +109,10 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 - **Animales Sueltos** [Mano a Mano: Siri Con Fantin En Espanol](https://www.youtube.com/watch?v=a85GtnNuMRU)
 
+- **JerusalemPost** [REVOLUTIONIZING DEMOCRACY THROUGH BLOCKCHAIN AND OPEN-SOURCE TECHNOLOGY](https://www.jpost.com/Magazine/Liquid-democracy-liquid-courage-570876)
+
+- **Forbes** [How Can We Increase Voter Turnout? Bitcoin May Be The Answer.](https://www.forbes.com/sites/jonathanchester/2018/11/05/how-can-we-increase-voter-turnout-bitcoin-may-be-the-answer/#43b8f71c7c7f)
+
 
 ## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
 
@@ -133,6 +141,8 @@ Selected articles
 - [Digital ID: The Power, Promise and Challenge](https://words.democracy.earth/the-power-promise-and-challenge-of-digital-identity-7f85ca673ae)
 
 - [Democratic App Ranking: Democracy Earth to Represent Blockstack Community Vote on App Mining](https://words.democracy.earth/democratic-app-ranking-democracy-earth-to-represent-blockstack-community-vote-on-app-mining-7ec8360bdc30)
+
+- [Announcing the upcoming launch of $VOTE token and blockchain-based global democracy.](https://words.democracy.earth/announcing-the-upcoming-launch-of-vote-token-and-blockchain-based-global-democracy-eae4dd8e109) 
 
 
 ##  **PILOTS & CASE STUDIES**
