@@ -91,7 +91,7 @@ Web-based voting platforms are centrally run. They have one organization that ma
 
 **Why must the platform be open source?** 
 
-Open source describes software with source code that anyone can freely inspect or use. Another property of open source is that anyone is able to contribute code, so it is a truly open and transparent process of creation. For Democracy Earth, the open source ethos extends beyond code, carrying into decision-making too. For example, topics concerning the platform are regularly debated on the Democracy Earth Github [repository](code.democracy.earth). Even our white paper The Social Smart Contract was created in open source, with contributors adding to it from around the world.
+Open source describes software with source code that anyone can freely inspect or use. Another property of open source is that anyone is able to contribute code, so it is a truly open and transparent process of creation. For Democracy Earth, the open source ethos extends beyond code, carrying into decision-making too. For example, topics concerning the platform are regularly debated on the Democracy Earth Github [repository](code.democracy.earth)--> (Link´s broken). Even our white paper The Social Smart Contract was created in open source, with contributors adding to it from around the world.
 
 **Why a “social media feel”?**
 
