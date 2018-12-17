@@ -26,7 +26,7 @@ Santiago Siri | Fast Forward Accelerate Good Global [Blockchain for Social Good:
 
 Herb Stephens | World Affairs [Blockchain: A Tool For Social Good?](http://bit.ly/WorldAffairsFB) May 2018
 
-Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation State](https://www.youtube.com/playlist?list=PLqQr7a4PpiBjwcmolcFo4FaWdB8zuUerR) May 2015
+Santiago Siri | Harvard Kennedy School | [Cryptopolitics: Beyond the Nation State](https://www.youtube.com/playlist?list=PLqQr7a4PpiBjwcmolcFo4FaWdB8zuUerR) May 2018
 
 Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.com/watch?v=tbt_WfbC86Q) Personal Democracy Forum/New York June 2018
 
@@ -38,7 +38,11 @@ Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos](https://www.yout
 
 Santiago Siri Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s)
 
+Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decentralized-ama-with-democracy-earth/) first-ever all-dapp event hosted by Stealthy, enabled by Blockstack 
 
+Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Paper Analysis with Eric Turner of Messari](https://www.youtube.com/watch?v=VMeFIHOvYVs)
+
+Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp)
 
 ## **PODCASTS**
 
@@ -69,6 +73,8 @@ Herb Stephens | Democracy Salon [Organizing and Accountability on the Blockchain
 Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockchain voting, destructive social media and crypto talk](https://soundcloud.com/this_strange_life/santiago-siri-rethinking-democracy-blockchain-voting-destructive-social-media-crypto-talk)  August 2018
 
 Herb Stepehs | Stance Podcast | [Voting...Power to the People and Blockchains](https://stancepodcast.com/episodes/stance-22-voting-power-sayaka-murata-fatimah-asghar-john-cooper-clarke) September 2018
+
+Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Age}(https://futurethinkers.org/pia-mancini-upgrading-democracy/)
 
 
 ## **WHAT OTHERS SAY ABOUT US**
@@ -112,6 +118,8 @@ Herb Stepehs | Stance Podcast | [Voting...Power to the People and Blockchains](h
 - **JerusalemPost** [REVOLUTIONIZING DEMOCRACY THROUGH BLOCKCHAIN AND OPEN-SOURCE TECHNOLOGY](https://www.jpost.com/Magazine/Liquid-democracy-liquid-courage-570876)
 
 - **Forbes** [How Can We Increase Voter Turnout? Bitcoin May Be The Answer.](https://www.forbes.com/sites/jonathanchester/2018/11/05/how-can-we-increase-voter-turnout-bitcoin-may-be-the-answer/#43b8f71c7c7f)
+
+- **Udacity** [What Is Democracy In The Internet Age?](https://blog.udacity.com/2018/11/what-is-democracy-in-the-internet-age.html?utm_source=twitter&utm_medium=social&utm_content=blog&utm_campaign=democracy-internet-age)
 
 
 ## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
