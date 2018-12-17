@@ -121,6 +121,8 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **Udacity** [What Is Democracy In The Internet Age?](https://blog.udacity.com/2018/11/what-is-democracy-in-the-internet-age.html?utm_source=twitter&utm_medium=social&utm_content=blog&utm_campaign=democracy-internet-age)
 
+- **Apolitical** [Pia Mancini Named to World's 100 Most Influential People In Digital Governance[(https://apolitical.co/lists/digital-government-world100/)
+
 
 ## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
 
@@ -151,6 +153,8 @@ Selected articles
 - [Democratic App Ranking: Democracy Earth to Represent Blockstack Community Vote on App Mining](https://words.democracy.earth/democratic-app-ranking-democracy-earth-to-represent-blockstack-community-vote-on-app-mining-7ec8360bdc30)
 
 - [Announcing the upcoming launch of $VOTE token and blockchain-based global democracy.](https://words.democracy.earth/announcing-the-upcoming-launch-of-vote-token-and-blockchain-based-global-democracy-eae4dd8e109) 
+
+- [CryptoGovernance: Give The Ugly A Chance](https://words.democracy.earth/crypto-governance-part-1-give-the-ugly-a-chance-306ba3c26b08)
 
 
 ##  **PILOTS & CASE STUDIES**
