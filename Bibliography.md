@@ -167,7 +167,7 @@ Selected articles
 
 - **The Fourth Group** [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
 
-- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run]          (https://blockstack.org/blog/introducing-app-mining/)
+- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/)
 
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
