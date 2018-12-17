@@ -74,7 +74,7 @@ Santi Siri | This Strange Life (Bankgkok Thailand) [Rethinking democracy, blockc
 
 Herb Stepehs | Stance Podcast | [Voting...Power to the People and Blockchains](https://stancepodcast.com/episodes/stance-22-voting-power-sayaka-murata-fatimah-asghar-john-cooper-clarke) September 2018
 
-Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Age](https://futurethinkers.org/pia-mancini-upgrading-democracy/)
+Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Age](https://futurethinkers.org/pia-mancini-upgrading-democracy/) November 2018
 
 
 ## **WHAT OTHERS SAY ABOUT US**
@@ -121,7 +121,7 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **Udacity** [What Is Democracy In The Internet Age?](https://blog.udacity.com/2018/11/what-is-democracy-in-the-internet-age.html?utm_source=twitter&utm_medium=social&utm_content=blog&utm_campaign=democracy-internet-age)
 
-- **Apolitical** [Pia Mancini Named to World's 100 Most Influential People In Digital Governance[(https://apolitical.co/lists/digital-government-world100/)
+- **Apolitical** [Pia Mancini Named to World's 100 Most Influential People In Digital Governance](https://apolitical.co/lists/digital-government-world100/)
 
 
 ## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
