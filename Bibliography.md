@@ -1,5 +1,5 @@
 ## Democracy Earth Foundation 🌎
-# Bibliography
+## Bibliography
 **Videos, Podcasts, Articles & TED Talks**
 
 ## **TED TALKS & VIDEOS**
@@ -45,7 +45,8 @@ Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Pape
 Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp) December 2018
 
 ## ** En Espanol**
-Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
+Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk)   
+
 C20 | Santi Siri interviwed by Sebastian Serrano CEO of Ripio: [Being Argentine pays off in the crypto world](https://www.youtube.com/watch?v=wYlliu3HYig&list=PLqQr7a4PpiBhMDUQgiCw3Vj2GUS1JqIkJ) December 2018
 
 
