@@ -36,7 +36,7 @@ Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.co
 
 Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
 
-Santiago Siri Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s)
+Santiago Siri Facebook LIVE Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s)
 
 Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decentralized-ama-with-democracy-earth/) first-ever all-dapp event hosted by Stealthy, enabled by Blockstack 
 
@@ -123,6 +123,7 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **Apolitical** [Pia Mancini Named to World's 100 Most Influential People In Digital Governance](https://apolitical.co/lists/digital-government-world100/)
 
+- **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri
 
 ## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
 
@@ -167,7 +168,7 @@ Selected articles
 
 - **The Fourth Group** [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
 
-- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/)
+- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/) and [December 2019 App Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390)
 
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
