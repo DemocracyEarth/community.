@@ -125,7 +125,7 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri
 
-## **From the Medium publication,[Hacktivism](https://words.democracy.earth) **
+## **From the Medium publication, [Hacktivism](https://words.democracy.earth) **
 
 Selected articles
 
@@ -156,6 +156,12 @@ Selected articles
 - [Announcing the upcoming launch of $VOTE token and blockchain-based global democracy.](https://words.democracy.earth/announcing-the-upcoming-launch-of-vote-token-and-blockchain-based-global-democracy-eae4dd8e109) 
 
 - [CryptoGovernance: Give The Ugly A Chance](https://words.democracy.earth/crypto-governance-part-1-give-the-ugly-a-chance-306ba3c26b08)
+
+## **Product Launch**
+- [testnet.democracy.earth is LIVE!](https://words.democracy.earth/testnet-democracy-earth-is-live-129fd68d27f0)
+- [Tutorial | Setting up your MetaMask](https://words.democracy.earth/tutorial-setting-up-your-metamask-186414589d3a)
+- [VOTE token request form](https://democracyearth.typeform.com/to/KmxsxN)
+- [Tutorial | How to Receive Tokenas/Add VOTE token to your MetaMask wallet] (https://www.youtube.com/watch?v=CmjN5WgznT0&feature=youtu.be) 
 
 
 ##  **PILOTS & CASE STUDIES**
