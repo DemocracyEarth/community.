@@ -161,7 +161,7 @@ Selected articles
 - [testnet.democracy.earth is LIVE!](https://words.democracy.earth/testnet-democracy-earth-is-live-129fd68d27f0)
 - [Tutorial | Setting up your MetaMask](https://words.democracy.earth/tutorial-setting-up-your-metamask-186414589d3a)
 - [VOTE token request form](https://democracyearth.typeform.com/to/KmxsxN)
-- [Tutorial | How to Receive Tokenas/Add VOTE token to your MetaMask wallet] (https://www.youtube.com/watch?v=CmjN5WgznT0&feature=youtu.be) 
+- [Tutorial | How to Receive Tokenas/Add VOTE token to your MetaMask wallet](https://www.youtube.com/watch?v=CmjN5WgznT0&feature=youtu.be) 
 
 
 ##  **PILOTS & CASE STUDIES**
