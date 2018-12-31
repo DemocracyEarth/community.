@@ -32,17 +32,22 @@ Pia Mancini | [Governance Beyond Nation-State Monopolies](https://www.youtube.co
 
 Santiago Siri | The Bitcoin News Show hosted by [The One Vortex](https://twitter.com/theonevortex) on the Cryptocast Network August 2018
 
-Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.com/watch?v=Vl02FfEHQjs&list=PLqQr7a4PpiBhzuJPcxgLgSxRTDaCCG24P)
+Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.com/watch?v=Vl02FfEHQjs&list=PLqQr7a4PpiBhzuJPcxgLgSxRTDaCCG24P) September 2018
 
-Santiago Siri En Espaol | #SiriConFantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
 
-Santiago Siri Facebook LIVE Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s)
 
-Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decentralized-ama-with-democracy-earth/) first-ever all-dapp event hosted by Stealthy, enabled by Blockstack 
+Santiago Siri Facebook LIVE Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s) November 2018
 
-Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Paper Analysis with Eric Turner of Messari](https://www.youtube.com/watch?v=VMeFIHOvYVs)
+Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decentralized-ama-with-democracy-earth/) first-ever all-dapp event hosted by Stealthy, enabled by Blockstack December 2018
 
-Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp)
+Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Paper Analysis with Eric Turner of Messari](https://www.youtube.com/watch?v=VMeFIHOvYVs) December 2018
+
+Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp) December 2018
+
+## ** En Espanol**
+Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk) 
+C20 | Santi Siri interviwed by Sebastian Serrano CEO of Ripio: [Being Argentine pays off in the crypto world](https://www.youtube.com/watch?v=wYlliu3HYig&list=PLqQr7a4PpiBhMDUQgiCw3Vj2GUS1JqIkJ) December 2018
+
 
 ## **PODCASTS**
 
