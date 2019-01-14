@@ -129,9 +129,9 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **Apolitical** [Pia Mancini Named to World's 100 Most Influential People In Digital Governance](https://apolitical.co/lists/digital-government-world100/)
 
-- **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri
+- **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri  
 
-## **From the Medium publication, [Hacktivism](https://words.democracy.earth) **
+## **From the Medium publication, [Hacktivism](https://words.democracy.earth)**  
 
 Selected articles
 
