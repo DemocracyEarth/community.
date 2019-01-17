@@ -174,7 +174,7 @@ Selected articles
 
 - **Colombia Peace Referendum Plebiscite Vote** [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
 
-- **The Impacts of [PopVote in Hong Kong**](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)
+- **The Impacts of [PopVote in Hong Kong](https://docs.google.com/presentation/d/1ray5jGQdDkTU7YDa5V7mi9FAW4Acyvgck09r7vLU0kw/edit#slide=id.p)**
 
 - [**Google Tests Liquid Decision Making**](https://www.youtube.com/watch?v=I9Nt30DWPx8&feature=youtu.be)
 
