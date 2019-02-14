@@ -34,8 +34,6 @@ Santiago Siri | The Bitcoin News Show hosted by [The One Vortex](https://twitter
 
 Randi Zuckerberg | [The Dot.Complicated Show on SiriusXM](https://www.youtube.com/watch?v=Vl02FfEHQjs&list=PLqQr7a4PpiBhzuJPcxgLgSxRTDaCCG24P) September 2018
 
-
-
 Santiago Siri Facebook LIVE Tojan Horse Livestream Video [Ask Me Anything](https://www.youtube.com/watch?v=hY5c5EYlsK0&t=777s) November 2018
 
 Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decentralized-ama-with-democracy-earth/) first-ever all-dapp event hosted by Stealthy, enabled by Blockstack December 2018
@@ -43,6 +41,8 @@ Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decent
 Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Paper Analysis with Eric Turner of Messari](https://www.youtube.com/watch?v=VMeFIHOvYVs) December 2018
 
 Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp) December 2018
+
+Liliana Carrillo TEDxTalk | Antwerp, Belgum [Human trust - the missing upgrade for our democracy](https://www.youtube.com/watch?time_continue=307&v=fqR8OQ1u63Q) December 2018
 
 ## ** En Espanol**
 Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk)   
@@ -131,6 +131,10 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri  
 
+**Newsweek 2018 Blockchain Impact Awards** [Recognizing Enterpreneurs and Enterprises That Are Developing Blockchain Projects To Accompish A Social Good](https://www.newsweek.com/blockchain-impact-awards-nominees-2019) January 2019
+
+**BreakerMag** [Proof of Identity, Liquid Democracy and the Social Smart Contract: Santiago' Siri's Plan for Government On a Blockchain](https://breakermag.com/an-idealistic-builder-explains-how-blockchain-will-someday-replace-government/) February 2019
+
 ## **From the Medium publication, [Hacktivism](https://words.democracy.earth)**  
 
 Selected articles
@@ -180,8 +184,7 @@ Selected articles
 
 - **The Fourth Group** [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
 
-- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/) and [December 2019 App Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390)
-
+- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/), [December 2019 App Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390) and [January 2019 App Mining Results](https://words.democracy.earth/app-minings-january-results-are-live-22f311a8075d)
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
 
