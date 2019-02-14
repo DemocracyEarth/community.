@@ -131,9 +131,9 @@ Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Ag
 
 - **CoinDesk 2018 In Review** [Humans on the Blockchain: Why Crypto Is the Best Defense Against AI Overlords](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords) by Santiago Siri  
 
-**Newsweek 2018 Blockchain Impact Awards** [Recognizing Enterpreneurs and Enterprises That Are Developing Blockchain Projects To Accompish A Social Good](https://www.newsweek.com/blockchain-impact-awards-nominees-2019) January 2019
+- **Newsweek 2018 Blockchain Impact Awards** [Recognizing Enterpreneurs and Enterprises That Are Developing Blockchain Projects To Accompish A Social Good](https://www.newsweek.com/blockchain-impact-awards-nominees-2019) January 2019
 
-**BreakerMag** [Proof of Identity, Liquid Democracy and the Social Smart Contract: Santiago' Siri's Plan for Government On a Blockchain](https://breakermag.com/an-idealistic-builder-explains-how-blockchain-will-someday-replace-government/) February 2019
+- **BreakerMag** [Proof of Identity, Liquid Democracy and the Social Smart Contract: Santiago' Siri's Plan for Government On a Blockchain](https://breakermag.com/an-idealistic-builder-explains-how-blockchain-will-someday-replace-government/) February 2019
 
 ## **From the Medium publication, [Hacktivism](https://words.democracy.earth)**  
 
