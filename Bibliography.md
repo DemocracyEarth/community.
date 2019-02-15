@@ -173,7 +173,7 @@ Selected articles
 - [VOTE token request form](https://democracyearth.typeform.com/to/KmxsxN)
 - [Tutorial | How to Receive Tokenas/Add VOTE token to your MetaMask wallet](https://www.youtube.com/watch?v=CmjN5WgznT0&feature=youtu.be) 
 
-
+**Democracy Earth Foundation 🌎**
 ##  **PILOTS & CASE STUDIES**
 
 - **Colombia Peace Referendum Plebiscite Vote** [OECD Case Study: Blockchain Voting for Peace](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf)
