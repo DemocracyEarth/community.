@@ -82,6 +82,8 @@ Herb Stepehs | Stance Podcast | [Voting...Power to the People and Blockchains](h
 
 Pia Mancini | Future Thinker's Podcast | [Upgrading Democracy For the Digital Age](https://futurethinkers.org/pia-mancini-upgrading-democracy/) November 2018
 
+Santi Siri wth Glen Weyl | Unconfirmed with host Laura Shin | [How Blockchains Can Help Create Little Democracies Everywhere](https://t.co/GSWGGK8PHT)
+
 
 ## **WHAT OTHERS SAY ABOUT US**
 
