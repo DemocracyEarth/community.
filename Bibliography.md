@@ -1,6 +1,6 @@
 ## Democracy Earth Foundation 🌎
 ## Bibliography
-**Videos, Podcasts, Articles & TED Talks**
+**Presentations, TED Talks, Videos, Podcasts, Articles**
 
 ## **TED TALKS & VIDEOS**
 
