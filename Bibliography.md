@@ -2,17 +2,26 @@
 ## Bibliography
 **Presentations, TED Talks, Videos, Podcasts, Articles**
 
-## **TED TALKS & VIDEOS**
+## **TED TALKS**
 
 Pia Mancini TED Talk [How to Upgrade Democracy for the Internet Era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) Oct 2014 
 
-Santiago Siri@ L'ÉCHAPPÉE  [Internet and blockchain-based technology, a revolution for Democracy](https://www.youtube.com/watch?v=UajbQTHnTfM) May 2016 
-
 Santiago Siri TEDx Talk [The Future of Democracy](https://www.youtube.com/watch?v=yGmGWZCE4h0) May 2016
 
-Santiago Siri World's Fair Nano | SanFrancisco [The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs) Jan 2017 
-
 Sunny Sangha TEDx Talk | Birmingham UK [Is a fair, global democracy possible?](https://www.youtube.com/watch?v=tsz7MjMJ5J8) Nov 2017
+
+Liliana Carrillo TEDxTalk | Antwerp, Belgum [Human trust - the missing upgrade for our democracy](https://www.youtube.com/watch?time_continue=307&v=fqR8OQ1u63Q) December 2018
+
+## ** En Espanol**
+Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk)   
+
+C20 | Santi Siri interviwed by Sebastian Serrano CEO of Ripio: [Being Argentine pays off in the crypto world](https://www.youtube.com/watch?v=wYlliu3HYig&list=PLqQr7a4PpiBhMDUQgiCw3Vj2GUS1JqIkJ) December 2018
+
+## **PRESENTATIONS and INTERVIEWS**
+
+Santiago Siri@ L'ÉCHAPPÉE  [Internet and blockchain-based technology, a revolution for Democracy](https://www.youtube.com/watch?v=UajbQTHnTfM) May 2016 
+
+Santiago Siri World's Fair Nano | SanFrancisco [The Future of Democracy](https://www.youtube.com/watch?v=HaKrFmnvAfs) Jan 2017 
 
 Santiago Siri | Crypto_NYC Blockchain for Good Meetup [Bitocoin, Geopolitics, and the Divorce Between Money and State](https://www.youtube.com/watch?v=7PuM3bKUcX0&t=1380s) Dec 2017
 
@@ -40,15 +49,7 @@ Santiago Siri Decentralized [Ask Me Anything](https://blog.blockstack.org/decent
 
 Santiago Siri | Consensus Invest 2018 Inaugural Deal Room | [Realtime White Paper Analysis with Eric Turner of Messari](https://www.youtube.com/watch?v=VMeFIHOvYVs) December 2018
 
-Santiao Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp) December 2018
-
-Liliana Carrillo TEDxTalk | Antwerp, Belgum [Human trust - the missing upgrade for our democracy](https://www.youtube.com/watch?time_continue=307&v=fqR8OQ1u63Q) December 2018
-
-## ** En Espanol**
-Mano e Mano: Siri Con Fantino on [Animales Sueltos](https://www.youtube.com/watch?v=HrV6Dx0bUYk)   
-
-C20 | Santi Siri interviwed by Sebastian Serrano CEO of Ripio: [Being Argentine pays off in the crypto world](https://www.youtube.com/watch?v=wYlliu3HYig&list=PLqQr7a4PpiBhMDUQgiCw3Vj2GUS1JqIkJ) December 2018
-
+SantiaGo Siri | DevCon4 | [Post-Nation State Governance](https://www.youtube.com/watch?v=t0_dSFJI2L0&list=PLqQr7a4PpiBgURu3c5pBx-rDZTNRLM-rp) December 2018
 
 ## **PODCASTS**
 
