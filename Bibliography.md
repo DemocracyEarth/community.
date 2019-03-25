@@ -169,6 +169,8 @@ Selected articles
 
 - [CryptoGovernance: Give The Ugly A Chance](https://words.democracy.earth/crypto-governance-part-1-give-the-ugly-a-chance-306ba3c26b08)
 
+- [Human-first: Decentralizing Identity and Governance in the Artificial Intelligence Era](https://words.democracy.earth/humans-first-decentralizing-identity-and-governance-in-the-artificial-intelligence-era-4a2ddbbdda90)
+
 ## **Product Launch**
 - [testnet.democracy.earth is LIVE!](https://words.democracy.earth/testnet-democracy-earth-is-live-129fd68d27f0)
 - [Tutorial | Setting up your MetaMask](https://words.democracy.earth/tutorial-setting-up-your-metamask-186414589d3a)
@@ -185,7 +187,7 @@ Selected articles
 
 - **The Fourth Group** [Defining Citizenship In the Digital Age](https://words.democracy.earth/defining-citizenship-in-the-digital-age-cb7dbf555825) 
 
-- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/), [December 2019 App Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390) and [January 2019 App Mining Results](https://words.democracy.earth/app-minings-january-results-are-live-22f311a8075d)
+- **Blockstack Governance** [App Mining: Fueling the Development of Decentralized Apps: First Look Alpha Run](https://blockstack.org/blog/introducing-app-mining/), [December 2019 App Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390), [January 2019 App Mining Results](https://words.democracy.earth/app-minings-january-results-are-live-22f311a8075d) and [February 2019 App Mining Results](https://words.democracy.earth/app-minings-february-results-are-in-8fea02700610)
 
 ## [**Democracy Earth Ambassador and Student Ambassador Profiles**](https://words.democracy.earth/ambassadors/home)
 
